@@ -1,0 +1,41 @@
+
+Legend:
+=> : Name Change
+-> : File/Folder Moved
+<> : New File/Folder
+
+
+
+site => public
+
+OSU CS Faculty => faculty:
+    Datastreams:
+
+        <> Emails:
+            Emails1.txt => osu_eecs_faculty_emails.txt
+
+        <> Names:
+            Names1.txt => osu_eecs_names.txt
+
+        <> Emails_Names:
+            osu_names_emails.csv
+
+        <> Raw_Webpages:
+            Raw1.txt => osu_eecs_faculty_raw.txt
+            Raw2.txt => osu_eecs_faculty_raw2.txt
+
+llm:
+    rankers:
+        <> pdfs:
+            117.pdf -> pdfs
+            212.pdf -> pdfs
+            308.pdf -> pdfs
+            2212.06872v5.pdf -> pdfs
+            tot.pdf -> pdfs
+
+
+get_paper: 
+    <> Conferences:
+        Moved all conference CSV files
+
+        
