@@ -2,6 +2,7 @@ let data = [];
 let categories = [];
 let currentPage = 1;
 const rowsPerPage = 25; // Set the number of rows per page
+let selectedRegion = 'all'; // Default to 'all' regions
 
 async function loadCSV(filePath) {
     const response = await fetch(filePath);
@@ -20,7 +21,7 @@ async function loadCSV(filePath) {
 }
 
 async function initialize() {
-    data = await loadCSV('universities_ranked.csv');
+    data = await loadCSV('university_ranking.csv');
 
     // Extract categories dynamically
     if (data.length > 0) {
@@ -29,6 +30,7 @@ async function initialize() {
     }
 
     displayFilters();
+    setupRegionFilter(); // Set up the region filter
     displayRankings();
 }
 
@@ -37,7 +39,10 @@ function displayFilters() {
     const tableBody = table.querySelector('tbody');
     tableBody.innerHTML = ''; // Clear existing rows
 
-    categories.forEach(category => {
+    // Filter categories to exclude "Continent" and any non-research fields
+    const filteredCategories = categories.filter(category => category !== 'Continent');
+    
+    filteredCategories.forEach(category => {
         const row = tableBody.insertRow();
         row.innerHTML = `
             <td>${category}</td>
@@ -50,18 +55,14 @@ function displayFilters() {
     });
 }
 
-function toggleAllCheckboxes() {
-    const checkboxes = document.querySelectorAll('#filterTable input[type="checkbox"]');
-    const allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
-
-    checkboxes.forEach(checkbox => checkbox.checked = !allChecked);
-    document.getElementById('toggleAll').textContent = allChecked ? 'Select All' : 'Deselect All';
-
-    resetPageAndDisplayRankings();
+function setupRegionFilter() {
+    const regionFilter = document.getElementById('regionFilter');
+    regionFilter.addEventListener('change', resetPageAndDisplayRankings); // Add listener for region change
 }
 
 function resetPageAndDisplayRankings() {
     currentPage = 1;
+    selectedRegion = document.getElementById('regionFilter').value; // Get selected region
     displayRankings();
 }
 
@@ -77,6 +78,15 @@ function displayRankings() {
             }
             return sum;
         }, 0);
+
+        // Apply region filtering: Make sure to handle case where Continent is empty or invalid
+        if (selectedRegion !== 'all' && university.Continent) {
+            // Ensure case-insensitive comparison and handle missing regions
+            const continentMatch = university.Continent.trim().toLowerCase() === selectedRegion.toLowerCase();
+            if (!continentMatch) {
+                return; // Skip this university if it doesn't match the selected region
+            }
+        }
 
         if (!seenUniversities.has(university.University)) {
             calculatedScores.push({
@@ -136,6 +146,16 @@ function getScore(universityName, categoryName) {
 
     const score = parseFloat(row[categoryName]);
     return isNaN(score) ? 0 : score;
+}
+
+function toggleAllCheckboxes() {
+    const checkboxes = document.querySelectorAll('#filterTable input[type="checkbox"]');
+    const allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
+
+    checkboxes.forEach(checkbox => checkbox.checked = !allChecked);
+    document.getElementById('toggleAll').textContent = allChecked ? 'Select All' : 'Deselect All';
+
+    resetPageAndDisplayRankings(); // Re-display rankings after toggle
 }
 
 // Initialize the application at the end of the script
