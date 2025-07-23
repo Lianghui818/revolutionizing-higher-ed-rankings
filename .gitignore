@@ -79,3 +79,7 @@ get_paper/Publications
 # Archives and Compressed Files
 # ========================
 *.gz
+
+# ===== 目录 =====
+Downloads/
+References/
