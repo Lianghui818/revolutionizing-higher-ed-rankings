@@ -9,8 +9,9 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import random
 
-INPUT_JSON = "extracted_references.json"
-OUTPUT_CSV = "faculty_full_names.csv"
+INPUT_JSON = "/nfs/stak/users/wangl9/hpc-share/revolutionizing-higher-ed-rankings/AT/ICCV2023_1006_re.json_partial.json"
+OUTPUT_CSV = "ICCV2023_1006_full_names.csv"
+
 
 def fetch_dblp_authors_and_title(title, abbreviated_authors):
     """Fetch disambiguated full author names from DBLP using the given paper title."""
@@ -86,15 +87,42 @@ def process_json(input_json, output_csv):
             for idx, paper in enumerate(papers, 1):
                 print(f"\n[Progress] Processing paper {idx}/{total_papers}")
 
-                title = paper.get("title", "").strip()
+                # FIX: Check if paper is None before accessing its attributes
+                if paper is None:
+                    print(f"Skipping None entry at index {idx}")
+                    continue
+
+                # FIX: Also check if paper is not a dictionary
+                if not isinstance(paper, dict):
+                    print(f"Skipping non-dictionary entry at index {idx}: {type(paper)}")
+                    continue
+
+                title = paper.get("title", "")
+                if title is None:  # Additional safety check
+                    title = ""
+                
+                # Handle case where title is a list instead of string
+                if isinstance(title, list):
+                    if len(title) > 0:
+                        title = str(title[0])  # Take first element and convert to string
+                    else:
+                        title = ""  # Empty list becomes empty string
+                
+                # Ensure title is a string before calling strip()
+                title = str(title).strip()
+                
                 authors = paper.get("authors", [])
+                if authors is None:  # Additional safety check
+                    authors = []
+                
                 original_authors = authors
 
                 if not title or not authors or not original_authors:
+                    print(f"Skipping entry {idx} due to missing title or authors")
                     continue
 
                 # Check if abbreviated (presence of ".")
-                if any("." in a for a in authors):
+                if any("." in a for a in authors if a is not None):
                     print(f"Processing (abbreviated): {title}")
                     full_names = fetch_dblp_authors_and_title(title, authors)
                     if full_names:
@@ -107,12 +135,14 @@ def process_json(input_json, output_csv):
                     time.sleep(random.uniform(15, 30))
                 else:
                     for a in authors:
+                        if a is None:  # Skip None author names
+                            continue
                         name = a.strip()
                         if name and name not in existing_entries:
                             writer.writerow([name, 1 / (len(original_authors) * len(authors))])
                             existing_entries.add(name)
                         else:
-                            print(f"Skipping duplicate: {name}")
+                            print(f"Skipping duplicate or empty name: {name}")
 
     print("Processing complete. Results saved.")
 

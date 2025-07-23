@@ -3,8 +3,8 @@ import sys
 import subprocess
 
 # === CONFIGURE YOUR SCRIPT PATHS HERE ===
-GET_REFERENCES_PATH = "../llm/get_references.py"
-AT_PATH = "../llm/at.py"
+GET_REFERENCES_PATH = "../llm/t2.py"
+AT_PATH = "../llm/get_at.py"
 MATCH_ABBR_NAMES_PATH = "../faculty/Scoring/match_abbr_names.py"
 CATEGORIZE_AUTHORS_PATH = "categorize_authors.py"
 # ========================================

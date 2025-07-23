@@ -1,0 +1,5738 @@
+Full Name,Normalized Score
+Vihan Jain,0.027777777777777776
+Gabriel Magalhaes,0.027777777777777776
+Alexander Ku,0.027777777777777776
+Ashish Vaswani,0.027777777777777776
+Eugene Ie,0.027777777777777776
+Jason Baldridge,0.027777777777777776
+Noam Shazeer,0.015625
+Niki Parmar,0.015625
+Jakob Uszkoreit,0.015625
+Llion Jones,0.015625
+Aidan N Gomez,0.015625
+Łukasz Kaiser,0.015625
+Illia Polosukhin,0.015625
+Saurabh Gupta,0.04
+James Davidson,0.04
+Sergey Levine,0.04
+Rahul Sukthankar,0.04
+Jitendra Malik,0.04
+Name1,0.25
+Name2,0.25
+Peter Anderson,0.04
+Ayush Shrivastava,0.04
+Devi Parikh,0.04
+Dhruv Batra,0.04
+Stefan Lee,0.04
+Kara-Ali Aliev,0.04
+Artem Sevastopolsky,0.04
+Maria Kolos,0.04
+Dmitry Ulyanov,0.04
+Victor Lempitsky,0.04
+Robert L. Cook 0001,1.0
+Christian Reiser,0.0625
+Songyou Peng,0.0625
+Yiyi Liao,0.0625
+Andreas Geiger,0.0625
+Stephan J. Garbin,0.04
+Marek Kowalski,0.04
+Matthew Johnson 0003,0.04
+Jamie Shotton,0.04
+Julien P. C. Valentin,0.04
+Diederik P. Kingma,0.25
+Jimmy Ba,0.25
+Kelvin CK Chan,0.0625
+Shangchen Zhou,0.0625
+Xiangyu Xu,0.0625
+Chen Change Loy,0.0625
+EYK Ng,0.0625
+Jen Hong Tan,0.0625
+U Rajendra Acharya,0.0625
+Jasjit S Suri,0.0625
+Luca Bogoni,1.0
+Nicolas Bonneel,0.027777777777777776
+James Tompkin,0.027777777777777776
+Kalyan Sunkavalli,0.027777777777777776
+De- qing Sun,0.027777777777777776
+Sylvain Paris,0.027777777777777776
+Hanspeter Pﬁster,0.027777777777777776
+Jose Caballero,0.02040816326530612
+Christian Ledig,0.02040816326530612
+Andrew Aitken,0.02040816326530612
+Alejandro Acosta,0.02040816326530612
+Johannes Totz,0.02040816326530612
+Zehan Wang,0.02040816326530612
+Wenzhe Shi,0.02040816326530612
+Hossein Azizpour,0.25
+Ivan Laptev,0.25
+Yutong Bai,0.027777777777777776
+Qing Liu,0.027777777777777776
+Lingxi Xie,0.027777777777777776
+Weichao Qiu,0.027777777777777776
+Yan Zheng,0.027777777777777776
+Alan L Yuille,0.027777777777777776
+Alexander C Berg,0.1111111111111111
+Tamara L Berg,0.1111111111111111
+Angel X. Chang,0.005917159763313609
+Thomas A. Funkhouser,0.005917159763313609
+Leonidas J. Guibas,0.005917159763313609
+Pat Hanrahan,0.005917159763313609
+Qi-Xing Huang,0.005917159763313609
+Zimo Li,0.005917159763313609
+Silvio Savarese,0.005917159763313609
+Manolis Savva,0.005917159763313609
+Shuran Song,0.005917159763313609
+Hao Su 0001,0.005917159763313609
+Jianxiong Xiao,0.005917159763313609
+Li Yi 0001,0.005917159763313609
+Fisher Yu 0001,0.005917159763313609
+Wei-Lun Chang,0.0625
+Hui-Po Wang,0.0625
+Wen-Hsiao Peng,0.0625
+Wei- Chen Chiu,0.0625
+United States Environmental Protection Agency,1.0
+Yu-Ting Chang,0.027777777777777776
+Qiaosong Wang,0.027777777777777776
+Wei-Chih Hung,0.027777777777777776
+Robinson Piramuthu,0.027777777777777776
+Yi-Hsuan Tsai,0.027777777777777776
+Ming-Hsuan Yang,0.027777777777777776
+Liang-Chieh Chen,0.0625
+George Papandreou,0.0625
+Florian Schroff,0.0625
+Hartwig Adam,0.0625
+Yanghao Li,0.0625
+Yuntao Chen,0.0625
+Naiyan Wang,0.0625
+Zhaoxiang Zhang,0.0625
+Joao Sousa,0.1111111111111111
+Ana Rebelo,0.1111111111111111
+Jaime S Cardoso,0.1111111111111111
+Xinqian Gu,0.04
+Hong Chang,0.04
+Bingpeng Ma,0.04
+Hongkai Zhang,0.04
+Xilin Chen,0.04
+Minxian Li,0.1111111111111111
+Xiatian Zhu,0.1111111111111111
+Shaogang Gong,0.1111111111111111
+Guan'an Wang,0.027777777777777776
+Tianzhu Zhang,0.027777777777777776
+Jian Cheng,0.027777777777777776
+Si Liu,0.027777777777777776
+Yang Yang,0.027777777777777776
+Zengguan Hou,0.027777777777777776
+Zhixiang Wang,0.04
+Zheng Wang,0.04
+Yinqiang Zheng,0.04
+Yung-Yu Chuang,0.04
+Shin’ichi Satoh,0.04
+Huafeng Li,0.02040816326530612
+Kaixiong Xu,0.02040816326530612
+Jinxing Li,0.02040816326530612
+Guangming Lu,0.02040816326530612
+Yong Xu,0.02040816326530612
+Zhengtao Yu,0.02040816326530612
+David Zhang,0.02040816326530612
+Benjamin Recht,0.0625
+Rebecca Roelofs,0.0625
+Ludwig Schmidt,0.0625
+Vaishaal Shankar,0.0625
+Dawei Dai,0.1111111111111111
+Liping Yu,0.1111111111111111
+Hui Wei,0.1111111111111111
+Hongyun Gao,0.0625
+Xin Tao,0.0625
+Xiaoyong Shen,0.0625
+Jiaya Jia,0.0625
+Ian Goodfellow,0.0625
+Yoshua Bengio,0.0625
+Aaron Courville,0.0625
+Douglas M Hawkins,1.0
+Xinlei Chen,0.25
+Kaiming He,0.25
+Alex Krizhevsky,1.0
+Adrien Bardes,0.1111111111111111
+Jean Ponce,0.1111111111111111
+Yann LeCun,0.1111111111111111
+David Berthelot,0.027777777777777776
+Nicholas Carlini,0.027777777777777776
+Nicolas Papernot,0.027777777777777776
+Avital Oliver,0.027777777777777776
+Colin A Raffel,0.027777777777777776
+Luca Bertinetto,0.04
+Jack Valmadre,0.04
+Joao F Henriques,0.04
+Andrea Vedaldi,0.04
+Philip HS Torr,0.04
+Yana Hasson,0.02040816326530612
+Gül Varol,0.02040816326530612
+Dimitrios Tzionas,0.02040816326530612
+Igor Kalevatykh,0.02040816326530612
+Michael J. Black,0.02040816326530612
+Cordelia Schmid,0.02040816326530612
+Thiemo Alldieck,0.1111111111111111
+Hongyi Xu,0.1111111111111111
+Cristian Sminchisescu,0.1111111111111111
+Matan Atzmon,0.25
+Yaron Lipman,0.25
+Bharat Lal Bhatnagar,0.0625
+Christian Theobalt,0.0625
+Gerard Pons-Moll,0.0625
+Robyn Speer,0.1111111111111111
+Joshua Chin,0.1111111111111111
+Catherine Havasi,0.1111111111111111
+Kenta Oono,0.25
+Taiji Suzuki,0.25
+Devendra Singh Chaplot,0.0625
+Dhiraj Gandhi,0.0625
+Abhinav Gupta,0.0625
+Ruslan Salakhutdinov,0.0625
+Weihua Hu,0.02040816326530612
+Bowen Liu,0.02040816326530612
+Joseph Gomes,0.02040816326530612
+Marinka Zitnik,0.02040816326530612
+Percy Liang,0.02040816326530612
+Vijay Pande,0.02040816326530612
+Jure Leskovec,0.02040816326530612
+Yue Wang,1.0
+Barbara Roessle,0.04
+Jonathan T Barron,0.04
+Ben Mildenhall,0.04
+Pratul P Srinivasan,0.04
+Matthias Nießner,0.04
+Zhou Wang,0.1111111111111111
+Eero P Simoncelli,0.1111111111111111
+Alan C Bovik,0.1111111111111111
+Chi Zhang,0.04
+Zhiwei Li,0.04
+Rui Cai,0.04
+Hongyang Chao,0.04
+Yong Rui,0.04
+Richard Zhang,0.04
+Phillip Isola,0.04
+Alexei A Efros,0.04
+Eli Shecht-man,0.04
+Oliver Wang,0.04
+Bin Zhao,0.1111111111111111
+Xuelong Li,0.1111111111111111
+Xiaoqiang Lu,0.1111111111111111
+Hao Wang,0.04
+Zheng-Jun Zha,0.04
+Liang Li,0.04
+Dong Liu,0.04
+Jiebo Luo,0.04
+Lisa Anne Hendricks,0.027777777777777776
+Eli Shechtman,0.027777777777777776
+Josef Sivic,0.027777777777777776
+Trevor Darrell,0.027777777777777776
+Bryan Russell,0.027777777777777776
+Evlampios Apostolidis,0.04
+Eleni Adamantidou,0.04
+Alexandros I Metsai,0.04
+Vasileios Mezaris,0.04
+Ioannis Patras,0.04
+Paul Bergmann,0.0625
+Michael Fauser,0.0625
+David Sattlegger,0.0625
+Carsten Steger,0.0625
+Jiaxin Shi,0.1111111111111111
+Hanwang Zhang,0.1111111111111111
+Juanzi Li,0.1111111111111111
+Jingkuan Song,0.0625
+Pengpeng Zeng,0.0625
+Lianli Gao,0.0625
+Heng Tao Shen,0.0625
+Tianshui Chen,0.0625
+Weihao Yu,0.0625
+Riquan Chen,0.0625
+Liang Lin,0.0625
+Alakh Desai,0.0625
+Tz-Ying Wu,0.0625
+Subarna Tripathi,0.0625
+Nuno Vas-concelos,0.0625
+Yao Ding,0.04
+Yanzhao Zhou,0.04
+Yi Zhu,0.04
+Qixiang Ye,0.04
+Jianbin Jiao,0.04
+Ching-Yi Hung,0.027777777777777776
+Cheng-Hao Tu,0.027777777777777776
+Cheng-En Wu,0.027777777777777776
+Chien-Hung Chen,0.027777777777777776
+Yi-Ming Chan,0.027777777777777776
+Chu-Song Chen,0.027777777777777776
+Saihui Hou,0.04
+Xinyu Pan,0.04
+Zilei Wang,0.04
+Dahua Lin,0.04
+Yen-Chang Hsu,0.0625
+Yen-Cheng Liu,0.0625
+Anita Ramasamy,0.0625
+Zsolt Kira,0.0625
+Davide Abati,0.027777777777777776
+Jakub Tomczak,0.027777777777777776
+Tijmen Blankevoort,0.027777777777777776
+Simone Calderara,0.027777777777777776
+Rita Cucchiara,0.027777777777777776
+Babak Ehteshami Bejnordi,0.027777777777777776
+Gwon Hwan An,0.027777777777777776
+Siyeong Lee,0.027777777777777776
+Min-Woo Seo,0.027777777777777776
+Kugjin Yun,0.027777777777777776
+Won-Sik Cheong,0.027777777777777776
+Suk-Ju Kang,0.027777777777777776
+Paul J Besl,0.25
+Neil D McKay,0.25
+Tolga Birdal,0.04
+Benjamin Busam,0.04
+Nassir Navab,0.04
+Slobodan Ilic,0.04
+Peter Sturm,0.04
+Eric Brachmann,0.027777777777777776
+Alexander Krull,0.027777777777777776
+Frank Michel,0.027777777777777776
+Stefan Gumhold,0.027777777777777776
+Carsten Rother,0.027777777777777776
+Xiaogang Wang,0.04
+Xun Sun,0.04
+Xinyu Cao,0.04
+Kai Xu,0.04
+Bin Zhou,0.04
+Jintai Chen,0.027777777777777776
+Biwen Lei,0.027777777777777776
+Qingyu Song,0.027777777777777776
+Haochao Ying,0.027777777777777776
+Danny Z Chen,0.027777777777777776
+Jian Wu,0.027777777777777776
+Xiaozhi Chen,0.04
+Huimin Ma,0.04
+Ji Wan,0.04
+Bo Li,0.04
+Tian Xia,0.04
+Yongjian Chen,0.0625
+Lei Tai,0.0625
+Kai Sun,0.0625
+Mingyang Li,0.0625
+Bowen Cheng,0.04
+Lu Sheng,0.04
+Shaoshuai Shi,0.04
+Ming Yang,0.04
+Dong Xu,0.04
+Tanmay Gupta,0.1111111111111111
+Alexander Schwing,0.1111111111111111
+Derek Hoiem,0.1111111111111111
+Yong-Lu Li,0.02040816326530612
+Xinpeng Liu,0.02040816326530612
+Han Lu,0.02040816326530612
+Shiyi Wang,0.02040816326530612
+Junqi Liu,0.02040816326530612
+Jiefeng Li,0.02040816326530612
+Cewu Lu,0.02040816326530612
+Mingfei Chen,0.027777777777777776
+Yue Liao,0.027777777777777776
+Zhiyuan Chen,0.027777777777777776
+Fei Wang,0.027777777777777776
+Chen Qian,0.027777777777777776
+Qi Dong,0.027777777777777776
+Zhuowen Tu,0.027777777777777776
+Haofu Liao,0.027777777777777776
+Yuting Zhang,0.027777777777777776
+Vi-jay Mahadevan,0.027777777777777776
+Stefano Soatto,0.027777777777777776
+Vladimir Tankovich,0.027777777777777776
+Christian Hane,0.027777777777777776
+Yinda Zhang,0.027777777777777776
+Adarsh Kowdle,0.027777777777777776
+Sean Fanello,0.027777777777777776
+Sofien Bouaziz,0.027777777777777776
+Thomas Schops,0.02040816326530612
+Johannes L Schonberger,0.02040816326530612
+Silvano Galliani,0.02040816326530612
+Torsten Sattler,0.02040816326530612
+Konrad Schindler,0.02040816326530612
+Marc Pollefeys,0.02040816326530612
+Shital Shah,0.0625
+Debadeepta Dey,0.0625
+Chris Lovett,0.0625
+Ashish Kapoor,0.0625
+Philip Lenz,0.1111111111111111
+Raquel Urtasun,0.1111111111111111
+Alex Kendall,0.02040816326530612
+Hayk Martirosyan,0.02040816326530612
+Saumitro Dasgupta,0.02040816326530612
+Peter Henry,0.02040816326530612
+Ryan Kennedy,0.02040816326530612
+Abraham Bachrach,0.02040816326530612
+Adam Bry,0.02040816326530612
+Yukun Zhu,0.04
+Guillaume Berger,0.25
+Roland Memisevic,0.25
+Dana Berman,0.1111111111111111
+Tali Treibitz,0.1111111111111111
+Shai Avidan,0.1111111111111111
+Mario Bijelic,0.02040816326530612
+Tobias Gruber,0.02040816326530612
+Fahim Mannan,0.02040816326530612
+Florian Kraus,0.02040816326530612
+Werner Ritter,0.02040816326530612
+Klaus Dietmayer,0.02040816326530612
+Felix Heide,0.02040816326530612
+Wei-Ting Chen,0.1111111111111111
+Jian-Jiun Ding,0.1111111111111111
+Sy-Yen Kuo,0.1111111111111111
+Pei Sun,0.01
+Henrik Kretzschmar,0.01
+Xerxes Dotiwalla,0.01
+Aurelien Chouard,0.01
+Vijaysai Patnaik,0.01
+Paul Tsui,0.01
+James Guo,0.01
+Yin Zhou,0.01
+Yuning Chai,0.01
+Benjamin Caine,0.01
+Weiyue Wang,0.015625
+Gamaleldin Elsayed,0.015625
+Alex Bewley,0.015625
+Xiao Zhang,0.015625
+Dragomir Anguelov,0.015625
+Sourabh Vora,0.0625
+Alex H Lang,0.0625
+Bassam Helou,0.0625
+Oscar Beijom,0.0625
+Sanghyun Woo,0.0625
+Jongchan Park,0.0625
+Joon-Young Lee,0.0625
+In So Kweon,0.0625
+Thomas Mensink,0.04
+Maxim Berman,0.04
+Herve Jegou,0.04
+Iasonas Kokkinos,0.04
+Matthijs Douze,0.04
+Name3,0.1111111111111111
+Alsallakh Bilal,0.04
+Amin Jourabloo,0.04
+Mao Ye,0.04
+Xiaoming Liu,0.04
+Liu Ren,0.04
+Christopher Bishop,1.0
+Ting Chen,0.0625
+Simon Kornblith,0.0625
+Mohammad Norouzi,0.0625
+Geoffrey Hinton,0.0625
+Mostafa Dehghani,0.04
+Anurag Arnab,0.04
+Lucas Beyer,0.04
+Yi Tay,0.04
+Alec Radford,0.01
+Jong Wook Kim,0.01
+Chris Hallacy,0.01
+Aditya Ramesh,0.01
+Gabriel Goh,0.01
+Sandhini Agarwal,0.01
+Girish Sastry,0.01
+Amanda Askell,0.01
+Pamela Mishkin,0.01
+Jack Clark,0.01
+Dirk Weissenborn,0.0030864197530864196
+Andreas Steiner,0.0030864197530864196
+Marvin Ritter,0.0030864197530864196
+Aravindh Mahendran,0.0030864197530864196
+Samira Abnar,0.0030864197530864196
+Sunayana Rane,0.0030864197530864196
+Josip Djolonga,0.0030864197530864196
+Alexander Kolesnikov,0.0030864197530864196
+Xiaohua Zhai,0.0030864197530864196
+Rob Romijnders,0.0030864197530864196
+Rianne van den Berg,0.0030864197530864196
+Jonathan Heek,0.0030864197530864196
+Olivier Teboul,0.0030864197530864196
+Marco Cuturi,0.0030864197530864196
+Lu Jiang,0.0030864197530864196
+Mario Lučič,0.0030864197530864196
+Neil Houlsby,0.0030864197530864196
+Richard S Sutton,1.0
+Simone Meyer,0.04
+Henning Zimmer,0.04
+Max Grosse,0.04
+Alexander Sorkine-Hornung,0.04
+Fréd o Durand,0.25
+Julie Dorsey,0.25
+Xuxiong Liu,0.04
+Tengteng Dong,0.04
+Weijie Feng,0.04
+Xiao Sun,0.04
+Mohamed A. Elgharib,0.0625
+Mohamed Hefeeda,0.0625
+Frédo Durand,0.0625
+William T. Freeman,0.0625
+Stepan Tulyakov,0.02040816326530612
+Daniel Gehrig,0.02040816326530612
+Stamatios Georgoulis,0.02040816326530612
+Julius Erbach,0.02040816326530612
+Mathias Gehrig,0.02040816326530612
+Yuanyou Li,0.02040816326530612
+Davide Scaramuzza,0.02040816326530612
+Diederik P Kingma,0.25
+Christian Brandli,0.04
+Raphael Berner,0.04
+Minhao Yang,0.04
+Shih-Chii Liu,0.04
+Tobi Delbruck,0.04
+Hadar Cohen Duwek,0.1111111111111111
+Albert Shalumov,0.1111111111111111
+Elishai Ezra Tsur,0.1111111111111111
+Guillermo Gallego,0.008264462809917356
+Garrick Michael Orchard,0.008264462809917356
+Chiara Bartolozzi,0.008264462809917356
+Brian Taba,0.008264462809917356
+Andrea Censi,0.008264462809917356
+Stefan Leutenegger,0.008264462809917356
+Andrew Davison,0.008264462809917356
+Jorg Conradt,0.008264462809917356
+Kostas Dani- ilidis,0.008264462809917356
+Henry B Mann,0.25
+Donald R Whitney,0.25
+Dimity Miller,0.0625
+Lachlan Nicholson,0.0625
+Feras Dayoub,0.0625
+Niko S¨underhauf,0.0625
+Jaedong Hwang,0.0625
+Seoung Wug Oh,0.0625
+Bo- hyung Han,0.0625
+Hermann Blum,0.04
+Paul Edouard Sarlin,0.04
+Juan Nieto,0.04
+Roland Siegwart,0.04
+Cesar Cadena,0.04
+Rui Qian,0.02040816326530612
+Tianjian Meng,0.02040816326530612
+Boqing Gong,0.02040816326530612
+Huisheng Wang,0.02040816326530612
+Serge Belongie,0.02040816326530612
+Yin Cui,0.02040816326530612
+Karen Simonyan,0.25
+Andrew Zisserman,0.25
+Du Tran,0.04
+Lubomir Bourdev,0.04
+Rob Fergus,0.04
+Lorenzo Torresani,0.04
+Manohar Paluri,0.04
+Ceyuan Yang,0.0625
+Yinghao Xu,0.0625
+Bo Dai,0.0625
+Bolei Zhou,0.0625
+Tian Pan,0.04
+Yibing Song,0.04
+Tianyu Yang,0.04
+Wenhao Jiang,0.04
+Wei Liu,0.04
+Klaus Hechenbichler,0.25
+Klaus Schliep,0.25
+Terrance DeVries,0.25
+Graham W Taylor,0.25
+Dan Hendrycks,0.25
+Kevin Gimpel,0.25
+Meng-Jiun Chiou,0.027777777777777776
+Henghui Ding,0.027777777777777776
+Hanshu Yan,0.027777777777777776
+Changhu Wang,0.027777777777777776
+Roger Zimmermann,0.027777777777777776
+Jiashi Feng,0.027777777777777776
+Ranjay Krishna,0.0625
+Michael Bernstein,0.0625
+Li Fei-Fei,0.0625
+Mehdi Noroozi,0.25
+Paolo Favaro,0.25
+Jonathan Sauder,0.25
+Bjarne Sievers,0.25
+Aaron van den Oord,0.1111111111111111
+Yazhe Li,0.1111111111111111
+Oriol Vinyals,0.1111111111111111
+Omid Poursaeed,0.04
+Tianxing Jiang,0.04
+Han Qiao,0.04
+Nayun Xu,0.04
+Vladimir G Kim,0.04
+Charles R Qi,0.0625
+Hao Su,0.0625
+Kaichun Mo,0.0625
+Leonidas J Guibas,0.0625
+Rahaf Aljundi,0.0625
+Min Lin,0.0625
+Baptiste Goujaud,0.0625
+Yoshua Ben-gio,0.0625
+Oleksiy Ostapenko,0.04
+Mihai Puscas,0.04
+Tassilo Klein,0.04
+Patrick Jah- nichen,0.04
+Moin Nabi,0.04
+Jonathan Long,0.1111111111111111
+Evan Shelhamer,0.1111111111111111
+Hongjoon Ahn,0.027777777777777776
+Jihwan Kwak,0.027777777777777776
+Subin Lim,0.027777777777777776
+Hyeonsu Bang,0.027777777777777776
+Hyojun Kim,0.027777777777777776
+Taesup Moon,0.027777777777777776
+Clare Garvie,0.1111111111111111
+Alvaro Bedoya,0.1111111111111111
+Jonathan Frankle,0.1111111111111111
+Zeju Li,0.1111111111111111
+Konstantinos Kamnitsas,0.1111111111111111
+Ben Glocker,0.1111111111111111
+Tom Farrand,0.0625
+Fatemehsadat Mireshghallah,0.0625
+Sahib Singh,0.0625
+Andrew Trask,0.0625
+Julius Adebayo,1.0
+Ke Cheng,0.027777777777777776
+Yifan Zhang,0.027777777777777776
+Xiangyu He,0.027777777777777776
+Weihan Chen,0.027777777777777776
+Hanqing Lu,0.027777777777777776
+Fabien Baradel,0.04
+Natalia Neverova,0.04
+Christian Wolf,0.04
+Julien Mille,0.04
+Greg Mori,0.04
+Thomas N Kipf,0.25
+Max Welling,0.25
+Yunpeng Chen,0.027777777777777776
+Marcus Rohrbach,0.027777777777777776
+Zhicheng Yan,0.027777777777777776
+Yan Shuicheng,0.027777777777777776
+Yannis Kalantidis,0.027777777777777776
+Clément Godard,0.1111111111111111
+Oisin Mac Aodha,0.1111111111111111
+Gabriel J. Brostow,0.1111111111111111
+Angjoo Kanazawa,0.0625
+David W. Jacobs,0.0625
+Shruti Agarwal,0.027777777777777776
+Hany Farid,0.027777777777777776
+Yuming Gu,0.027777777777777776
+Mingming He,0.027777777777777776
+Koki Nagano,0.027777777777777776
+Hao Li,0.027777777777777776
+Jonathan T. Barron,0.0625
+Andrew Adams,0.0625
+Yichang Shih,0.0625
+Carlos Hernández,0.0625
+Nikolai Vogler,0.25
+Kartik Goyal,0.25
+Samuel V. Lemley,0.25
+D. J. Schuldt,0.25
+Christopher N. Warren,0.25
+Max G'Sell,0.25
+Taylor Berg-Kirkpatrick,0.25
+Ph,0.1111111111111111
+y,0.1111111111111111
+sics,0.1111111111111111
+Or Patashnik,0.04
+Zongze Wu,0.04
+Daniel Cohen-Or,0.04
+Dani Lischinski,0.04
+Osaid Rehman Nasir,0.027777777777777776
+Shailesh Kumar Jha,0.027777777777777776
+Manraj Singh Grover,0.027777777777777776
+Yi Y u,0.027777777777777776
+Ajit Kumar,0.027777777777777776
+Rajiv Ratn Shah,0.027777777777777776
+Xun Huang,0.25
+Tero Karras,0.1111111111111111
+Samuli Laine,0.1111111111111111
+Timo Aila,0.1111111111111111
+Cheng-Han Lee,0.0625
+Ziwei Liu,0.0625
+Lingyun Wu,0.0625
+Ping Luo,0.0625
+Benjamin Hoover,0.1111111111111111
+Hendrik Strobelt,0.1111111111111111
+Sebastian Gehrmann,0.1111111111111111
+Andrej Karpathy,0.1111111111111111
+Justin Johnson,0.1111111111111111
+Hila Chefer,0.1111111111111111
+Shir Gur,0.1111111111111111
+Lior Wolf,0.1111111111111111
+Nicolas Carion,0.027777777777777776
+Francisco Massa,0.027777777777777776
+Gabriel Synnaeve,0.027777777777777776
+Nicolas Usunier,0.027777777777777776
+Alexander Kirillov,0.027777777777777776
+Sergey Zagoruyko,0.027777777777777776
+Tsung-Yi Lin,0.015625
+Michael Maire,0.015625
+James Hays,0.015625
+Pietro Perona,0.015625
+Deva Ramanan,0.015625
+Piotr Doll'ar,0.015625
+C Lawrence Zitnick,0.015625
+Ian J Goodfellow,0.1111111111111111
+Jonathon Shlens,0.1111111111111111
+Christian Szegedy,0.1111111111111111
+Shaoqing Ren,0.0625
+Ross Girshick,0.0625
+Jian Sun,0.0625
+Christian Etmann,0.0625
+Sebastian Lunz,0.0625
+Peter Maass,0.0625
+Carola- Bibiane Sch ¨onlieb,0.0625
+Siyuan Zhou,0.015625
+Xijie Huang,0.015625
+Liang Xu,0.015625
+Ze Ma,0.015625
+Hao-Shu Fang,0.015625
+Yanfeng Wang,0.015625
+Yu-Wei Chao,0.04
+Yunfan Liu,0.04
+Xieyang Liu,0.04
+Huayi Zeng,0.04
+Jia Deng,0.04
+Shizhe Chen,0.0625
+Qin Jin,0.0625
+Peng Wang,0.0625
+Qi Wu,0.0625
+Smith,1.0
+ShinjiWatanabe,1.0
+Yazan Abu Farha,0.1111111111111111
+Alexander Richard,0.1111111111111111
+Juergen Gall,0.1111111111111111
+Triantafyllos Afouras,0.04
+Joon Son Chung,0.04
+Andrew Senior,0.04
+Sami Abu-El-Haĳa,0.02040816326530612
+Nisarg Kothari,0.02040816326530612
+Joonseok Lee,0.02040816326530612
+Paul Natsev,0.02040816326530612
+George Toderici,0.02040816326530612
+Balakrishnan Varadarajan,0.02040816326530612
+Sudheendra Vijayanarasimhan,0.02040816326530612
+Hassan Akbari,0.02040816326530612
+Linagzhe Yuan,0.02040816326530612
+Wei-Hong Chuang,0.02040816326530612
+Shih-Fu Chang,0.02040816326530612
+YinCui,0.02040816326530612
+John Smith,0.25
+Jane Doe,0.25
+Karsten Behrendt,0.25
+Ryan Soussan,0.25
+Pilhyeon Lee,0.1111111111111111
+Youngjung Uh,0.1111111111111111
+Hyeran Byun,0.1111111111111111
+Pedro Morgado,0.1111111111111111
+Ishan Misra,0.1111111111111111
+Nuno Vasconcelos,0.1111111111111111
+Humam Alwassel,0.027777777777777776
+Dhruv Mahajan,0.027777777777777776
+Bruno Korbar,0.027777777777777776
+Bernard Ghanem,0.027777777777777776
+Relja Arandjelovic,0.25
+Chenglizhao Chen,0.027777777777777776
+Guotao Wang,0.027777777777777776
+Chong Peng,0.027777777777777776
+Yuming Fang,0.027777777777777776
+Dingwen Zhang,0.027777777777777776
+Hong Qin,0.027777777777777776
+Antti Tarvainen,0.25
+Harri Valpola,0.25
+John Doe,0.25
+Jane Smith,0.25
+Yining Chen,0.04
+Elan Rosenfeld,0.04
+Mark Sellke,0.04
+Tengyu Ma,0.04
+Andrej Risteski,0.04
+Alex Graves,0.1111111111111111
+Abdel-rahman Mohamed,0.1111111111111111
+Geoffrey Hin- ton,0.1111111111111111
+Shiori Sagawa,0.0625
+Pang Wei Koh,0.0625
+Tatsunori B Hashimoto,0.0625
+Martin Arjovsky,0.0625
+L ´eon Bottou,0.0625
+Ishaan Gulrajani,0.0625
+David Lopez-Paz,0.0625
+Jos ´e M Bernardo,0.25
+Adrian FM Smith,0.25
+OpenPCDet Development Team,1.0
+Andrew Wallace,0.1111111111111111
+Abderrahim Halimi,0.1111111111111111
+Gerald Buller,0.1111111111111111
+Holger Caesar,0.01
+Varun Bankiti,0.01
+Alex Lang,0.01
+Venice Erin Liong,0.01
+Qiang Xu,0.01
+Anush Krishnan,0.01
+Yu Pan,0.01
+Giancarlo Baldan,0.01
+Oscar Beijbom,0.01
+Author1,0.25
+Author2,0.25
+Philipp Tschandl,0.1111111111111111
+Cliff Rosendahl,0.1111111111111111
+Harald Kittler,0.1111111111111111
+Eric Arazo,0.04
+Diego Ortego,0.04
+Paul Albert,0.04
+Noel E O’Connor,0.04
+Kevin McGuinness,0.04
+Angelica I Aviles-Rivero,0.02040816326530612
+Nicolas Papadakis,0.02040816326530612
+Ruoteng Li,0.02040816326530612
+Philip Sellars,0.02040816326530612
+Qingnan Fan,0.02040816326530612
+Robby T Tan,0.02040816326530612
+Andrew Brock,0.1111111111111111
+Jeff Donahue,0.1111111111111111
+Dave Zhenyu Chen,0.1111111111111111
+Zhiqin Chen,0.1111111111111111
+Andrea Tagliasacchi,0.1111111111111111
+Hao Zhang,0.1111111111111111
+Julian Chibane,0.1111111111111111
+Michael Laskin,0.1111111111111111
+Aravind Srinivas,0.1111111111111111
+Pieter Abbeel,0.1111111111111111
+Ehsan Amid,0.0625
+Manfred K. Warmuth,0.0625
+Rohan Anil,0.0625
+Tomer Koren,0.0625
+Noel E. O'Connor,0.04
+Devansh Arpit,0.008264462809917356
+Stanislaw Jastrzebski,0.008264462809917356
+Nicolas Ballas,0.008264462809917356
+David Krueger 0001,0.008264462809917356
+Emmanuel Bengio,0.008264462809917356
+Maxinder S. Kanwal,0.008264462809917356
+Tegan Maharaj,0.008264462809917356
+Asja Fischer,0.008264462809917356
+Aaron C. Courville,0.008264462809917356
+Simon Lacoste-Julien,0.008264462809917356
+Shai Ben-David,0.027777777777777776
+John Blitzer,0.027777777777777776
+Koby Crammer,0.027777777777777776
+Alex Kulesza,0.027777777777777776
+Fernando Pereira,0.027777777777777776
+Jennifer Wortman Vaughan,0.027777777777777776
+Yangyan Li,0.027777777777777776
+Rui Bu,0.027777777777777776
+Mingchao Sun,0.027777777777777776
+Wei Wu,0.027777777777777776
+Xinhan Di,0.027777777777777776
+Baoquan Chen,0.027777777777777776
+Christoph Stiller,0.0625
+Qun-Xiong Zhu,0.015625
+Jie-Long Zhang,0.015625
+Xiao-Lu Song,0.015625
+Yan-Lin He,0.015625
+Yuan Xu,0.015625
+Massimiliano Corsini,0.1111111111111111
+Paolo Cignoni,0.1111111111111111
+Roberto Scopigno,0.1111111111111111
+Renderpeople GmbH,1.0
+Shunsuke Saito,0.0625
+Tomas Simon,0.0625
+Jason Saragih,0.0625
+Hanbyul Joo,0.0625
+David Novotny,0.0625
+Mikhail Belkin,0.1111111111111111
+Yusu Wang,0.1111111111111111
+Joao Carreira,0.0625
+Eric Noland,0.0625
+Chloe Hillier,0.0625
+Dima Damen,0.008264462809917356
+Hazel Doughty,0.008264462809917356
+Giovanni Maria Farinella,0.008264462809917356
+Sanja Fidler,0.008264462809917356
+Antonino Furnari,0.008264462809917356
+Evangelos Kazakos,0.008264462809917356
+Davide Moltisanti,0.008264462809917356
+Jonathan Munro,0.008264462809917356
+Toby Perrett,0.008264462809917356
+Will Price,0.008264462809917356
+Michael Wray,0.008264462809917356
+Pradipto Das,0.0625
+Chenliang Xu,0.0625
+Richard F Doell,0.0625
+Jason J Corso,0.0625
+Achal Dave,0.04
+Tarasha Khurana,0.04
+Pavel Tokmakov,0.04
+Ali Diba,0.02040816326530612
+Mohsen Fayyaz,0.02040816326530612
+Vivek Sharma,0.02040816326530612
+Jurgen Gall,0.02040816326530612
+Rainer Stiefelhagen,0.02040816326530612
+Luc Van Gool,0.02040816326530612
+Liang Cheng 0003,0.02040816326530612
+Song Chen 0002,0.02040816326530612
+Xiaoqiang Liu,0.02040816326530612
+Hao Xu,0.02040816326530612
+Yang Wu,0.02040816326530612
+Manchun Li,0.02040816326530612
+Yanming Chen 0001,0.02040816326530612
+Georgios Pavlakos,0.0625
+Luyang Zhu,0.0625
+Xiaowei Zhou 0001,0.0625
+Kostas Daniilidis,0.0625
+Praveen Srinivasan,0.027777777777777776
+Daphne Koller,0.027777777777777776
+Sebastian Thrun,0.027777777777777776
+Jim Rodgers,0.027777777777777776
+James Davis 0001,0.027777777777777776
+Guha Balakrishnan,0.04
+Amy Zhao,0.04
+Mert R. Sabuncu,0.04
+John V. Guttag,0.04
+Adrian V. Dalca,0.04
+Zachary M. C. Baum,0.1111111111111111
+Yipeng Hu,0.1111111111111111
+Dean C. Barratt,0.1111111111111111
+Ce Liu 0001,0.04
+Richard Szeliski,0.04
+Sing Bing Kang,0.04
+C. Lawrence Zitnick,0.04
+Abdelrahman Abdelhamed,0.1111111111111111
+Marcus A. Brubaker,0.1111111111111111
+Michael S. Brown,0.1111111111111111
+Zhonghua Xie,0.0625
+Lingjun Liu,0.0625
+Cheng Wang,0.0625
+Zehong Chen,0.0625
+Chuang Gan,0.04
+Deng Huang,0.04
+Hang Zhao,0.04
+Joshua B Tenenbaum,0.04
+Antonio Torralba,0.04
+Ruohan Gao,0.0625
+Tae-Hyun Oh,0.0625
+Kristen Grauman,0.0625
+Noa Garcia,0.25
+Yuta Nakashima,0.25
+Junyeong Kim,0.04
+Minuk Ma,0.04
+Trung Pham,0.04
+Kyungsu Kim,0.04
+Chang D Yoo,0.04
+Thao Minh Le,0.0625
+Vuong Le,0.0625
+Svetha Venkatesh,0.0625
+Truyen Tran,0.0625
+Omar Alfarghaly,0.04
+Rana Khaled,0.04
+Abeer Elkorany,0.04
+Maha Helal,0.04
+Aly Fahmy,0.04
+Xiaodong He,0.02040816326530612
+Chris Buehler,0.02040816326530612
+Damien Teney,0.02040816326530612
+Mark Johnson,0.02040816326530612
+Stephen Gould,0.02040816326530612
+Lei Zhang,0.02040816326530612
+Maryam Badar,0.1111111111111111
+Muhammad Haris,0.1111111111111111
+Anam Fatima,0.1111111111111111
+Satanjeev Banerjee,0.25
+Alon Lavie,0.25
+Olivier Bodenreider,1.0
+Hongyu Guo,0.1111111111111111
+Yongyi Mao,0.1111111111111111
+Richong Zhang,0.1111111111111111
+Kai Han,0.02040816326530612
+Rafael S Rezende,0.02040816326530612
+Bumsub Ham,0.02040816326530612
+Kwan-Yee K Wong,0.02040816326530612
+Minsu Cho,0.02040816326530612
+Jang-Hyun Kim,0.0625
+Wonho Choo,0.0625
+Hosan Jeong,0.0625
+Hyun Oh Song,0.0625
+Ilya Sutskever,0.1111111111111111
+Geoffrey E Hinton,0.1111111111111111
+Mark Everingham,0.04
+Christopher KI Williams,0.04
+John Winn,0.04
+Changhui Jiang,0.0625
+Qiyang Zhang,0.0625
+Rui Fan,0.0625
+Zhanli Hu,0.0625
+Lucas Theis,0.01
+Ferenc Husz ´ar,0.01
+Andrew Cunningham,0.01
+Alykhan Tejani,0.01
+Xuecai Hu,0.027777777777777776
+Haoyuan Mu,0.027777777777777776
+Xiangyu Zhang,0.027777777777777776
+Tieniu Tan,0.027777777777777776
+Jeff Dean,0.1111111111111111
+Tengteng Huang,0.0625
+Zhe Liu,0.0625
+Xiwu Chen,0.0625
+Xiang Bai,0.0625
+Gedas Bertasius,0.1111111111111111
+Heng Wang,0.1111111111111111
+Lorentz Torresani,0.1111111111111111
+Sourabh V ora,0.01
+Valentin Gabeur,0.0625
+Chen Sun,0.0625
+Karteek Alahari,0.0625
+Alejandro F Frangi,0.0625
+Wiro J Niessen,0.0625
+Koen L Vincken,0.0625
+Max A Viergever,0.0625
+Wasim A Samara,0.015625
+Abtin Shahlaee,0.015625
+Murtaza K Adam,0.015625
+M Ali Khan,0.015625
+Allen Chiang,0.015625
+Joseph I Maguire,0.015625
+Jason Hsu,0.015625
+Allen C Ho,0.015625
+Nadia K Waheed,0.0625
+Eric M Moult,0.0625
+James G Fujimoto,0.0625
+Philip J Rosenfeld,0.0625
+Radhakrishna Achanta,0.027777777777777776
+Appu Shaji,0.027777777777777776
+Kevin Smith,0.027777777777777776
+Aurelien Lucchi,0.027777777777777776
+Pascal Fua,0.027777777777777776
+Sabine S ¨usstrunk,0.027777777777777776
+Olaf Ronneberger,0.1111111111111111
+Philipp Fischer,0.1111111111111111
+Thomas Brox,0.1111111111111111
+Ayan Chakrabarti,0.02040816326530612
+Ying Xiong,0.02040816326530612
+Baochen Sun,0.02040816326530612
+Daniel Scharstein,0.02040816326530612
+Todd Zickler,0.02040816326530612
+Kate Saenko,0.02040816326530612
+Yashar Deldjoo,0.027777777777777776
+Mehdi Elahi,0.027777777777777776
+Paolo Cremonesi,0.027777777777777776
+Franca Gar-zotto,0.027777777777777776
+Pietro Piazzolla,0.027777777777777776
+Massimo Quadrana,0.027777777777777776
+Jin Chen,0.04
+Xijun Wang,0.04
+Zichao Guo,0.04
+Kyunghyun Cho,0.02040816326530612
+Bart van Merriënboer,0.02040816326530612
+Caglar Gulcehre,0.02040816326530612
+Dzmitry Bahdanau,0.02040816326530612
+Fethi Bougares,0.02040816326530612
+Holger Schwenk,0.02040816326530612
+Alexey Dosovitskiy,0.006944444444444444
+Thomas Unterthiner,0.006944444444444444
+Matthias Minderer,0.006944444444444444
+Georg Heigold,0.006944444444444444
+Syl- vain Gelly,0.006944444444444444
+Michael Figurnov,0.02040816326530612
+Maxwell D Collins,0.02040816326530612
+Li Zhang,0.02040816326530612
+Jonathan Huang,0.02040816326530612
+Dmitry Vetrov,0.02040816326530612
+Alexandre Alahi,0.027777777777777776
+Kratarth Goel,0.027777777777777776
+Vignesh Ramanathan,0.027777777777777776
+Alexandre Robicquet,0.027777777777777776
+Philipp Bergmann,0.1111111111111111
+Tim Meinhardt,0.1111111111111111
+Laura Leal-Taixe,0.1111111111111111
+Gabriel J Brostow,0.0625
+Julien Fauqueur,0.0625
+Roberto Cipolla,0.0625
+Rohan Chandra,0.0625
+Uttaran Bhattacharya,0.0625
+Aniket Bera,0.0625
+Dinesh Manocha,0.0625
+Heng Guo,0.027777777777777776
+Shuaicheng Liu,0.027777777777777776
+Tong He,0.027777777777777776
+Shuyuan Zhu,0.027777777777777776
+Bing Zeng,0.027777777777777776
+Moncef Gabbouj,0.027777777777777776
+Daniel Barath,0.1111111111111111
+Jiri Matas,0.1111111111111111
+Jana Noskova,0.1111111111111111
+Herbert Bay,0.0625
+Andreas Ess,0.0625
+Tinne Tuytelaars,0.0625
+JiaWang Bian,0.027777777777777776
+Wen-Yan Lin,0.027777777777777776
+Yasuyuki Matsushita,0.027777777777777776
+Sai-Kit Yeung,0.027777777777777776
+Tan-Dat Nguyen,0.027777777777777776
+Ming-Ming Cheng,0.027777777777777776
+Yasasa Abeysirigoonawardena,0.1111111111111111
+Florian Shkurti,0.1111111111111111
+Gregory Dudek,0.1111111111111111
+Mayank Bansal,0.1111111111111111
+Abhijit Ogale,0.1111111111111111
+Luca Bergamini,0.012345679012345678
+Yawei Ye,0.012345679012345678
+Oliver Scheel,0.012345679012345678
+Long Chen,0.012345679012345678
+Chih Hu,0.012345679012345678
+Luca Del Pero,0.012345679012345678
+Bła ˙zej Osi ´nski,0.012345679012345678
+Hugo Grimmet,0.012345679012345678
+Peter Ondruska,0.012345679012345678
+Sergio Casas,0.027777777777777776
+Cole Gulino,0.027777777777777776
+Simon Suo,0.027777777777777776
+Katie Luo,0.027777777777777776
+Renjie Liao,0.027777777777777776
+Ding-Jie Chen,0.04
+Songhao Jia,0.04
+Yi-Chen Lo,0.04
+Hwann-Tzong Chen,0.04
+Tyng-Luh Liu,0.04
+Miriam Bellver,0.027777777777777776
+Carles Ventura,0.027777777777777776
+Carina Silberer,0.027777777777777776
+Ioannis Kazakos,0.027777777777777776
+Jordi Torres,0.027777777777777776
+Xavier Giro-i Nieto,0.027777777777777776
+Mario Lu ˇci´c,0.027777777777777776
+Jianbo Chen,0.04
+Yelong Shen,0.04
+Jianfeng Gao,0.04
+Jingjing Liu,0.04
+Xiaodong Liu,0.04
+Hao Fang,0.02040816326530612
+Ramakrishna Vedan-tam,0.02040816326530612
+Piotr Doll´ar,0.02040816326530612
+Haoqi Fan,0.04
+Yuxin Wu,0.04
+Saining Xie,0.04
+Junnan Li 0001,0.027777777777777776
+Ramprasaath R. Selvaraju,0.027777777777777776
+Akhilesh Gotmare,0.027777777777777776
+Shafiq R. Joty,0.027777777777777776
+Caiming Xiong,0.027777777777777776
+Steven Chu-Hong Hoi,0.027777777777777776
+Stanislaw Antol,0.02040816326530612
+Aishwarya Agrawal,0.02040816326530612
+Jiasen Lu,0.02040816326530612
+Margaret Mitchell,0.02040816326530612
+Bardia Doosti,0.0625
+Shujon Naha,0.0625
+Majid Mirbagheri,0.0625
+David J. Crandall,0.0625
+James Booth,0.027777777777777776
+Epameinondas Antonakos,0.027777777777777776
+Stylianos Ploumpis,0.027777777777777776
+George Trigeorgis,0.027777777777777776
+Yannis Panagakis,0.027777777777777776
+Stefanos Zafeiriou,0.027777777777777776
+Roberto Brunelli,1.0
+Jeffrey Ng Sing Kwong,0.25
+Martin Köstinger,0.0625
+Paul Wohlhart,0.0625
+Peter M. Roth,0.0625
+Horst Bischof,0.0625
+Robert Lange,0.25
+Peter Seitz,0.25
+Li Zhang 0003,0.0625
+Noah Snavely,0.0625
+Brian Curless,0.0625
+Steven M. Seitz,0.0625
+Ruo Zhang,0.0625
+Ping-Sing Tsai,0.0625
+James Edwin Cryer,0.0625
+Mubarak Shah,0.0625
+Soubhik Sanyal,0.0625
+Timo Bolkart,0.0625
+Haiwen Feng,0.0625
+Michael Black,0.0625
+Samarth Brahmbhatt,0.04
+Jinwei Gu,0.04
+Kihwan Kim,0.04
+Jan Kautz,0.04
+Yusuf Aytar,0.04
+Lluis Castrejon,0.04
+Carl V ondrick,0.04
+Hamed Pirsiavash,0.04
+Hongming Li,0.25
+Yong Fan,0.25
+Spyros Gidaris,0.1111111111111111
+Praveer Singh,0.1111111111111111
+Nikos Komodakis,0.1111111111111111
+Yonglong Tian,0.1111111111111111
+Dilip Krishnan,0.1111111111111111
+Yogesh Balaji,0.1111111111111111
+Swami Sankaranarayanan,0.1111111111111111
+Rama Chel-lappa,0.1111111111111111
+Woong-Gi Chang,0.04
+Tackgeun You,0.04
+Seonguk Seo,0.04
+Suha Kwak,0.04
+Bohyung Han,0.04
+Prithvijit Chattopadhyay,0.1111111111111111
+Judy Hoffman,0.1111111111111111
+Cheng Chen,0.04
+Qi Dou,0.04
+Hao Chen,0.04
+Jing Qin,0.04
+Pheng Ann Heng,0.04
+Kevin Swersky,0.04
+Willem Zuidema,0.1111111111111111
+Jimmy Lei Ba,0.1111111111111111
+Jamie Ryan Kiros,0.1111111111111111
+Geoffrey E Hin- ton,0.1111111111111111
+Philip Bachman,0.1111111111111111
+R Devon Hjelm,0.1111111111111111
+William Buchwalter,0.1111111111111111
+Liang Chen,0.027777777777777776
+Paul Bentley,0.027777777777777776
+Kensaku Mori,0.027777777777777776
+Kazunari Misawa,0.027777777777777776
+Michitaka Fujiwara,0.027777777777777776
+Daniel Rueckert,0.027777777777777776
+Carl Doersch,0.1111111111111111
+Mykhaylo Andriluka,0.0625
+Leonid Pishchulin,0.0625
+Peter Gehler,0.0625
+Bernt Schiele,0.0625
+Yaroslav Ganin,0.015625
+Evgeniya Ustinova,0.015625
+Hana Ajakan,0.015625
+Pascal Germain,0.015625
+Hugo Larochelle,0.015625
+François Laviolette,0.015625
+Mario Marchand,0.015625
+Federica Bogo,0.027777777777777776
+Christoph Lassner,0.027777777777777776
+Peter V. Gehler,0.027777777777777776
+Javier Romero 0002,0.027777777777777776
+Jogendra Nath Kundu,0.1111111111111111
+Nishank Lakkakula,0.1111111111111111
+R Venkatesh Babu,0.1111111111111111
+Liefeng Bo,0.25
+Siying Liu,0.04
+Tian-Tsong Ng,0.04
+Loong-Fah Cheong,0.04
+Fan Zhang,0.25
+Feng Liu,0.25
+Yigang Peng,0.04
+Arvind Ganesh,0.04
+John Wright,0.04
+Wenli Xu,0.04
+Yi Ma,0.04
+Martin Urschler,0.0625
+Christopher Zach,0.0625
+Hendrik Ditt,0.0625
+Abhinav Kumar,0.012345679012345678
+Tim K Marks,0.012345679012345678
+Wenxuan Mou,0.012345679012345678
+Ye Wang,0.012345679012345678
+Michael Jones,0.012345679012345678
+Anoop Cherian,0.012345679012345678
+Toshiaki Koike-Akino,0.012345679012345678
+Xi- aoming Liu,0.012345679012345678
+Chen Feng,0.012345679012345678
+Jeong-Hoon Lee,0.04
+Hee-Jin Yu,0.04
+Min-ji Kim,0.04
+Jin-Woo Kim,0.04
+Jongeun Choi,0.04
+Ewa Magdalena Nowara,0.0625
+Hassan Mansour,0.0625
+Ashok Veeraraghavan,0.0625
+Florian Kordon,0.012345679012345678
+Peter Fischer,0.012345679012345678
+Maxim Privalov,0.012345679012345678
+Benedict Swartman,0.012345679012345678
+Marc Schnetzke,0.012345679012345678
+Jochen Franke,0.012345679012345678
+Ruxandra La- sowski,0.012345679012345678
+Andreas Maier,0.012345679012345678
+Holger Kunze,0.012345679012345678
+Ruiyu Li,0.02040816326530612
+Kaican Li,0.02040816326530612
+Yi-Chun Kuo,0.02040816326530612
+Michelle Shu,0.02040816326530612
+Xiao-juan Qi,0.02040816326530612
+Chenxi Liu,0.027777777777777776
+Zhe Lin,0.027777777777777776
+Xiaohui Shen,0.027777777777777776
+Jimei Yang,0.027777777777777776
+Xin Lu,0.027777777777777776
+Alan Yuille,0.027777777777777776
+Stella X. Yu,0.0625
+Jianbo Shi,0.0625
+Thomas Davies,0.1111111111111111
+Derek Nowrouzezahrai,0.1111111111111111
+Alec Jacobson,0.1111111111111111
+Zhizheng Zhang 0009,0.1111111111111111
+Rui Cao,0.1111111111111111
+Hongting Sheng,0.1111111111111111
+Mingqiang Guo,0.1111111111111111
+Zhenfeng Shao,0.1111111111111111
+Liang Wu 0005,0.1111111111111111
+Luca Morreale,0.0625
+Noam Aigerman,0.0625
+Vladimir G. Kim,0.0625
+Niloy J. Mitra,0.0625
+Haoqiang Fan,0.1111111111111111
+Lars M. Mescheder,0.04
+Michael Oechsle,0.04
+Michael Niemeyer,0.04
+Sebastian Nowozin,0.04
+Andreas Geiger 0001,0.04
+Guodong Ding,0.027777777777777776
+Shanshan Zhang,0.027777777777777776
+Salman Khan,0.027777777777777776
+Zhenmin Tang,0.027777777777777776
+Jian Zhang,0.027777777777777776
+Fatih Porikli,0.027777777777777776
+Jiannan Guo,0.012345679012345678
+Haochen Shi,0.012345679012345678
+Yangyang Kang,0.012345679012345678
+Kun Kuang,0.012345679012345678
+Siliang Tang,0.012345679012345678
+Zhuoren Jiang,0.012345679012345678
+Changlong Sun,0.012345679012345678
+Fei Wu,0.012345679012345678
+Yueting Zhuang,0.012345679012345678
+Yves Grandvalet,0.25
+Colin Raffel,0.027777777777777776
+Jun-Yan Zhu,0.0625
+Tinghui Zhou,0.0625
+Diego Martin Arroyo,0.1111111111111111
+Janis Postels,0.1111111111111111
+Federico Tombari,0.1111111111111111
+Kamal Gupta,0.027777777777777776
+Justin Lazarow,0.027777777777777776
+Alessandro Achille,0.027777777777777776
+Larry S Davis,0.027777777777777776
+Vijay Mahadevan,0.027777777777777776
+Abhinav Shrivastava,0.027777777777777776
+Jiwon Kim,0.1111111111111111
+Jung Kwon Lee,0.1111111111111111
+Kyoung Mu Lee,0.1111111111111111
+Tao Hu,0.1111111111111111
+Chengjiang Long,0.1111111111111111
+Chunxia Xiao,0.1111111111111111
+Bhavan Vasu,0.25
+Xizhou Zhu,0.04
+Dazhi Cheng,0.04
+Zheng Zhang,0.04
+Stephen Lin,0.04
+Jifeng Dai,0.04
+Ziyi Meng,0.1111111111111111
+Jiawei Ma,0.1111111111111111
+Xin Y uan,0.1111111111111111
+Zhenming Yu,0.0625
+Kun Xu,0.0625
+Xin Yuan,0.0625
+Xin Miao,0.0625
+Yunchen Pu,0.0625
+Vassilis Athitsos,0.0625
+Siming Zheng,0.015625
+Yang Liu,0.015625
+Mu Qiao,0.015625
+Zhishen Tong,0.015625
+Xiaoyu Yang,0.015625
+Shensheng Han,0.015625
+R Omar Chavez-Garcia,0.0625
+J ´erˆome Guzzi,0.0625
+Luca M Gambardella,0.0625
+Alessandro Giusti,0.0625
+Rahul Suk- thankar,0.04
+Ross Hartley,0.0625
+Maani Ghaffari,0.0625
+Ryan M Eustice,0.0625
+Jessy W Grizzle,0.0625
+Aaron D Ames,0.0625
+Kevin Galloway,0.0625
+Koushil Sreenath,0.0625
+Xuming Chen,0.01
+Shanlin Sun,0.01
+Narisu Bai,0.01
+Kun Han,0.01
+Qianqian Liu,0.01
+Shengyu Yao,0.01
+Hao Tang,0.01
+Chupeng Zhang,0.01
+Zhipeng Lu,0.01
+Qian Huang,0.01
+Pengkai Wang,0.0625
+Song Chen,0.0625
+Jiaxu Liu,0.0625
+Shengze Cai,0.0625
+Chao Xu 0001,0.0625
+Emilien Dupont,0.1111111111111111
+Arnaud Doucet,0.1111111111111111
+Yee Whye Teh,0.1111111111111111
+Vincent Arsigny,0.0625
+Olivier Commowick,0.0625
+Xavier Pennec,0.0625
+Nicholas Ayache,0.0625
+John Ashburner,1.0
+Benjamin Bross,0.02040816326530612
+Ye-Kui Wang,0.02040816326530612
+Yan Ye,0.02040816326530612
+Shan Liu 0001,0.02040816326530612
+Jianle Chen,0.02040816326530612
+Gary J. Sullivan,0.02040816326530612
+Jens-Rainer Ohm,0.02040816326530612
+Athanassios Skodras,0.1111111111111111
+Charilaos Christopoulos,0.1111111111111111
+Touradj Ebrahimi,0.1111111111111111
+Haichuan Ma,0.04
+Ning Yan,0.04
+Houqiang Li,0.04
+Feng Wu,0.04
+Xin Deng,0.02040816326530612
+Wenzhe Yang,0.02040816326530612
+Ren Yang,0.02040816326530612
+Mai Xu,0.02040816326530612
+Enpeng Liu,0.02040816326530612
+Qianhan Feng,0.02040816326530612
+Radu Timofte,0.02040816326530612
+Jooyoung Lee,0.1111111111111111
+Seunghyun Cho,0.1111111111111111
+Seung-Kwon Beack,0.1111111111111111
+Michael Broxton,0.01
+John Flynn,0.01
+Ryan Overbeck,0.01
+Daniel Erick-son,0.01
+Peter Hedman,0.01
+Matthew Duvall,0.01
+Jason Dourgarian,0.01
+Jay Busch,0.01
+Matt Whalen,0.01
+Paul Debevec,0.01
+Amir Hertz,0.04
+Or Perel,0.04
+Raja Giryes,0.04
+Olga Sorkine-Hornung,0.04
+Matthew Du- Vall,0.015625
+Graham Fyffe,0.015625
+Richard Tucker,0.015625
+Matthew Tancik,0.027777777777777776
+Ricardo Martin-Brualla,0.027777777777777776
+Pratul P. Srinivasan,0.027777777777777776
+Fei Du,0.027777777777777776
+Bo Xu,0.027777777777777776
+Jiasheng Tang,0.027777777777777776
+Yuqi Zhang,0.027777777777777776
+Fan Wang,0.027777777777777776
+Bo-hyung Han,0.0625
+Bogdan Alexe,0.1111111111111111
+Thomas Deselaers,0.1111111111111111
+Vittorio Ferrari,0.1111111111111111
+Ali Athar,0.04
+Sabarinath Mahadevan,0.04
+Aljosa Osep,0.04
+Laura Leal- Taixé,0.04
+Bastian Leibe,0.04
+Mehmet Aygün,0.02040816326530612
+Aljoša Ošep,0.02040816326530612
+Mark Weber,0.02040816326530612
+Maxim Maxi-mov,0.02040816326530612
+Cyrill Stachniss,0.02040816326530612
+Jens Behley,0.02040816326530612
+Laura Leal-Taixé,0.02040816326530612
+Gabriel Bender,0.04
+Pieter-Jan Kindermans,0.04
+Barret Zoph,0.04
+Vijay Vasudevan,0.04
+Quoc V. Le,0.04
+Jose Dolz,0.027777777777777776
+Karthik Gopinath,0.027777777777777776
+Jing Yuan,0.027777777777777776
+Herve Lombaert,0.027777777777777776
+Christian Desrosiers,0.027777777777777776
+Ismail Ben Ayed,0.027777777777777776
+Sian-Yao Huang,0.25
+Wei-Ta Chu,0.25
+Han Cai,0.04
+Tianzhe Wang,0.04
+Zhekai Zhang,0.04
+Song Han,0.04
+Yuhui Xu,0.02040816326530612
+Xiaopeng Zhang,0.02040816326530612
+Xin Chen,0.02040816326530612
+Guo- Jun Qi,0.02040816326530612
+Qi Tian,0.02040816326530612
+Hongkai Xiong,0.02040816326530612
+He Zhao 0004,0.25
+Rick Wildes,0.25
+Yu Kong 0001,0.1111111111111111
+Zhiqiang Tao,0.1111111111111111
+Yun Fu 0001,0.1111111111111111
+Xin Lin,0.0625
+Changxing Ding,0.0625
+Jinquan Zeng,0.0625
+Dacheng Tao,0.0625
+Mohammed Suhail,0.02040816326530612
+Abhay Mittal,0.02040816326530612
+Behjat Siddiquie,0.02040816326530612
+Chris Broaddus,0.02040816326530612
+Jayan Eledath,0.02040816326530612
+Gérard G. Medioni,0.02040816326530612
+Leonid Sigal,0.02040816326530612
+Kaihua Tang,0.04
+Baoyuan Wu,0.04
+Wenhan Luo,0.04
+Wei Liu 0005,0.04
+Mark J Kilgard,0.25
+Jeff Bolz,0.25
+Jules Bloomenthal,0.25
+Ken Shoemake,0.25
+Alexandre Carlier,0.0625
+Martin Danelljan,0.0625
+Robert L Cook,1.0
+Philipp Kr ¨ahenb ¨uhl,0.25
+Vladlen Koltun,0.25
+Lixiang Ru,0.1111111111111111
+Bo Du,0.1111111111111111
+Chen Wu,0.1111111111111111
+Ren ´e Ranftl,0.1111111111111111
+Alexey Bochkovskiy,0.1111111111111111
+Anirban Roy,0.25
+Sinisa Todorovic,0.25
+shiyaya,1.0
+Deepak Babu Sam,0.1111111111111111
+Shiv Surya,0.1111111111111111
+Shuai Bai,0.027777777777777776
+Zhiqun He,0.027777777777777776
+Yu Qiao,0.027777777777777776
+Hanzhe Hu,0.027777777777777776
+Junjie Yan,0.027777777777777776
+Patrick Billingsley,1.0
+Xinkun Cao,0.0625
+Zhipeng Wang,0.0625
+Yanyun Zhao,0.0625
+Fei Su,0.0625
+Antoni B Chan,0.1111111111111111
+Zhang-Sheng John Liang,0.1111111111111111
+Nuno Vascon-celos,0.1111111111111111
+Zhaowei Cai,0.25
+Bao Li,0.008264462809917356
+Zhenyu Liu,0.008264462809917356
+Song Zhang,0.008264462809917356
+Xiangyu Liu,0.008264462809917356
+Caixia Sun,0.008264462809917356
+Jiangang Liu,0.008264462809917356
+Bensheng Qiu,0.008264462809917356
+Jie Tian 0001,0.008264462809917356
+Adam Paszke,0.01
+Sam Gross,0.01
+Adam Lerer,0.01
+James Bradbury,0.01
+Gregory Chanan,0.01
+Trevor Killeen,0.01
+Zeming Lin,0.01
+Natalia Gimelshein,0.01
+Luca Antiga,0.01
+Piotr Doll ´ar,0.027777777777777776
+Bharath Hariharan,0.027777777777777776
+Hyojin Bahng,0.04
+Sanghyuk Chun,0.04
+Sangdoo Yun,0.04
+Jaegul Choo,0.04
+Seong Joon Oh,0.04
+Pedro Ballester,0.25
+Ricardo Araujo,0.25
+Sara Beery,0.1111111111111111
+Grant Van Horn,0.1111111111111111
+Mohamed Chaabane,0.0625
+Peter Zhang,0.0625
+Ross Beveridge,0.0625
+Stephen O’Hara,0.0625
+Jakob Uszko-reit,0.015625
+Keni Bernardin,0.25
+Zongyuan Ge,0.04
+Lionel Ott,0.04
+Fabio Ramos,0.04
+Ben Upcroft,0.04
+Hao Fang 0002,0.02040816326530612
+Ramakrishna Vedantam,0.02040816326530612
+Saurabh Gupta 0001,0.02040816326530612
+Piotr Dollár,0.02040816326530612
+Joan Puigcerver,0.02040816326530612
+Jessica Yung,0.02040816326530612
+Sylvain Gelly,0.02040816326530612
+Vedanuj Goswami,0.04
+Mathilde Caron,0.02040816326530612
+Hugo Touvron,0.02040816326530612
+Herv ´e J´egou,0.02040816326530612
+Julien Mairal,0.02040816326530612
+Piotr Bojanowski,0.02040816326530612
+Armand Joulin,0.02040816326530612
+Chao Jia,0.01
+Yinfei Yang,0.01
+Ye Xia,0.01
+Yi-Ting Chen,0.01
+Zarana Parekh,0.01
+Hieu Pham,0.01
+Quoc V Le,0.01
+Yunhsuan Sung,0.01
+Zhen Li,0.01
+Tom Duerig,0.01
+Harsh Agrawal,0.01
+Karan Desai,0.01
+Yufei Wang,0.01
+Rishabh Jain,0.01
+Eungchun Cho,1.0
+Bart Van Merri ¨enboer,0.02040816326530612
+Ondrej Bohdal,0.1111111111111111
+Yongxin Yang,0.1111111111111111
+Timothy Hospedales,0.1111111111111111
+Glenn W Brier,1.0
+Kevin Murphy 0002,0.04
+Alan L. Yuille,0.04
+Chunlei Cai,0.0625
+Li Chen,0.0625
+Xiaoyun Zhang,0.0625
+Zhiyong Gao,0.0625
+Allen Gersho,0.25
+Robert M. Gray,0.25
+Jean Pouget-Abadie,0.015625
+Mehdi Mirza,0.015625
+Bing Xu,0.015625
+David Warde-Farley,0.015625
+Sherjil Ozair,0.015625
+Rige Su,0.0625
+Zhengxue Cheng,0.0625
+Heming Sun,0.0625
+Jiro Katto,0.0625
+Yichen Guo A,0.0625
+Ke Yan A,0.0625
+Hao Wu A,0.0625
+Bin Liu A B,0.0625
+Efthalia Angelopoulou,0.1111111111111111
+Yam Nath Paudel,0.1111111111111111
+Christina Piperi,0.1111111111111111
+Sebastian Briesemeister,0.1111111111111111
+Jorg Rahnenfuhrer,0.1111111111111111
+Oliver Kohlbacher,0.1111111111111111
+Author3,0.1111111111111111
+Jonathan Ho,0.1111111111111111
+Ajay Jain,0.1111111111111111
+Alexia Jolicoeur-Martineau,0.04
+Ke Li,0.04
+R ´emi Pich ´e-Taillefer,0.04
+Tal Kachman,0.04
+Ioannis Mitliagkas,0.04
+Amir Sadeghian,0.027777777777777776
+Vineet Kosaraju,0.027777777777777776
+Ali Sadeghian,0.027777777777777776
+Noriaki Hirose,0.027777777777777776
+Hamid Rezatoﬁghi,0.027777777777777776
+Guangyi Chen,0.1111111111111111
+Junlong Li,0.1111111111111111
+Jie Zhou,0.1111111111111111
+Rui Gong,0.0625
+Wen Li,0.0625
+Yuhua Chen,0.0625
+Yu-Lun Liu,0.02040816326530612
+Wei-Sheng Lai,0.02040816326530612
+Yu-Sheng Chen,0.02040816326530612
+Yi-Lung Kao,0.02040816326530612
+Jia-Bin Huang,0.02040816326530612
+Stephan R. Richter,0.0625
+Vibhav Vineet,0.0625
+Stefan Roth 0001,0.0625
+Kihyuk Sohn,0.0625
+Samuel Schulter,0.0625
+Manmo-han Chandraker,0.0625
+Liana G Apostolova,0.02040816326530612
+Amity E Green,0.02040816326530612
+Sona Babakcha- nian,0.02040816326530612
+Kristy S Hwang,0.02040816326530612
+Yi-Yu Chou,0.02040816326530612
+Arthur W Toga,0.02040816326530612
+Paul M Thompson,0.02040816326530612
+Josephine Barnes,0.027777777777777776
+Rachael I Scahill,0.027777777777777776
+Jonathan M Schott,0.027777777777777776
+Chris Frost,0.027777777777777776
+Martin N Rossor,0.027777777777777776
+Nick C Fox,0.027777777777777776
+Nicholas Bien,0.01
+Pranav Rajpurkar,0.01
+Robyn L Ball,0.01
+Jeremy Irvin,0.01
+Allison Park,0.01
+Erik Jones,0.01
+Michael Bereket,0.01
+Bhavik N Patel,0.01
+Kristen W Yeom,0.01
+Katie Shpanskaya,0.01
+Isma Hadji,0.1111111111111111
+Konstantinos G. Derpanis,0.1111111111111111
+Allan D. Jepson,0.1111111111111111
+Jean-Baptiste Alayrac,0.027777777777777776
+Nishant Agrawal,0.027777777777777776
+Rémi Lajugie,0.02040816326530612
+Francis R. Bach,0.02040816326530612
+Zilong Huang,0.027777777777777776
+Xinggang Wang,0.027777777777777776
+Lichao Huang,0.027777777777777776
+Chang Huang,0.027777777777777776
+Yunchao Wei,0.027777777777777776
+Wenyu Liu,0.027777777777777776
+Priya Goyal,0.04
+Kevin Murphy,0.04
+Jun Fu,0.02040816326530612
+Jing Liu,0.02040816326530612
+Haijie Tian,0.02040816326530612
+Yong Li,0.02040816326530612
+Yongjun Bao,0.02040816326530612
+Zhiwei Fang,0.02040816326530612
+Zeng Huang,0.04
+Yuanlu Xu,0.04
+Tony Tung,0.04
+Adrian V Dalca,0.04
+Fredo Du- rand,0.04
+John Guttag,0.04
+Joel Carranza,0.0625
+Marcus A Magnor,0.0625
+Hans-Peter Seidel,0.0625
+Yi Xu,0.0625
+true Price,0.0625
+Fabian Monrose,0.0625
+Jan-Michael Frahm,0.0625
+Giorgos Kordopatis-Zilos,0.0625
+Symeon Papadopoulos,0.0625
+Ioannis Kompatsiaris,0.0625
+Chao Dong,0.0625
+Xiaoou Tang,0.0625
+Libin Sun,0.25
+Xiaolong Wang,0.0625
+Kaim- ing He,0.0625
+Syl-vain Gelly,0.006944444444444444
+Tengda Han,0.1111111111111111
+Weidi Xie,0.1111111111111111
+Neelima Chavali,0.0625
+Aroma Mahendru,0.0625
+Pablo Arbel 'aez,0.04
+Jordi Pont-Tuset,0.04
+Fer- ran Marques,0.04
+Tom Brown,0.001040582726326743
+Benjamin Mann,0.001040582726326743
+Nick Ryder,0.001040582726326743
+Melanie Sub-biah,0.001040582726326743
+Jared D Kaplan,0.001040582726326743
+Prafulla Dhariwal,0.001040582726326743
+Arvind Neelakantan,0.001040582726326743
+Pranav Shyam,0.001040582726326743
+Ariel Herbert-Voss,0.001040582726326743
+Gretchen Krueger,0.001040582726326743
+Tom Henighan,0.001040582726326743
+Rewon Child,0.001040582726326743
+Daniel Ziegler,0.001040582726326743
+Jeffrey Wu,0.001040582726326743
+Clemens Winter,0.001040582726326743
+Chris Hesse,0.001040582726326743
+Mark Chen,0.001040582726326743
+Eric Sigler,0.001040582726326743
+Mateusz Litwin,0.001040582726326743
+Scott Gray,0.001040582726326743
+Benjamin Chess,0.001040582726326743
+Christopher Berner,0.001040582726326743
+Sam McCandlish,0.001040582726326743
+Dario Amodei,0.001040582726326743
+Michael Kazhdan,0.25
+Hugues Hoppe,0.25
+Lars Mescheder,0.04
+Thibault Groueix,0.04
+Matthew Fisher,0.04
+Bryan C Russell,0.04
+Mathieu Aubry,0.04
+Nina Amenta,0.1111111111111111
+Sunghee Choi,0.1111111111111111
+Ravi Krishna Kolluri,0.1111111111111111
+Alan Ohnsman,1.0
+Guanhang Wu,0.04
+Vivek Rathod,0.04
+Ronny Votel,0.04
+Igal Bilik,0.0625
+Oren Longman,0.0625
+Shahar Villeval,0.0625
+Joseph Tabrikian,0.0625
+Jun Cheng,0.04
+Fuxiang Wu,0.04
+Yanling Tian,0.04
+Lei Wang,0.04
+Dapeng Tao,0.04
+Patrick Esser,0.1111111111111111
+Robin Rombach,0.1111111111111111
+Bj ¨orn Ommer,0.1111111111111111
+Shane Barratt,0.25
+Rishi Sharma,0.25
+Zekai Chen,0.008264462809917356
+Mariann Micsinai Balan,0.008264462809917356
+Kevin Brown,0.008264462809917356
+Lukas Bossard,0.1111111111111111
+Matthieu Guillaumin,0.1111111111111111
+Kunpeng Li,0.04
+Ziyan Wu,0.04
+Kuan-Chuan Peng,0.04
+Jan Ernst,0.04
+Yun Fu,0.04
+Laura Rieger,0.0625
+Chandan Singh,0.0625
+William Murdoch,0.0625
+Bin Yu,0.0625
+Hiroshi Fukui,0.0625
+Tsubasa Hirakawa,0.0625
+Takayoshi Yamashita,0.0625
+Hironobu Fujiyoshi,0.0625
+Wentao Jiang,0.02040816326530612
+Ning Xu,0.02040816326530612
+Jiayun Wang,0.02040816326530612
+Chen Gao,0.02040816326530612
+Jing Shi,0.02040816326530612
+Bowen Li,0.0625
+Xiaojuan Qi,0.0625
+Thomas Lukasiewicz,0.0625
+Alaaeldin El-Nouby,0.015625
+Shikhar Sharma,0.015625
+Hannes Schulz,0.015625
+De- von Hjelm,0.015625
+Layla El Asri,0.015625
+Samira Ebrahimi Kahou,0.015625
+Xiaofeng Mao,0.027777777777777776
+Yuefeng Chen,0.027777777777777776
+Yuhong Li,0.027777777777777776
+Tao Xiong,0.027777777777777776
+Yuan He,0.027777777777777776
+Hui Xue,0.027777777777777776
+Lingjie Liu,0.027777777777777776
+Yuan Liu,0.027777777777777776
+Taku Komura,0.027777777777777776
+Wenping Wang,0.027777777777777776
+Sai Bi,0.012345679012345678
+Zexiang Xu,0.012345679012345678
+Milos Hasan,0.012345679012345678
+Yannick Hold-Geoffroy,0.012345679012345678
+David J. Kriegman,0.012345679012345678
+Ravi Ramamoorthi,0.012345679012345678
+Ronnachai Jaroensri,0.02040816326530612
+Changil Kim,0.02040816326530612
+Mohamed Elgharib,0.02040816326530612
+Fr’edo Durand,0.02040816326530612
+William T Freeman,0.02040816326530612
+Wojciech Matusik,0.02040816326530612
+Supreeth Achar,0.04
+Joseph R. Bartels,0.04
+William L. Whittaker,0.04
+Kiriakos N. Kutulakos,0.04
+Srinivasa G. Narasimhan,0.04
+Marina Alterman,0.0625
+Chen Bar,0.0625
+Ioannis Gkioulekas,0.0625
+Anat Levin,0.0625
+Nick Antipa,0.04
+Patrick Oare,0.04
+Emrah Bostan,0.04
+Ren Ng,0.04
+Laura Waller,0.04
+Luigi Di Stefano,0.1111111111111111
+Massimiliano Marchionni,0.1111111111111111
+Stefano Mattoccia,0.1111111111111111
+Jure Zbontar,0.1111111111111111
+Tengfei Wang,0.04
+Jiaxin Xie,0.04
+Wenxiu Sun,0.04
+Qiong Yan,0.04
+Qifeng Chen,0.04
+Yapeng Tian,0.0625
+Yulun Zhang,0.0625
+Beibei Lin,0.1111111111111111
+Shunli Zhang,0.1111111111111111
+Xin Yu,0.1111111111111111
+Irene Amerini,0.0625
+Leonardo Galteri,0.0625
+Roberto Caldelli,0.0625
+Alberto Del Bimbo,0.0625
+Weizhi An,0.015625
+Shiqi Yu,0.015625
+Yasushi Makihara,0.015625
+Xinhui Wu,0.015625
+Chi Xu,0.015625
+Yang Yu,0.015625
+Rijun Liao,0.015625
+Yasushi Yagi,0.015625
+Reuben Tan,0.0625
+Mariya I Vasileva,0.0625
+Bryan A Plummer,0.0625
+Molly Eckman,0.25
+Janet Wagner,0.25
+Chen,1.0
+Xu Chen,0.027777777777777776
+Yongfeng Zhang,0.027777777777777776
+Hongteng Xu,0.027777777777777776
+Yixin Cao,0.027777777777777776
+Zheng Qin,0.027777777777777776
+Hongyuan Zha,0.027777777777777776
+Wei Chen,0.01
+Jun Zhao,0.01
+Yaming Wen,0.01
+Bin Xie,0.01
+Xuanling Zhou,0.01
+Lin Guo,0.01
+Liu Yang,0.01
+Jian Wang,0.01
+Yongming Dai,0.01
+Daiquan Zhou,0.01
+Russell Hardie,1.0
+Yiman Zhang,0.027777777777777776
+Hanting Chen,0.027777777777777776
+Xinghao Chen,0.027777777777777776
+Yiping Deng,0.027777777777777776
+Chunjing Xu,0.027777777777777776
+Yunhe Wang,0.027777777777777776
+Qing Lyu,0.02040816326530612
+Hongming Shan,0.02040816326530612
+Cole Steber,0.02040816326530612
+Corbin Helis,0.02040816326530612
+Chris Whitlow,0.02040816326530612
+Michael Chan,0.02040816326530612
+Ge Wang,0.02040816326530612
+Huan Lei,0.1111111111111111
+Naveed Akhtar,0.1111111111111111
+Ajmal Mian,0.1111111111111111
+Eric Jang,0.1111111111111111
+Shixiang Gu,0.1111111111111111
+Ben Poole,0.1111111111111111
+Wengong Jin,0.1111111111111111
+Regina Barzilay,0.1111111111111111
+Tommi Jaakkola,0.1111111111111111
+Karsten M Borgwardt,0.027777777777777776
+Cheng Soon Ong,0.027777777777777776
+Stefan Sch ¨onauer,0.027777777777777776
+SVN Vishwanathan,0.027777777777777776
+Alex J Smola,0.027777777777777776
+Hans-Peter Kriegel,0.027777777777777776
+Kaizhi Qian,0.04
+Yang Zhang,0.04
+Shiyu Chang,0.04
+David Cox,0.04
+Mark Hasegawa-Johnson,0.04
+Gu Junru,0.1111111111111111
+Sun Chen,0.1111111111111111
+Zhao Hang,0.1111111111111111
+Abbas Sadat,0.1111111111111111
+Benjamin Sapp,0.0625
+Anastasios Roussos,0.04
+Allan Ponniah,0.04
+David Dunaway,0.04
+Der-Tsai Lee,0.25
+Bruce J Schachter,0.25
+V olker Blanz,0.25
+Thomas Vetter,0.25
+Volker Blanz,0.25
+Max Bain,0.0625
+Arsha Nagrani,0.0625
+G Èul Varol,0.0625
+Andrew Zisser-man,0.0625
+Herv Âe JÂegou,0.02040816326530612
+Hamed Pirsi- avash,0.04
+Jose D Guzman,0.25
+Engelbert K Peralta,0.25
+Sanjivani Shantaiya,0.25
+Uzma Ansari,0.25
+Seung-Hwan Baek,0.25
+Angel Chang,0.012345679012345678
+Angela Dai,0.012345679012345678
+Thomas Funkhouser,0.012345679012345678
+Maciej Hal-ber,0.012345679012345678
+Matthias Niessner,0.012345679012345678
+Andy Zeng,0.012345679012345678
+Gary A Atkinson,0.25
+Edwin R Hancock,0.25
+RMA Azzam,1.0
+Ting Liu,0.02040816326530612
+Thomas S Huang,0.02040816326530612
+Aljo ˇsa Oˇsep,0.04
+Laura Leal- Taix´e,0.04
+Jonathan Shen,0.005917159763313609
+Ruoming Pang,0.005917159763313609
+Ron J. Weiss,0.005917159763313609
+Mike Schuster,0.005917159763313609
+Navdeep Jaitly,0.005917159763313609
+Zongheng Yang,0.005917159763313609
+Zhifeng Chen,0.005917159763313609
+Yu Zhang 0033,0.005917159763313609
+Yuxuan Wang 0002,0.005917159763313609
+R. J. Skerry-Ryan,0.005917159763313609
+Rif A. Saurous,0.005917159763313609
+Yannis Agiomyrgiannakis,0.005917159763313609
+Yonghui Wu,0.005917159763313609
+Jungil Kong,0.1111111111111111
+Jaehyeon Kim,0.1111111111111111
+Jaekyoung Bae,0.1111111111111111
+ShahRukh Athar,0.0625
+Albert Pumarola,0.0625
+Francesc Moreno-Noguer,0.0625
+Dimitris Samaras,0.0625
+S Athar,0.1111111111111111
+Z Shu,0.1111111111111111
+D Samaras,0.1111111111111111
+Arslan Chaudhry,0.0625
+Puneet K Dokania,0.0625
+Thalaiyasingam Ajan-than,0.0625
+Marc' Aurelio Ranzato,0.25
+Qizhe Xie,0.04
+Zihang Dai,0.04
+Eduard H. Hovy,0.04
+Thang Luong,0.04
+Quoc Le 0001,0.04
+Ekin D Cubuk,0.0625
+Sanjeev Arora,0.04
+Hrishikesh Khandeparkar,0.04
+Mikhail Khodak,0.04
+Orestis Plevrakis,0.04
+Nikunj Saunshi,0.04
+Andreas Lanitis,0.1111111111111111
+Chrisina Draganova,0.1111111111111111
+Chris Christodoulou,0.1111111111111111
+Chen-Wei Xie,0.04
+Jianxin Wu,0.04
+Bin-Bin Gao,0.04
+Chao Xing,0.04
+Xin Geng,0.04
+Adrian Bulat,0.25
+Georgios Tzimiropoulos,0.25
+Shixing Chen,0.04
+Caojin Zhang,0.04
+Ming Dong,0.04
+Jialiang Le,0.04
+Mike Rao,0.04
+Fu Jie Huang,0.1111111111111111
+Leon Bottou,0.1111111111111111
+Francesco Locatello,0.027777777777777776
+Gabriele Abbati,0.027777777777777776
+Thomas Rainforth,0.027777777777777776
+Stefan Bauer,0.027777777777777776
+Bernhard Scholkopf,0.027777777777777776
+Olivier Bachem,0.027777777777777776
+Christopher P Burgess,0.02040816326530612
+Irina Higgins,0.02040816326530612
+Arka Pal,0.02040816326530612
+Loic Matthey,0.02040816326530612
+Nick Watters,0.02040816326530612
+Guillaume Desjardins,0.02040816326530612
+Alexan- der Lerchner,0.02040816326530612
+Xi Chen,0.027777777777777776
+Yan Duan,0.027777777777777776
+Rein Houthooft,0.027777777777777776
+John Schulman,0.027777777777777776
+Jeffrey M Zacks,0.04
+Nicole K Speer,0.04
+Khena M Swallow,0.04
+Todd S Braver,0.04
+Jeremy R Reynolds,0.04
+Jakob Uszko- reit,0.015625
+Chiraz BenAbdelkader,0.0625
+Ross Cutler,0.0625
+Harsh Nanda,0.0625
+Larry Davis,0.0625
+Ross G Cutler,0.1111111111111111
+Shyamal Buch,0.04
+Victor Escorcia,0.04
+Chuanqi Shen,0.04
+Juan Carlos Niebles,0.04
+Vincent Dumoulin,0.1111111111111111
+Manjunath Kudlur,0.1111111111111111
+Quan Meng,0.015625
+Anpei Chen,0.015625
+Haimin Luo,0.015625
+Minye Wu,0.015625
+Lan Xu,0.015625
+Xuming He,0.015625
+Jingyi Yu,0.015625
+Hassan Abu Alhaija,0.0625
+Siva Karthik Mustikovela,0.0625
+Fuhai Chen,0.04
+Rongrong Ji,0.04
+Xiaoshuai Sun,0.04
+Yongjian Wu,0.04
+Jinsong Su,0.04
+Lun Huang,0.0625
+Wenmin Wang,0.0625
+Jie Chen,0.0625
+Xiao-Yong Wei,0.0625
+Yunsheng Wu,0.04
+Jun Xiao,0.02040816326530612
+Liqiang Nie,0.02040816326530612
+Jian Shao,0.02040816326530612
+Tat-Seng Chua,0.02040816326530612
+Ran El-Yaniv,0.25
+Dmitry Pechyony,0.25
+Pi- otr Bojanowski,0.027777777777777776
+Byeongho Heo,0.0625
+Minsik Lee,0.0625
+Jin Young Choi,0.0625
+Duo Li,0.015625
+Jie Hu,0.015625
+Xiangtai Li,0.015625
+Qi She,0.015625
+Lei Zhu,0.015625
+Tong Zhang,0.015625
+Ilija Radosavovic,0.04
+Raj Prateek Kosaraju,0.04
+Kaim-ing He,0.04
+Jang Hyun Cho,0.25
+Tom Vercauteren,0.0625
+Aymeric Perchant,0.0625
+Stanley Durrleman,0.0625
+Alain Trouv é,0.0625
+Nikhil Singh,0.0625
+Jacob Hinkle,0.0625
+Sarang Joshi,0.0625
+P Thomas Fletcher,0.0625
+Felix Ambellan,0.0625
+Alexander Tack,0.0625
+Moritz Ehlke,0.0625
+Stefan Zachow,0.0625
+Fabian Caba Heilbron,0.0625
+Junyu Gao,0.25
+Changsheng Xu,0.25
+Ali Thabet,0.0625
+Donald J Berndt,0.25
+James Clifford,0.25
+Jérémy Scanvic,0.1111111111111111
+Quentin Barthélemy,0.1111111111111111
+Julián Tachella,0.1111111111111111
+Aviram Bar-Haim,0.25
+Daniel J. Butler,0.0625
+Jonas Wulff,0.0625
+Garrett B. Stanley,0.0625
+Adria Recasens,0.012345679012345678
+Rosalia Schneider,0.012345679012345678
+Jason Ramapuram,0.012345679012345678
+Jeffrey De Fauw,0.012345679012345678
+Lucas Smaira,0.012345679012345678
+Sander Dieleman,0.012345679012345678
+Mahmoud Assran,0.0625
+Michael Rabbat,0.0625
+Zhe Cao,0.04
+Gines Hidalgo,0.04
+Shih-En Wei,0.04
+Yaser Sheikh,0.04
+John Houston,0.04
+Guido Zuidhof,0.04
+Ashesh Jain,0.04
+Sammy Omari,0.04
+Vladimir Iglovikov,0.04
+Yuxuan Liu 0008,0.1111111111111111
+Lujia Wang 0001,0.1111111111111111
+Ming Liu 0001,0.1111111111111111
+Siddharth Agarwal,0.027777777777777776
+Ankit Vora,0.027777777777777776
+Gaurav Pandey,0.027777777777777776
+Wayne Williams,0.027777777777777776
+Helen Kourous,0.027777777777777776
+James R Mcbride,0.027777777777777776
+Alex H. Lang,0.04
+Carlos Campos,0.04
+Richard Elvira,0.04
+Juan J G ´omez Rodr ´ıguez,0.04
+Jos´e MM Montiel,0.04
+Juan D Tard ´os,0.04
+Jun Ling,0.04
+Han Xue,0.04
+Li Song,0.04
+Rong Xie,0.04
+Xiao Gu,0.04
+Hui Zeng,0.04
+Jianrui Cai,0.04
+Lida Li,0.04
+Zisheng Cao,0.04
+Konstantin Soﬁiuk,0.1111111111111111
+Polina Popenova,0.1111111111111111
+Anton Konushin,0.1111111111111111
+Paolo Andreini,0.027777777777777776
+Simone Bonechi,0.027777777777777776
+Monica Bianchini,0.027777777777777776
+Alessandro Mecocci,0.027777777777777776
+Franco Scarselli,0.027777777777777776
+Andrea Sodi,0.027777777777777776
+Ivan Anokhin,0.012345679012345678
+Pavel Solovev,0.012345679012345678
+Denis Korzhenkov,0.012345679012345678
+Alexey Kharlamov,0.012345679012345678
+Taras Khakhulin,0.012345679012345678
+Aleksei Silvestrov,0.012345679012345678
+Sergey Nikolenko,0.012345679012345678
+Gleb Sterkin,0.012345679012345678
+David Leigh Donoho,0.25
+Ana Georgina Flesia,0.25
+Yifan Liu,0.027777777777777776
+Ke Chen,0.027777777777777776
+Chris Liu,0.027777777777777776
+Zengchang Qin,0.027777777777777776
+Zhenbo Luo,0.027777777777777776
+Jingdong Wang,0.027777777777777776
+Vincent Andrearczyk,0.25
+Paul F Whelan,0.25
+Meng Tang,0.027777777777777776
+Federico Perazzi,0.027777777777777776
+Abdelaziz Djelouah,0.027777777777777776
+Christopher Schroers,0.027777777777777776
+Yuri Boykov,0.027777777777777776
+Zhi Tian,0.0625
+Chunhua Shen,0.0625
+Xinlong Wang,0.0625
+Linchao Bao,0.04
+Qingxiong Yang,0.04
+Hao Yuan,0.04
+Gang Wang,0.04
+Amy Bearman,0.0625
+Olga Russakovsky,0.0625
+Hongjun Chen,0.02040816326530612
+Jinbao Wang,0.02040816326530612
+Hong Cai Chen,0.02040816326530612
+Xiantong Zhen,0.02040816326530612
+Feng Zheng,0.02040816326530612
+Ling Shao,0.02040816326530612
+Rajat Koner,0.1111111111111111
+Poulami Sinhamahapatra,0.1111111111111111
+Volker Tresp,0.1111111111111111
+Marcella Cornia,0.0625
+Matteo Stefanini,0.0625
+Lorenzo Baraldi,0.0625
+Sherif Abdelkarim,0.015625
+Aniket Agarwal,0.015625
+Panos Achlioptas,0.015625
+Jun Chen,0.015625
+Jiaji Huang,0.015625
+Boyang Li,0.015625
+Kenneth Church,0.015625
+Mohamed Elhoseiny,0.015625
+James P Bohnslav,0.01
+Nivanthika K Wimalasena,0.01
+Kelsey J Clausing,0.01
+Yu Y Dai,0.01
+David A Yarmolinsky,0.01
+Tom ´as Cruz,0.01
+Adam D Kashlan,0.01
+M Eugenia Chiappe,0.01
+Lauren L Orefice,0.01
+Clifford J Woolf,0.01
+Christoph Feichtenhofer,1.0
+Jianzhu Guo,0.027777777777777776
+Xiangyu Zhu,0.027777777777777776
+Chenxu Zhao,0.027777777777777776
+Dong Cao,0.027777777777777776
+Zhen Lei,0.027777777777777776
+Stan Z Li,0.027777777777777776
+Jingru Tan,0.02040816326530612
+Changbao Wang,0.02040816326530612
+Buyu Li,0.02040816326530612
+Quanquan Li,0.02040816326530612
+Wanli Ouyang,0.02040816326530612
+Changqing Yin,0.02040816326530612
+Luming Tang,0.1111111111111111
+Davis Wertheimer,0.1111111111111111
+Fabio Cermelli,0.04
+Massimiliano Mancini,0.04
+Samuel Rota Bul `o,0.04
+Elisa Ricci,0.04
+Barbara Caputo,0.04
+Arthur Douillard,0.0625
+Yifu Chen,0.0625
+Arnaud Dapogny,0.0625
+Matthieu Cord,0.0625
+Umberto Michieli,0.25
+Pietro Zanuttigh,0.25
+José M. Álvarez 0004,0.0625
+Theo Gevers,0.0625
+Antonio M. López 0001,0.0625
+Chen-Yu Lee,0.04
+Patrick Gallagher,0.04
+Zhengyou Zhang,0.04
+Buyu Liu,0.04
+Bingbing Zhuang,0.04
+Pan Ji,0.04
+Manmohan Chandraker,0.04
+Peiliang Li,0.1111111111111111
+Shaojie Shen,0.1111111111111111
+Wei-Lun Chao,0.0625
+Soravit Changpinyo,0.0625
+Fei Sha,0.0625
+Mircea Cimpoi,0.04
+Subhransu Maji,0.04
+Sammy Mohamed,0.04
+Bryan C. Russell,0.04
+Matthew Loper,0.04
+Naureen Mahmood,0.04
+Matheus Gadelha,0.1111111111111111
+Rui Wang,0.1111111111111111
+Erick Moen,0.027777777777777776
+Dylan Bannon,0.027777777777777776
+Takamasa Kudo,0.027777777777777776
+William Graf,0.027777777777777776
+Markus Covert,0.027777777777777776
+David Van Valen,0.027777777777777776
+bespecular,1.0
+Taslima Akter,0.04
+Bryan Dosono,0.04
+Apu Kapadia,0.04
+Bryan Semaan,0.04
+Jeffrey P Bigham,0.01
+Chandrika Jayant,0.01
+Hanjie Ji,0.01
+Greg Little,0.01
+Andrew Miller,0.01
+Robert C Miller,0.01
+Robin Miller,0.01
+Aubrey Tatarowicz,0.01
+Brandyn White,0.01
+Samual White,0.01
+Ramakrishna V edantam,0.1111111111111111
+Bairui Wang,0.027777777777777776
+Lin Ma,0.027777777777777776
+Wei Zhang,0.027777777777777776
+Jingwen Wang,0.027777777777777776
+Elad Amrani,0.0625
+Rami Ben-Ari,0.0625
+Daniel Rotman,0.0625
+Alex Bronstein,0.0625
+Lingfei Ma,0.027777777777777776
+Ying Li,0.027777777777777776
+Jonathan Li,0.027777777777777776
+Weikai Tan,0.027777777777777776
+Yongtao Yu,0.027777777777777776
+Michael A Chapman,0.027777777777777776
+Dong Nie,0.1111111111111111
+Jia Xue,0.1111111111111111
+Xiaofeng Ren,0.1111111111111111
+Xavier Roynard,0.1111111111111111
+Jean-Emmanuel Deschaud,0.1111111111111111
+François Goulette,0.1111111111111111
+Hasan Asy’ari Arief,0.027777777777777776
+Mansur Arief,0.027777777777777776
+Manoj Bhat,0.027777777777777776
+Ulf Geir Indahl,0.027777777777777776
+H ˚avard Tveite,0.027777777777777776
+Ding Zhao,0.027777777777777776
+Iro Armeni,0.02040816326530612
+Ozan Sener,0.02040816326530612
+Amir R Zamir,0.02040816326530612
+Helen Jiang,0.02040816326530612
+Ioannis Brilakis,0.02040816326530612
+Martin Fischer,0.02040816326530612
+Sergi Caelles,0.027777777777777776
+Kevis-Kokitsi Maninis,0.027777777777777776
+Laura Leal-Taix ´e,0.027777777777777776
+Daniel Cremers,0.027777777777777776
+Viorica Patraucean,0.04
+Laurent Mazare,0.04
+Simon Osindero,0.04
+Ping Hu,0.027777777777777776
+Fabian Caba,0.027777777777777776
+Stan Sclaroff,0.027777777777777776
+Yule Li,0.1111111111111111
+Jianping Shi,0.1111111111111111
+Ruihe Qian,0.027777777777777776
+Han Yu,0.027777777777777776
+Renda Bao,0.027777777777777776
+Yao Sun,0.027777777777777776
+Ehsan Adeli,0.02040816326530612
+Qingyu Zhao,0.02040816326530612
+Adolf Pfefferbaum,0.02040816326530612
+Edith V Sul-ivan,0.02040816326530612
+Kilian M Pohl,0.02040816326530612
+Mohsan Alvi,0.1111111111111111
+Christoffer Nell ˚aker,0.1111111111111111
+Remi Cadene,0.0625
+Corentin Dancette,0.0625
+Christopher Clark,0.1111111111111111
+Mark Yatskar,0.1111111111111111
+Luke Zettlemoyer,0.1111111111111111
+Xingyu Chen,0.012345679012345678
+Yufeng Liu,0.012345679012345678
+Chongyang Ma,0.012345679012345678
+Jianlong Chang,0.012345679012345678
+Huayan Wang,0.012345679012345678
+Tian Chen,0.012345679012345678
+Xiaoyan Guo,0.012345679012345678
+Pengfei Wan,0.012345679012345678
+Wen Zheng,0.012345679012345678
+Pulkit Agrawal,0.0625
+Katerina Fragkiadaki,0.0625
+John C Gower,1.0
+Riza Alp Guler,0.25
+Sida Peng,0.02040816326530612
+Yuanqing Zhang,0.02040816326530612
+Qianqian Wang,0.02040816326530612
+Qing Shuai,0.02040816326530612
+Hujun Bao,0.02040816326530612
+Xiaowei Zhou,0.02040816326530612
+Guillaume Abadie,0.04
+Steve McAuley,0.04
+Evegenii Golubev,0.04
+Stephen Hill,0.04
+Sebastien Lagarde,0.04
+YiChang Shih,0.0625
+Yueqi Duan,0.1111111111111111
+Jiwen Lu,0.1111111111111111
+Yixiao Ge,0.04
+Feng Zhu,0.04
+Dapeng Chen,0.04
+Rui Zhao,0.04
+Hong- sheng Li,0.04
+Weiming Zhuang,0.015625
+Yonggang Wen,0.015625
+Xuesen Zhang,0.015625
+Xin Gan,0.015625
+Daiying Yin,0.015625
+Dongzhan Zhou,0.015625
+Shuai Zhang,0.015625
+Shuai Yi,0.015625
+Lei Yang,0.027777777777777776
+Xiaohang Zhan,0.027777777777777776
+Pi-ot Bojanowski,0.027777777777777776
+Jean-Bastien Grill,0.00510204081632653
+Florian Strub,0.00510204081632653
+Florent Altché,0.00510204081632653
+Corentin Tallec,0.00510204081632653
+Pierre H. Richemond,0.00510204081632653
+Elena Buchatskaya,0.00510204081632653
+Bernardo Ávila Pires,0.00510204081632653
+Zhaohan Guo,0.00510204081632653
+Mohammad Gheshlaghi Azar,0.00510204081632653
+Bilal Piot,0.00510204081632653
+Koray Kavukcuoglu,0.00510204081632653
+Rémi Munos,0.00510204081632653
+Michal Valko,0.00510204081632653
+Sergei V Kalinin,0.02040816326530612
+Mani Valleti,0.02040816326530612
+Harley Pyles,0.02040816326530612
+David Baker,0.02040816326530612
+James J De Yoreo,0.02040816326530612
+Maxim Ziatdinov,0.02040816326530612
+Mario Lucic,0.02040816326530612
+Gunnar Raetsch,0.02040816326530612
+Bernhard Sch ¨olkopf,0.02040816326530612
+Ricky TQ Chen,0.0625
+Xuechen Li,0.0625
+Roger Grosse,0.0625
+David Du- venaud,0.0625
+Corinna Cortes,0.25
+Mario Marc-hand,0.015625
+Tigran Galstyan,0.0625
+Hrant Khachatrian,0.0625
+Greg Ver Steeg,0.0625
+Aram Galstyan,0.0625
+Yunhao Ba,0.04
+Zhen Wang,0.04
+Kerim Doruk Karinca,0.04
+Oyku Deniz Bozkurt,0.04
+Achuta Kadambi,0.04
+Sarah Alotaibi,0.25
+William AP Smith,0.25
+Tianye Li,0.04
+Michael J Black,0.04
+Javier Romero,0.04
+William Smith,0.25
+Georgios Kopanas,0.0625
+Julien Philip,0.0625
+Thomas Leimk ¨uhler,0.0625
+George Drettakis,0.0625
+Naama Pearl,0.1111111111111111
+Simon Korman,0.1111111111111111
+Paul E. Debevec,0.25
+Gabriel Eilertsen,0.04
+Joel Kronander,0.04
+Gyorgy Denes,0.04
+Rafał Mantiuk,0.04
+Jonas Unger,0.04
+Benjamin Attal,0.02040816326530612
+Eliot Laidlaw,0.02040816326530612
+Aaron Gokaslan,0.02040816326530612
+Christian Richardt,0.02040816326530612
+Matthew O’Toole,0.02040816326530612
+Steven Boker,0.0625
+Minquan Xu,0.0625
+Jennifer Rotondo,0.0625
+Kadijah King,0.0625
+Justine Cassell,0.25
+Kristinn R. Thórisson,0.25
+Chaitanya Ahuja,0.0625
+Dong Won Lee,0.0625
+Ryo Ishii,0.0625
+Louis- Philippe Morency,0.0625
+Shugao Ma,0.0625
+Louis-Philippe Morency,0.0625
+Emre Aksan,0.1111111111111111
+Manuel Kaufmann,0.1111111111111111
+Otmar Hilliges,0.1111111111111111
+Songtao Liu,0.1111111111111111
+Di Huang,0.1111111111111111
+Yunhong Wang,0.1111111111111111
+Christian Simon,0.1111111111111111
+Piotr Koniusz,0.1111111111111111
+Mehrtash Harandi,0.1111111111111111
+Hongguang Zhang,0.1111111111111111
+Flood Sung,0.027777777777777776
+Li Zhang 0040,0.027777777777777776
+Tao Xiang 0002,0.027777777777777776
+Philip H. S. Torr,0.027777777777777776
+Timothy M. Hospedales,0.027777777777777776
+Xiaolong Li,0.027777777777777776
+He Wang,0.027777777777777776
+Li Yi,0.027777777777777776
+A Lynn Abbott,0.027777777777777776
+Charles Ruizhongtai Qi,0.0625
+Fabian Fuchs,0.0625
+Daniel Worrall,0.0625
+Volker Fischer,0.0625
+Congyue Deng,0.027777777777777776
+Or Litany,0.027777777777777776
+Adrien Poulenard,0.027777777777777776
+Leonidas Guibas,0.027777777777777776
+Pablo Arbel ´aez,0.04
+Seunghoon Hong,0.04
+Donghun Yeo,0.04
+Honglak Lee,0.04
+Jungbeom Lee,0.0625
+Jooyoung Choi,0.0625
+Jisoo Mok,0.0625
+Sungroh Yoon,0.0625
+Lijun Wang,0.02040816326530612
+Huchuan Lu,0.02040816326530612
+Yifan Wang,0.02040816326530612
+Mengyang Feng,0.02040816326530612
+Dong Wang,0.02040816326530612
+Baocai Yin,0.02040816326530612
+Xiang Ruan,0.02040816326530612
+Jiasi Wang,0.04
+Hayato Ikoma,0.02040816326530612
+Daniel S Jeon,0.02040816326530612
+Y uqi Li,0.02040816326530612
+Wolfgang Heidrich,0.02040816326530612
+Gordon Wetzstein,0.02040816326530612
+Min HKim,0.02040816326530612
+Shariq Farooq Bhat,0.1111111111111111
+Ibraheem Alhashim,0.1111111111111111
+Peter Wonka,0.1111111111111111
+Nicola Brusco,0.02040816326530612
+S Capeleto,0.02040816326530612
+M Fedel,0.02040816326530612
+Anna Paviotti,0.02040816326530612
+Luca Po- letto,0.02040816326530612
+Guido Maria Cortelazzo,0.02040816326530612
+G Tondello,0.02040816326530612
+Can Wang,0.027777777777777776
+Hao Zhu,0.027777777777777776
+Yihuan Mao,0.027777777777777776
+Vasileios Choutas,0.04
+Adrian Spurr,0.0625
+Jie Song,0.0625
+Seonwook Park,0.0625
+Mike Lewis,0.015625
+Yinhan Liu,0.015625
+Naman Goyal,0.015625
+Marjan Ghazvinine- jad,0.015625
+Abdelrahman Mohamed,0.015625
+Omer Levy,0.015625
+Ves Stoyanov,0.015625
+U,0.02040816326530612
+n,0.02040816326530612
+k,0.02040816326530612
+o,0.02040816326530612
+w,0.02040816326530612
+Miika Aittala,0.1111111111111111
+Jaakko Lehtinen,0.1111111111111111
+Jinwoo Lee,0.027777777777777776
+Hyunsung Go,0.027777777777777776
+Hyunjoon Lee,0.027777777777777776
+Sunghyun Cho,0.027777777777777776
+Minhyuk Sung,0.027777777777777776
+Junho Kim,0.027777777777777776
+Zhihong Jiang,0.0625
+Junhyeong Cho,0.0625
+Youngseok Yoon,0.0625
+Hyeonjun Lee,0.0625
+Thilini Cooray,0.1111111111111111
+Ngai-Man Cheung,0.1111111111111111
+Wei Lu,0.1111111111111111
+Yubin Deng,0.0625
+Shuhang Gu,0.0625
+Wangmeng Zuo,0.0625
+Xiangchu Feng,0.0625
+Chong Mou,0.1111111111111111
+Zhuoyuan Wu,0.1111111111111111
+Wuzhen Shi,0.0625
+Feng Jiang,0.0625
+Shengping Zhang,0.0625
+Debin Zhao,0.0625
+Yijun Li,0.04
+Ming-Yu Liu,0.04
+Xueting Li,0.04
+Jiatao Gu,0.04
+Kyaw Zaw Lin,0.04
+Stephen Lombardi,0.027777777777777776
+Gabriel Schwartz,0.027777777777777776
+Andreas Lehrmann,0.027777777777777776
+Rodrigo Ortiz-Cayon,0.02040816326530612
+Nima Khademi Kalantari,0.02040816326530612
+Abhishek Kar,0.02040816326530612
+Connor Anderson,0.25
+Ryan Farrell,0.25
+Yuki M. Asano,0.0625
+Christian Rupprecht 0001,0.0625
+Manel Baradad,0.04
+Tongzhou Wang,0.04
+Abeba Birhane,0.25
+Vinay Uday Prabhu,0.25
+Andre Esteva,0.02040816326530612
+Brett Kuprel,0.02040816326530612
+Roberto A Novoa,0.02040816326530612
+Justin Ko,0.02040816326530612
+Susan M Swetter,0.02040816326530612
+Helen M Blau,0.02040816326530612
+Jae-Joon Hwang,0.0625
+Yun-Hoa Jung,0.0625
+Bong-Hae Cho,0.0625
+Min-Suk Heo,0.0625
+Dagmar Kainmueller,0.04
+Hans Lamecker,0.04
+Heiko Seim,0.04
+Max Zinser,0.04
+Zhengzhe Liu,0.1111111111111111
+Chi-Wing Fu,0.1111111111111111
+Fatemeh Abdolali,0.027777777777777776
+Reza Aghaeizadeh Zorooﬁ,0.027777777777777776
+Maryam Abdolali,0.027777777777777776
+Futoshi Yokota,0.027777777777777776
+Yoshito Otake,0.027777777777777776
+Yoshinobu Sato,0.027777777777777776
+Jiankang Deng,0.04
+Jia Guo,0.04
+Jing Yang,0.04
+Alexandros Lattas,0.04
+Maksim Dzabraev,0.0625
+Maksim Kalashnikov,0.0625
+Stepan Komkov,0.0625
+Aleksandr Petiushko,0.0625
+Dmitry Baranchuk,0.1111111111111111
+Artem Babenko,0.1111111111111111
+Yury Malkov,0.1111111111111111
+Bj ¨orn Barz,0.25
+Joachim Denzler,0.25
+Stephen Tyree,0.027777777777777776
+Pavlo Molchanov,0.027777777777777776
+Kevin Musgrave,1.0
+Adel Ahmadyan,0.04
+Liangkai Zhang,0.04
+Jianing Wei,0.04
+Artsiom Ablavatski,0.04
+Matthias Grundmann,0.04
+Michael D Abr `amoff,0.1111111111111111
+Paulo J Magalh ˜aes,0.1111111111111111
+Sunanda J Ram,0.1111111111111111
+V Abrishami,0.027777777777777776
+JR Bilbao-Castro,0.027777777777777776
+J Vargas,0.027777777777777776
+R Marabini,0.027777777777777776
+JM Carazo,0.027777777777777776
+COS Sorzano,0.027777777777777776
+Wei Dong,0.027777777777777776
+Richard Socher,0.027777777777777776
+Li-Jia Li,0.027777777777777776
+Kai Li,0.027777777777777776
+Jake K Aggarwal,0.25
+Michael S Ryoo,0.25
+Ioannis Alexiou,0.1111111111111111
+Tao Xiang,0.1111111111111111
+Divyansh Aggarwal,0.1111111111111111
+Jiayu Zhou,0.1111111111111111
+Anil K Jain,0.1111111111111111
+Xing Di,0.1111111111111111
+He Zhang,0.1111111111111111
+Vishal M Patel,0.1111111111111111
+Durmus Alp Emre Acar,0.027777777777777776
+Yue Zhao,0.027777777777777776
+Ramon Matas,0.027777777777777776
+Matthew Mattina,0.027777777777777776
+Paul Whatmough,0.027777777777777776
+Venkatesh Saligrama,0.027777777777777776
+Xintao Wang,0.04
+Sanketh Shetty,0.027777777777777776
+Thomas Leung,0.027777777777777776
+Fei-Fei Li,0.027777777777777776
+Zhengwei Wang,0.1111111111111111
+Aljosa Smolic,0.1111111111111111
+Liangzhe Yuan,0.02040816326530612
+Tao Dai,0.04
+Yongbing Zhang,0.04
+Shu-Tao Xia,0.04
+Eirikur Agustsson,0.25
+Namhyuk Ahn,0.1111111111111111
+Byungkon Kang,0.1111111111111111
+Kyung-Ah Sohn,0.1111111111111111
+Xiangxiang Chu,0.027777777777777776
+Bo Zhang,0.027777777777777776
+Hailong Ma,0.027777777777777776
+Ruijun Xu,0.027777777777777776
+Jixiang Li,0.027777777777777776
+Qingyuan Li,0.027777777777777776
+Dehong Gao,0.015625
+Linbo Jin,0.015625
+Ben Chen,0.015625
+Minghui Qiu,0.015625
+Peng Li,0.015625
+Yi Wei,0.015625
+Yi Hu,0.015625
+Florent Altch´e,0.01
+Pierre Richemond,0.01
+Bernardo Avila Pires,0.01
+Mohammad Ghesh-laghi Azar,0.01
+Walid Krichene,0.25
+Steffen Rendle,0.25
+Jingyuan Chen,0.027777777777777776
+Zhenfang Chen,0.027777777777777776
+Bing Deng,0.027777777777777776
+Jian- qiang Huang,0.027777777777777776
+Miles Brundage,0.027777777777777776
+Relja Arandjelovi´c,0.012345679012345678
+G ¨ul Varol,0.0625
+Ying Cheng,0.04
+Ruize Wang,0.04
+Zhihao Pan,0.04
+Rui Feng,0.04
+Yuejie Zhang,0.04
+Dat Huynh,0.25
+Ehsan Elhamifar,0.25
+Gustav Larsson,0.1111111111111111
+Gregory Shakhnarovich,0.1111111111111111
+Debidatta Dwibedi,0.04
+Jonathan Tompson,0.04
+Pierre Sermanet,0.04
+Sathyanarayanan N Aakur,0.25
+Sudeep Sarkar,0.25
+Sami Abu-El-Haija,0.02040816326530612
+Silvio Giancola,0.1111111111111111
+Brandon Amos,0.1111111111111111
+Bartosz Ludwiczuk,0.1111111111111111
+Mahadev Satya-narayanan,0.1111111111111111
+Anurag Bagchi,0.0625
+Jazib Mahmood,0.0625
+Dolton Fernandes,0.0625
+Ravi Kiran Sarvadevabhatla,0.0625
+Cunxiao Du,0.027777777777777776
+Zhaozheng Chen,0.027777777777777776
+Fuli Feng,0.027777777777777776
+Tian Gan,0.027777777777777776
+Boyuan Jiang,0.04
+MengMeng Wang,0.04
+Weihao Gan,0.04
+Jingen Liu,0.1111111111111111
+Benjamin Kuipers,0.1111111111111111
+Paul Nat-sev,0.02040816326530612
+Sud-heendra Vijayanarasimhan,0.02040816326530612
+Marian Stewart Bartlett,0.0625
+Gwen Littlewort,0.0625
+Ian Fasel,0.0625
+Javier R Movellan,0.0625
+Ira Cohen,0.04
+Fabio Gagliardi Cozman,0.04
+Nicu Sebe,0.04
+Marcelo Cesár Cirelo,0.04
+Jeff F Cohn,0.25
+Fernando De la Torre,0.25
+Yandong Guo,0.04
+Yuxiao Hu,0.04
+Boxin Shi,0.027777777777777776
+Zhipeng Mo,0.027777777777777776
+Zhe Wu,0.027777777777777776
+Dinglong Duan,0.027777777777777776
+Sai Kit Yeung,0.027777777777777776
+Ping Tan,0.027777777777777776
+Neil Alldrin,0.1111111111111111
+David Kriegman,0.1111111111111111
+Mark Boss,0.027777777777777776
+Raphael Braun,0.027777777777777776
+Varun Jampani,0.027777777777777776
+Ce Liu,0.027777777777777776
+Hendrik Lensch,0.027777777777777776
+Brent Burley,0.25
+Walt Disney Animation Studios,0.25
+Charles-F ´elix Chabert,0.015625
+Per Einarsson,0.015625
+Andrew Jones,0.015625
+Bruce Lamond,0.015625
+Wan-Chun Ma,0.015625
+Sebastian Sylwan,0.015625
+Tim Hawkins,0.015625
+Pascal Vincent,0.1111111111111111
+Gilles Blanchard,0.1111111111111111
+Gyemin Lee,0.1111111111111111
+Clayton Scott,0.1111111111111111
+Peter B ¨uhlmann,1.0
+Kenji Fukumizu,0.0625
+Arthur Gretton,0.0625
+Xiaohai Sun,0.0625
+Bernhard Sch¨olkopf,0.0625
+Chenyang Lei,0.0625
+Yazhou Xing,0.0625
+Hao Ouyang,0.0625
+Junting Pan,0.02040816326530612
+Chengyu Wang,0.02040816326530612
+Xu Jia,0.02040816326530612
+Jing Shao,0.02040816326530612
+Wenbo Bao,0.027777777777777776
+Chao Ma,0.027777777777777776
+Martin Kiefel,0.027777777777777776
+Peter V Gehler,0.027777777777777776
+Qianli Ma 0007,0.02040816326530612
+Jinlong Yang,0.02040816326530612
+Anurag Ranjan,0.02040816326530612
+Sergi Pujades,0.02040816326530612
+Siyu Tang 0001,0.02040816326530612
+Olga Diamanti,0.0625
+Peng Cao,0.0625
+Alexandros Karargyris,0.25
+Nikolaos Bourbakis,0.25
+Robert Anderson,0.015625
+David Gallup,0.015625
+Janne Kontkanen,0.015625
+Sameer Agarwal,0.015625
+Steven M Seitz,0.015625
+Jinyu Chen,0.027777777777777776
+Luting Wang,0.027777777777777776
+Qiong Zhang,0.027777777777777776
+Ben Graham,1.0
+Ronghang Hu,0.027777777777777776
+Huazhe Xu,0.027777777777777776
+Ahmed Abdelreheem,0.04
+Fei Xia,0.04
+Ryan Kiros,0.02040816326530612
+Richard Zemel,0.02040816326530612
+Ruslan Salakhut-dinov,0.02040816326530612
+Adam Roberts,0.012345679012345678
+Katherine Lee,0.012345679012345678
+Sharan Narang,0.012345679012345678
+Michael Matena,0.012345679012345678
+Yanqi Zhou,0.012345679012345678
+Wei Li 0133,0.012345679012345678
+Peter J. Liu,0.012345679012345678
+Jacob Devlin,0.0625
+Ming-Wei Chang,0.0625
+Kenton Lee,0.0625
+Kristina Toutanova,0.0625
+Zhiyuan Fang,0.04
+Tejas Gokhale,0.04
+Pratyay Banerjee,0.04
+Chitta Baral,0.04
+Yezhou Yang,0.04
+Jianfeng Wang,0.027777777777777776
+Xiaowei Hu,0.027777777777777776
+Lijuan Wang,0.027777777777777776
+Zicheng Liu,0.027777777777777776
+Joshua Feinglass,0.25
+Martin Ester,0.0625
+J ¨org Sander,0.0625
+Xiaowei Xu,0.0625
+Axel Pinz,0.1111111111111111
+Pan Zhou 0002,0.0625
+Steven C. H. Hoi,0.0625
+Arnon Amir,0.01
+David Berg,0.01
+Timothy Melano,0.01
+Jeffrey McKinstry,0.01
+Carmelo Di Nolfo,0.01
+Tapan Nayak,0.01
+Alexander Andreopoulos,0.01
+Guillaume Garreau,0.01
+Marcela Mendoza,0.01
+Alireza Sepas-Moghaddam,0.0625
+Paulo Lobato Correia,0.0625
+Ali Etemad,0.0625
+Andrew Zisser- man,0.0625
+David Chen,0.25
+William B Dolan,0.25
+Li Yuan,0.02040816326530612
+Shih- Fu Chang,0.02040816326530612
+Chris Alberti,0.0625
+Jeffrey Ling,0.0625
+Michael Collins,0.0625
+David Re-itter,0.0625
+Chérif Amrouche,0.25
+Nour El Houda Seloula,0.25
+Jo ao Guerra,0.25
+David Nualart,0.25
+Michael Garland,0.25
+Paul S. Heckbert,0.25
+Zhengxin Zhang,0.1111111111111111
+Qingjie Liu,0.1111111111111111
+Marco Attene,1.0
+Michael M. Bronstein,0.0625
+Joan Bruna,0.0625
+Taco Cohen,0.0625
+Petar Velickovic,0.0625
+Ahmed A. A. Osman,0.1111111111111111
+Dicko Ali-Hamadi,0.02040816326530612
+Tiantian Liu,0.02040816326530612
+Benjamin Gilles,0.02040816326530612
+Ladislav Kavan,0.02040816326530612
+Franc ¸ois Faure,0.02040816326530612
+Olivier Palombi,0.02040816326530612
+Marie-Paule Cani,0.02040816326530612
+Brett Allen,0.1111111111111111
+Zoran Popovi ´c,0.1111111111111111
+James Davis,0.027777777777777776
+Armelle Bauer,1.0
+Chen Chen,0.0625
+Jia Xu,0.0625
+Minh N Do,0.0625
+Tarik Arici,0.1111111111111111
+Salih Dikbas,0.1111111111111111
+Yucel Altunbasak,0.1111111111111111
+Xuan Dong,0.02040816326530612
+Guan Wang,0.02040816326530612
+Yi Pang,0.02040816326530612
+Weixin Li,0.02040816326530612
+Jiangtao Wen,0.02040816326530612
+Wei Meng,0.02040816326530612
+Yao Lu,0.02040816326530612
+Minhao Fan,0.0625
+Wenjing Wang,0.0625
+Wenhan Yang,0.0625
+Jiaying Liu,0.0625
+Gernot Riegler,0.25
+Pablo Fernández Alcantarilla,0.1111111111111111
+Adrien Bartoli,0.1111111111111111
+Andrew J Davison,0.1111111111111111
+Vassileios Balntas,0.0625
+Karel Lenc,0.0625
+Krys- tian Mikolajczyk,0.0625
+Fabio Bellavia,0.1111111111111111
+Domenico Tegolo,0.1111111111111111
+Emanuele Trucco,0.1111111111111111
+Nick Cammarata,0.027777777777777776
+Shan Carter,0.027777777777777776
+Chelsea Voss,0.027777777777777776
+Ludwig Schubert,0.027777777777777776
+Chris Olah,0.027777777777777776
+Michael Petrov,0.027777777777777776
+Saurabh Singh,0.0625
+Juhua Hu,0.04
+Qi Qian,0.04
+Jian Pei,0.04
+Rong Jin,0.04
+Shenghuo Zhu,0.04
+Lei Shang,0.027777777777777776
+Baigui Sun,0.027777777777777776
+Yan Wang,0.02040816326530612
+Zihang Lai,0.02040816326530612
+Gao Huang,0.02040816326530612
+Brian H Wang,0.02040816326530612
+Laurens van der Maaten,0.02040816326530612
+Mark Campbell,0.02040816326530612
+Kilian Q Weinberger,0.02040816326530612
+Marius Cordts,0.012345679012345678
+Mohamed Omran,0.012345679012345678
+Sebastian Ramos,0.012345679012345678
+Timo Rehfeld,0.012345679012345678
+Markus Enzweiler,0.012345679012345678
+Rodrigo Benenson,0.012345679012345678
+Uwe Franke,0.012345679012345678
+Stefan Roth,0.012345679012345678
+Georgia Gkioxari,0.0625
+Ross Gir- shick,0.0625
+Yanjie Chen,0.027777777777777776
+Ilya Loshchilov,0.25
+Frank Hutter,0.25
+Liyuan Liu,0.04
+Weizhu Chen,0.04
+Jiawei Han,0.04
+Ze Liu,0.015625
+Yutong Lin,0.015625
+Yue Cao,0.015625
+Han Hu,0.015625
+Yixuan Wei,0.015625
+Baining Guo,0.015625
+Lubing Zhou,0.027777777777777776
+Jiong Yang,0.027777777777777776
+David Wagner,0.25
+Daniel Liu,0.1111111111111111
+Ronald Yu,0.1111111111111111
+Jinseok Nam,0.04
+Jungi Kim,0.04
+Eneldo Loza Menc ´ıa,0.04
+Iryna Gurevych,0.04
+Johannes F ¨urnkranz,0.04
+Huijuan Xu,0.1111111111111111
+Abir Das,0.1111111111111111
+Geoffrey E. Hinton,0.1111111111111111
+Jeffrey Dean,0.1111111111111111
+Yuke Zhu,0.006944444444444444
+Oliver Groth,0.006944444444444444
+Justin Johnson 0001,0.006944444444444444
+Kenji Hata,0.006944444444444444
+Joshua Kravitz,0.006944444444444444
+Stephanie Chen,0.006944444444444444
+Li-Jia Li 0001,0.006944444444444444
+David A. Shamma,0.006944444444444444
+Michael S. Bernstein,0.006944444444444444
+Li Fei-Fei 0001,0.006944444444444444
+Yikang Li,0.027777777777777776
+Chao Zhang,0.027777777777777776
+Peize Sun,0.008264462809917356
+Rufeng Zhang,0.008264462809917356
+Yi Jiang,0.008264462809917356
+Tao Kong,0.008264462809917356
+Chenfeng Xu,0.008264462809917356
+Wei Zhan,0.008264462809917356
+Masayoshi Tomizuka,0.008264462809917356
+Lei Li,0.008264462809917356
+Zehuan Yuan,0.008264462809917356
+Estibaliz G ´omez-de Mariscal,0.015625
+Carlos Garc ´ıa-L´ópez-de Haro,0.015625
+Wei Ouyang,0.015625
+Laur `ene Donati,0.015625
+Emma Lundberg,0.015625
+Michael Unser,0.015625
+Arrate Mu ˜noz-Barrutia,0.015625
+Daniel Sage,0.015625
+Sudong Cai,0.04
+Yulan Guo,0.04
+Jiwei Hu,0.04
+Gongjian Wen,0.04
+Marcel Geppert,0.04
+Peidong Liu,0.04
+Zhaopeng Cui,0.04
+Marc Polle-feys,0.04
+James McBride,0.027777777777777776
+Dana Angluin,0.25
+Philip Laird,0.25
+Yingbin Bai,0.015625
+Erkun Yang,0.015625
+Bo Han,0.015625
+Yanhua Yang,0.015625
+Jiatong Li,0.015625
+Yinian Mao,0.015625
+Gang Niu,0.015625
+Tongliang Liu,0.015625
+Antonin Berthon,0.04
+Masashi Sugiyama,0.04
+Avrim Blum,0.1111111111111111
+Adam Kalai,0.1111111111111111
+Hal Wasserman,0.1111111111111111
+Hao Cheng,0.027777777777777776
+Zhaowei Zhu,0.027777777777777776
+Xingyu Li,0.027777777777777776
+Yifei Gong,0.027777777777777776
+Xing Sun,0.027777777777777776
+Abdullah Abuolaim,0.04
+Mauricio Delbracio,0.04
+Damien Kelly,0.04
+Michael S Brown,0.04
+Peyman Milanfar,0.04
+Mahmoud Afifi,0.1111111111111111
+Robert C Bolles,0.1111111111111111
+H Harlyn Baker,0.1111111111111111
+David H Marimont,0.1111111111111111
+Laurent D’Andr `es,0.0625
+Jordi Salvador,0.0625
+Axel Kochale,0.0625
+Sabine S¨usstrunk,0.0625
+Aristidis Likas,0.1111111111111111
+Nikos Vlassis,0.1111111111111111
+Jakob J Verbeek,0.1111111111111111
+Li Fei- Fei,0.04
+Bryan Sey-bold,0.027777777777777776
+David A Ross,0.027777777777777776
+Sefi Bell-Kligler,0.1111111111111111
+Assaf Shocher,0.1111111111111111
+Michal Irani,0.1111111111111111
+Jinglei Yang,0.027777777777777776
+Zheng Liu,0.027777777777777776
+Xiaomin Yang,0.027777777777777776
+Gwang-gil Jeon,0.027777777777777776
+Zhengxiong Luo,0.04
+Yan Huang,0.04
+Shang Li,0.04
+Liang Wang,0.04
+P Bohr,0.04
+Rupali Gargote,0.04
+Rupali Vhorkate,0.04
+RU Yawle,0.04
+VK Bairagi,0.04
+Victoria Fernández Abrevaya,0.0625
+Adnane Boukhayma,0.0625
+Edmond Boyer,0.0625
+Tarek El-Gaaly,0.0625
+Ser-Nam Lim,0.0625
+Oswald Aldrian,0.25
+WA Smith,0.25
+Duo Peng,0.04
+Yinjie Lei,0.04
+Pingping Zhang,0.04
+Viraj Prabhu,0.0625
+Shivam Khare,0.0625
+Deeksha Kartik,0.0625
+Judy Hoff- man,0.0625
+Ki- hyuk Sohn,0.027777777777777776
+Gregory P. Meyer,0.04
+Jake Charland,0.04
+Darshan Hegde,0.04
+Ankit Laddha,0.04
+Carlos Vallespi-Gonzalez,0.04
+Yunseok Jang,0.04
+Yale Song,0.04
+Youngjae Yu,0.04
+Youngjin Kim,0.04
+Gunhee Kim,0.04
+Jinhui Tang,0.027777777777777776
+Richang Hong,0.027777777777777776
+Haojie Li,0.027777777777777776
+Zhip-ing Luo,0.027777777777777776
+Yantao Zheng,0.027777777777777776
+Jacob Whitehill,0.04
+Paul Ruvolo,0.04
+Tingfan Wu,0.04
+Jacob Bergsma,0.04
+Javier R. Movellan,0.04
+Abdullah Hamdi,0.1111111111111111
+Stephan J Garbin,0.04
+Matthew Johnson,0.04
+Julien Valentin,0.04
+Dominique Beaini,0.027777777777777776
+Saro Passaro,0.027777777777777776
+Vincent Létourneau,0.027777777777777776
+William L. Hamilton,0.027777777777777776
+Gabriele Corso,0.027777777777777776
+Pietro Lió,0.027777777777777776
+Michael M Bronstein,0.0625
+Petar Veliˇckovi ´c,0.0625
+Jasper Uijlings,0.1111111111111111
+Ming-Fang Chang,0.01
+John Lambert,0.01
+Patsorn Sangkloy,0.01
+Jag-jeet Singh,0.01
+Slawomir Bak,0.01
+Andrew Hartnett,0.01
+De Wang,0.01
+Peter Carr,0.01
+Simon Lucey,0.01
+Huaizu Jiang,0.027777777777777776
+Deqing Sun,0.027777777777777776
+Erik Learned-Miller,0.027777777777777776
+Thomas Breuel,0.1111111111111111
+Manfred Klopschitz,0.1111111111111111
+Philipp Krahenbuhl,0.04
+Qixing Huang,0.04
+Peter L. Bartlett,0.25
+Shahar Mendelson,0.25
+Simon S. Du,0.027777777777777776
+Wei Hu 0014,0.027777777777777776
+Zhiyuan Li 0005,0.027777777777777776
+Ruosong Wang,0.027777777777777776
+David Balduzzi,0.027777777777777776
+Marcus Frean,0.027777777777777776
+Lennox Leary,0.027777777777777776
+JP Lewis,0.027777777777777776
+Kurt Wan-Duo Ma,0.027777777777777776
+Brian McWilliams,0.027777777777777776
+Aristide Baratin,0.02040816326530612
+Thomas George,0.02040816326530612
+César Laurent,0.02040816326530612
+R. Devon Hjelm,0.02040816326530612
+Guillaume Lajoie,0.02040816326530612
+Yiding Liu,0.02040816326530612
+Siyu Yang,0.02040816326530612
+Bin Li 0012,0.02040816326530612
+Wengang Zhou 0001,0.02040816326530612
+Jizheng Xu,0.02040816326530612
+Yan Lu 0001,0.02040816326530612
+Anand Mishra 0001,0.1111111111111111
+C. V. Jawahar,0.1111111111111111
+Davy Neven,0.0625
+Bert De Brabandere,0.0625
+Marc Proesmans,0.0625
+Baoguang Shi,0.027777777777777776
+Mingkun Yang,0.027777777777777776
+Pengyuan Lyu,0.027777777777777776
+Cong Yao,0.027777777777777776
+Xiuming Zhang,0.027777777777777776
+Boyang Deng,0.027777777777777776
+Paul De- bevec,0.027777777777777776
+Aseem Agarwala,0.015625
+Mira Dontcheva,0.015625
+Maneesh Agrawala,0.015625
+Steven Drucker,0.015625
+Alex Colburn,0.015625
+David Salesin,0.015625
+Michael Cohen,0.015625
+Peter Vincent Gehler,0.04
+Andrew Blake,0.04
+Tom Minka,0.04
+Toby Sharp,0.04
+Ruixing Wang,0.027777777777777776
+Qing Zhang,0.027777777777777776
+Wei-Shi Zheng,0.027777777777777776
+Chen Wei,0.0625
+Vladimir Bychkovsky,0.0625
+Eric Chan,0.0625
+Fr édo Durand,0.0625
+Xinhao Liu,0.1111111111111111
+Masayuki Tanaka,0.1111111111111111
+Masatoshi Okutomi,0.1111111111111111
+Nick Moran,0.0625
+Dan Schmidt,0.0625
+Yu Zhong,0.0625
+Patrick Coady,0.0625
+Tim-Oliver Buchholz,0.1111111111111111
+Florian Jug,0.1111111111111111
+Matthew Amodio,0.25
+Smita Krishnaswamy,0.25
+Alex Andonian,0.027777777777777776
+Taesung Park,0.027777777777777776
+Sagie Benaim,0.25
+Jiafeng Cheng,0.04
+De-Yan Xie,0.04
+Quanxue Gao,0.04
+Mahdi Abavisani,0.25
+Yuki M Asano,0.0625
+Mandela Patrick,0.0625
+Christian Rupprecht,0.0625
+Xiao Cai,0.1111111111111111
+Feiping Nie,0.1111111111111111
+Heng Huang,0.1111111111111111
+Shubham Goel,0.1111111111111111
+Martin Heusel,0.04
+Hubert Ramsauer,0.04
+Bernhard Nessler,0.04
+Sepp Hochreiter,0.04
+Tristan Aumentado-Armstrong,0.04
+Alex Levinshtein,0.04
+Stavros Tsogkas,0.04
+Konstantinos G Derpanis,0.04
+Allan D Jepson,0.04
+Zaid Alyafeai,1.0
+Xin Lai,0.02040816326530612
+Zhuotao Tian,0.02040816326530612
+Li Jiang,0.02040816326530612
+Shu Liu,0.02040816326530612
+Hengshuang Zhao,0.02040816326530612
+Liwei Wang,0.02040816326530612
+Vijay Badrinarayanan,0.1111111111111111
+Nicolas Bourdis,0.1111111111111111
+Denis Marraud,0.1111111111111111
+Hichem Sahbi,0.1111111111111111
+Hongruixuan Chen,0.0625
+Liangpei Zhang,0.0625
+Chen Cao,0.04
+Yanlin Weng,0.04
+Shun Zhou,0.04
+Yiying Tong,0.04
+Keliang Zhou,0.04
+Paul Ekman,1.0
+Liwen Hu,0.01
+Lingyu Wei,0.01
+Jae- woo Seo,0.01
+Jens Fursund,0.01
+Iman Sadeghi,0.01
+Carrie Sun,0.01
+Yen- Chun Chen,0.01
+Yitong Li,0.04
+Martin Min,0.04
+Dinghan Shen,0.04
+David Carlson,0.04
+Lawrence Carin,0.04
+Chen Fang,0.027777777777777776
+Zhaowen Wang,0.027777777777777776
+Alexander A. Alemi,0.0625
+Ian Fischer,0.0625
+Joshua V. Dillon,0.0625
+Mohammad Babaeizadeh,0.04
+Chelsea Finn,0.04
+Dumitru Erhan,0.04
+Roy H. Campbell,0.04
+Martin Renqiang Min,0.04
+Bing Bai,0.04
+Hans Peter Graf,0.04
+Fabian Mentzer,0.04
+Michael Tschannen,0.04
+Luc V an Gool,0.04
+Yichen Qian,0.015625
+Zhiyu Tan,0.015625
+Xiuyu Sun,0.015625
+Ming Lin,0.015625
+Dongyang Li,0.015625
+Zhenhong Sun,0.015625
+Lukas Cavigelli,0.02040816326530612
+Luca Benini,0.02040816326530612
+Luc VanGool,0.02040816326530612
+Amos Gropp,0.04
+Lior Yariv,0.04
+Niv Haim,0.04
+Philipp Henzler,0.1111111111111111
+Niloy J Mitra,0.1111111111111111
+Tobias Ritschel,0.1111111111111111
+Yu Deng,0.027777777777777776
+Jiaolong Yang,0.027777777777777776
+Sicheng Xu,0.027777777777777776
+Dong Chen,0.027777777777777776
+Yunde Jia,0.027777777777777776
+Xin Tong,0.027777777777777776
+Serge J. Belongie,0.01
+David Acuna,0.1111111111111111
+Amlan Kar,0.1111111111111111
+Huan Ling,0.0625
+Yang Ran,0.0625
+Isaac Weiss,0.0625
+Qinfen Zheng,0.0625
+Larry S. Davis,0.0625
+Dongze Lian,0.04
+Jing Li,0.04
+Jia Zheng,0.04
+Weixin Luo,0.04
+Shenghua Gao,0.04
+Zhaoyang Liu,1.0
+Carlos Arteta,0.1111111111111111
+John Arevalo,0.0625
+Thamar Solorio,0.0625
+Manuel Montes-y G ´omez,0.0625
+Fabio A Gonz ´alez,0.0625
+Evelyn Fix,0.25
+Joseph Lawson Hodges,0.25
+Vladimir Vapnik,0.25
+Wenzhu Dai,0.01
+Jixiang He,0.01
+Ling Zheng,0.01
+Mingyu Bi,0.01
+Fei Hu,0.01
+Minju Chen,0.01
+Heng Niu,0.01
+Jingyu Yang,0.01
+Ying Luo,0.01
+Wenru Tang,0.01
+Mahesh Subedar,0.04
+Ranganath Krishnan,0.04
+Paulo Lopez Meyer,0.04
+Omesh Tickoo,0.04
+Leon A Gatys,0.1111111111111111
+Alexander S Ecker,0.1111111111111111
+Matthias Bethge,0.1111111111111111
+Sifei Liu,0.0625
+Fred Phillips,0.25
+Brandy Mackintosh,0.25
+Golnaz Ghiasi,0.04
+Kui Jiang,0.015625
+Zhongyuan Wang,0.015625
+Peng Yi,0.015625
+Baojin Huang,0.015625
+Yimin Luo,0.015625
+Jiayi Ma,0.015625
+Junjun Jiang,0.015625
+Bolun Cai,0.04
+Xiangmin Xu,0.04
+Kui Jia,0.04
+Chunmei Qing,0.04
+Xiaochun Cao,0.04
+Wenqi Ren,0.04
+Xiaojie Guo,0.04
+Hassan Foroosh,0.04
+Tianyu Guo,0.01
+Chang Xu,0.01
+Zhenhua Liu,0.01
+Siwei Ma,0.01
+Chao Xu,0.01
+Wen Gao,0.01
+Muhammad Umer Anwaar,0.1111111111111111
+Egor Labintcev,0.1111111111111111
+Martin Kleinstuber,0.1111111111111111
+Alberto Baldrati,0.0625
+Marco Bertini,0.0625
+Tiberio Uricchio,0.0625
+Unknown,1.0
+Amazon,0.25
+Sagemaker,0.25
+BentoML,1.0
+Google Cloud,1.0
+Konstantinos Chatzitheodorou,1.0
+Melvin Johnson,0.01
+Maxim Krikun,0.01
+Nikhil Thorat,0.01
+Fernanda Viégas,0.01
+Martin Wattenberg,0.01
+Greg Corrado,0.01
+Mikel Artetxe,0.0625
+Gorka Labaka,0.0625
+Eneko Agirre,0.0625
+Zhan Qu,0.04
+Huan Jin,0.04
+Yang Zhou,0.04
+Zhen Yang,0.04
+Mohamed,0.25
+Aly,0.25
+John Hopcroft,0.1111111111111111
+Ravindran Kannan,0.1111111111111111
+Roei Herzig,0.04
+Moshiko Raboh,0.04
+Gal Chechik,0.04
+Jonathan Berant,0.04
+Amir Globerson,0.04
+Zhixiang Chi,0.027777777777777776
+Rasoul Mohammadi Nasiri,0.027777777777777776
+Juwei Lu,0.027777777777777776
+Jin Tang,0.027777777777777776
+Konstantinos N Plataniotis,0.027777777777777776
+Garrick Michael Or- chard,0.01
+Javier Hidalgo-Carrió,0.0625
+Christopher Burgess,0.015625
+Xavier Glorot,0.015625
+Matthew Botvinick,0.015625
+Shakir Mohamed,0.015625
+Alexander Lerchner,0.015625
+Shunwang Gong,0.0625
+Lei Chen,0.0625
+Michael Bronstein,0.0625
+Matthias Althoff,0.25
+Sebastian Lutz,0.25
+Adith Boloor,0.027777777777777776
+Karthik Garimella,0.027777777777777776
+Xin He,0.027777777777777776
+Christopher Gill,0.027777777777777776
+Yevgeniy V orobeychik,0.027777777777777776
+Xuan Zhang,0.027777777777777776
+Mohammadhossein Bahari,0.027777777777777776
+Vahid Zehtab,0.027777777777777776
+Sadegh Kho- rasani,0.027777777777777776
+Sana Ayramlou,0.027777777777777776
+Saeed Saadatnejad,0.027777777777777776
+Komal Chugh,0.0625
+Parul Gupta,0.0625
+Abhinav Dhall,0.0625
+Ramanathan Subramanian,0.0625
+Ohad Fried,0.0625
+Belhassen Bayar,0.25
+Matthew C Stamm,0.25
+Peng Chen,0.02040816326530612
+Jin Liu,0.02040816326530612
+Tao Liang,0.02040816326530612
+Guangzhi Zhou,0.02040816326530612
+Hongchao Gao,0.02040816326530612
+Jiao Dai,0.02040816326530612
+Jizhong Han,0.02040816326530612
+Rico Sennrich,0.1111111111111111
+Barry Haddow,0.1111111111111111
+Alexandra Birch,0.1111111111111111
+Zirui Wang,0.0625
+Yulia Tsvetkov,0.0625
+Orhan Firat,0.0625
+Yuan Cao,0.0625
+Wei Li,0.015625
+Can Gao,0.015625
+Guocheng Niu,0.015625
+Xinyan Xiao,0.015625
+Hao Liu,0.015625
+Jiachen Liu,0.015625
+Hua Wu,0.015625
+Haifeng Wang,0.015625
+Peter J Liu,0.012345679012345678
+Vicente Ordonez,0.1111111111111111
+Girish Kulkarni,0.1111111111111111
+Tamara Berg,0.1111111111111111
+Xinzhu Ma,0.027777777777777776
+Zhihui Wang,0.027777777777777776
+Pengbo Zhang,0.027777777777777776
+Xin Fan,0.027777777777777776
+Arsalan Mousavian,0.0625
+Jana Kosecka,0.0625
+Tsun-Hsuan Wang,0.027777777777777776
+Sivabalan Manivasagam,0.027777777777777776
+Ming Liang,0.027777777777777776
+Bin Yang,0.027777777777777776
+Wenyuan Zeng,0.027777777777777776
+Yousef Atoum,0.04
+Joseph Roth,0.04
+Michael Bliss,0.04
+Wende Zhang,0.04
+Apratim Bhattacharyya,0.0625
+Daniel Olmeda Reino,0.0625
+Mario Fritz,0.0625
+Laurens Van der Maaten,0.25
+Niannan Xue,0.0625
+Yitong Wang,0.015625
+Zheng Zhou,0.015625
+Xing Ji,0.015625
+Dihong Gong,0.015625
+Jingchao Zhou,0.015625
+Zhifeng Li,0.015625
+Pierre H Richemond,0.01
+Carl Do- ersch,0.01
+Zhaohan Daniel Guo,0.01
+Moham- mad Gheshlaghi Azar,0.01
+Qianwen Cao,0.04
+Heyan Huang,0.04
+Xindi Shang,0.04
+Boran Wang,0.04
+Bin Yan,0.027777777777777776
+Jiawen Zhu,0.027777777777777776
+Xiaoyun Yang,0.027777777777777776
+Jiali Duan,0.04
+Jun Wan,0.04
+Shuai Zhou,0.04
+Xiaoyuan Guo,0.04
+Stan Li,0.04
+Ke Cheng 0002,0.04
+Yifan Zhang 0001,0.04
+Jian Cheng 0001,0.04
+Andrea D’Eusanio,0.027777777777777776
+Alessandro Simoni,0.027777777777777776
+Stefano Pini,0.027777777777777776
+Guido Borghi,0.027777777777777776
+Roberto V ezzani,0.027777777777777776
+Hehe Fan,0.1111111111111111
+Yi Yang,0.1111111111111111
+Mohan Kankanhalli,0.1111111111111111
+Kun Zhou,0.04
+Jiajiong Cao,0.1111111111111111
+Yingming Li,0.1111111111111111
+Zhihui Li,0.1111111111111111
+Prashanth Chandran,0.0625
+Derek Bradley,0.0625
+Markus Gross,0.0625
+Thabo Beeler,0.0625
+Zhizhong Li,0.25
+Su Fang Lim,0.027777777777777776
+Francesca Babiloni,0.04
+Mohamed Elho-seiny,0.04
+Francisco M. Castro,0.04
+Manuel J. Marín-Jiménez,0.04
+Nicolás Guil,0.04
+Zhi-Yang He,0.02040816326530612
+JunYoung Gwak,0.02040816326530612
+Andrei Barbu,0.015625
+David Mayo,0.015625
+Julian Alverio,0.015625
+William Luo,0.015625
+Christopher Wang,0.015625
+Danny Gutfreund,0.015625
+Joshua Tenenbaum,0.015625
+Boris Katz,0.015625
+Brian A Barsky,0.25
+Todd J Kosloff,0.25
+Srinadh Bhojanapalli,0.027777777777777776
+Daniel Glasner,0.027777777777777776
+Daliang Li,0.027777777777777776
+Andreas Veit,0.027777777777777776
+Bouchacourt,1.0
+Tobias Pfaff,0.027777777777777776
+David Budden,0.027777777777777776
+Tom Le Paine,0.027777777777777776
+Ziyu Wang,0.027777777777777776
+Nando de Freitas,0.027777777777777776
+Mohamed Ishmael Belghazi,0.02040816326530612
+Sai Rajeshwar,0.02040816326530612
+Devon Hjelm,0.02040816326530612
+Chris Burgess,0.25
+Hyunjik Kim,0.25
+Florian Walch,0.027777777777777776
+Caner Hazirbas,0.027777777777777776
+Laura Leal-Taix 'e,0.027777777777777776
+Sebastian Hilsenbeck,0.027777777777777776
+Matthew Grimes,0.1111111111111111
+Facebook Reality Labs,1.0
+Janne Hellsten,0.027777777777777776
+Jina Lee,0.25
+Stacy Marsella,0.25
+Bernhard Jaeger,1.0
+Wenjie Luo,0.1111111111111111
+Lin Gao,0.02040816326530612
+Jie Yang,0.02040816326530612
+Yi-Ling Qiao,0.02040816326530612
+Yu-Kun Lai,0.02040816326530612
+Paul L Rosin,0.02040816326530612
+Weiwei Xu,0.02040816326530612
+Shihong Xia,0.02040816326530612
+Marian Kleineberg,0.1111111111111111
+Matthias Fey,0.1111111111111111
+Frank Weichert,0.1111111111111111
+Jeong Joon Park,0.04
+Peter Florence,0.04
+Julian Straub,0.04
+Richard Newcombe,0.04
+Steven Lovegrove,0.04
+Bee Lim,0.04
+Sanghyun Son,0.04
+Heewon Kim,0.04
+Seungjun Nah,0.04
+Simon Baker,0.25
+Takeo Kanade,0.25
+Seﬁ Bell-Kligler,0.1111111111111111
+Limin Wang,0.0625
+Zhan Tong,0.0625
+Bin Ji,0.0625
+Gangshan Wu,0.0625
+Wei Wang,0.1111111111111111
+Yuan Sun,0.1111111111111111
+Samam Halgamuge,0.1111111111111111
+Hongliang Yan,0.027777777777777776
+Yukang Ding,0.027777777777777776
+Peihua Li,0.027777777777777776
+Qilong Wang,0.027777777777777776
+Saloni Agarwal,0.1111111111111111
+Mohamedelfatih Eltigani Osman Abaker,0.1111111111111111
+Ovidiu Daescu,0.1111111111111111
+Marc Habermann,0.04
+Weipeng Xu,0.04
+Michael Zollhofer,0.04
+Jo ˜ao Carreira,0.25
+Xinyu Yi,0.1111111111111111
+Yuxiao Zhou,0.1111111111111111
+Feng Xu,0.1111111111111111
+Umar Iqbal,0.02040816326530612
+Anton Milan,0.02040816326530612
+Eldar In-safutdinov,0.02040816326530612
+Sen Jia,0.25
+Neil DB Bruce,0.25
+Lai Jiang,0.0625
+Xiaofei Wang,0.0625
+Christof Koch,0.25
+Shimon Ullman,0.25
+Matthias Kummerer,0.0625
+Thomas SA Wallis,0.0625
+Manya V. Afonso,0.1111111111111111
+José M. Bioucas-Dias,0.1111111111111111
+Mário A. T. Figueiredo,0.1111111111111111
+Amir Zamir,0.02040816326530612
+Martin Fischer 0010,0.02040816326530612
+Amir Beck,0.25
+Marc Teboulle,0.25
+Diqi Chen,0.0625
+Xiaodan Liang,0.0625
+Yizhou Wang 0001,0.0625
+Wen Gao 0001,0.0625
+Jiabei Zeng,0.0625
+Shiguang Shan,0.0625
+Wen-Sheng Chu,0.1111111111111111
+Jeffrey F Cohn,0.1111111111111111
+Tao Chen,0.1111111111111111
+Ziad Al-Halah,0.1111111111111111
+Santhosh K. Ramakrishnan,0.1111111111111111
+Jake Bruce,0.012345679012345678
+Niko S ¨underhauf,0.012345679012345678
+Ian Reid,0.012345679012345678
+Anton Van Den Hengel,0.012345679012345678
+Soumith Chintala,0.1111111111111111
+Léon Bottou,1.0
+Konstantinos Bousmalis,0.04
+Nathan Silberman,0.04
+David Dohan,0.04
+Syed Waqas Zamir,0.02040816326530612
+Aditya Arora,0.02040816326530612
+Munawar Hayat,0.02040816326530612
+Fahad Shahbaz Khan,0.02040816326530612
+Tai-Xiang Jiang,0.04
+Ting-Zhu Huang,0.04
+Xi-Le Zhao,0.04
+Liang-Jian Deng,0.04
+Yao Wang,0.04
+Xueyang Fu,0.027777777777777776
+Jiabin Huang,0.027777777777777776
+Delu Zeng,0.027777777777777776
+Yue Huang,0.027777777777777776
+Xinghao Ding,0.027777777777777776
+John Paisley,0.027777777777777776
+Shuai Yang,0.0625
+Zongming Guo,0.0625
+Wei Wei,0.027777777777777776
+Lixuan Yi,0.027777777777777776
+Qi Xie,0.027777777777777776
+Qian Zhao,0.027777777777777776
+Deyu Meng,0.027777777777777776
+Zongben Xu,0.027777777777777776
+Francesca Madonini,0.25
+Federica Villa,0.25
+Alexander W Bergman,0.1111111111111111
+David B Lindell,0.1111111111111111
+Gordon Wet- zstein,0.1111111111111111
+Jun- Yan Zhu,0.0625
+Yip-ing Deng,0.01
+Zhuo Deng,0.012345679012345678
+Yuanhao Cai,0.012345679012345678
+Lu Chen,0.012345679012345678
+Zheng Gong,0.012345679012345678
+Qiqi Bao,0.012345679012345678
+Xue Yao,0.012345679012345678
+Dong Fang,0.012345679012345678
+Shaochong Zhang,0.012345679012345678
+Lan Ma,0.012345679012345678
+Shijie Wang,0.027777777777777776
+Xiang Zhang,0.027777777777777776
+Yifan Xu,0.027777777777777776
+Weijian Xu,0.027777777777777776
+Kevin Frans,0.1111111111111111
+Lisa B. Soros,0.1111111111111111
+Olaf Witkowski,0.1111111111111111
+Christopher B Choy,0.04
+Danfei Xu,0.04
+Kevin Chen,0.04
+Xinchen Yan,0.1111111111111111
+Jiashun Wang,0.04
+Jingwei Xu,0.04
+Xiao-long Wang,0.04
+Emad Barsoum,0.1111111111111111
+John Kender,0.1111111111111111
+Haoye Cai,0.0625
+Chunyan Bai,0.0625
+Yu-Wing Tai,0.0625
+Chi-Keung Tang,0.0625
+Lei Han,0.04
+Tian Zheng,0.04
+Yinheng Zhu,0.04
+Lu Fang,0.04
+Binh-Son Hua,0.027777777777777776
+Quang-Hieu Pham,0.027777777777777776
+Duc Thanh Nguyen,0.027777777777777776
+Minh-Khoi Tran,0.027777777777777776
+Lap-Fai Yu,0.027777777777777776
+Benjamin Graham,0.1111111111111111
+Martin Engelcke,0.1111111111111111
+Chi- Wing Fu,0.027777777777777776
+Michael Hornacek,0.1111111111111111
+Andrew Fitzgibbon,0.1111111111111111
+Stefan Andreas Baur,0.027777777777777776
+David Josef Emmerichs,0.027777777777777776
+Frank Moosmann,0.027777777777777776
+Peter Pinggera,0.027777777777777776
+Bjorn Ommer,0.027777777777777776
+Aseem Behl,0.027777777777777776
+Omid Hosseini Jafari,0.027777777777777776
+Despoina Paschalidou,0.0625
+Simon Donn ´e,0.0625
+Michael Stark,0.02040816326530612
+David Shamma,0.02040816326530612
+Jiuxiang Gu,0.027777777777777776
+Shafiq Joty,0.027777777777777776
+Jianfei Cai,0.027777777777777776
+Handong Zhao,0.027777777777777776
+Xu Yang,0.027777777777777776
+Rongjie Li,0.0625
+Songyang Zhang,0.0625
+Bo Wan,0.0625
+Ji Wang,0.027777777777777776
+Weidong Bao,0.027777777777777776
+Lichao Sun,0.027777777777777776
+Xiaomin Zhu,0.027777777777777776
+Bokai Cao,0.027777777777777776
+S Yu Philip,0.027777777777777776
+Jianping Gou,0.0625
+Baosheng Yu,0.0625
+Stephen J Maybank,0.0625
+Hakan Bilen,0.25
+Felix JS Bragman,0.04
+Ryutaro Tanno,0.04
+Sebastien Ourselin,0.04
+Daniel C Alexander,0.04
+Jorge Cardoso,0.04
+David Bruggemann,0.0625
+Menelaos Kanakis,0.0625
+Stamatios Geor- goulis,0.0625
+Jacob Goldberger,0.0625
+Sam Roweis,0.0625
+Russ R Salakhutdinov,0.0625
+Fr ´edo Durand,0.25
+Tim Brooks,0.027777777777777776
+Tianfan Xue,0.027777777777777776
+Jiawen Chen,0.027777777777777776
+Dillon Sharlet,0.027777777777777776
+Ting Chen 0007,0.0625
+Mohammad Norouzi 0002,0.0625
+Alexei Baevski,0.0625
+Yuhao Zhou,0.0625
+Michael Auli,0.0625
+William Fedus,0.027777777777777776
+Pietro Liò,0.027777777777777776
+Yen-Chun Chen,0.015625
+Linjie Li,0.015625
+Licheng Yu,0.015625
+Ahmed El Kholy,0.015625
+Faisal Ahmed,0.015625
+Zhe Gan,0.015625
+Yu Cheng,0.015625
+Zhicheng Huang,0.027777777777777776
+Zhaoyang Zeng,0.027777777777777776
+Yupan Huang,0.027777777777777776
+Bei Liu,0.027777777777777776
+Dongmei Fu,0.027777777777777776
+Jianlong Fu,0.027777777777777776
+Dandelion Mane,0.04
+Vijay Vasude- van,0.04
+Qi Cai,0.04
+Yu Wang,0.04
+Yingwei Pan,0.04
+Ting Yao,0.04
+Tao Mei,0.04
+Jiquan Ngiam,0.02040816326530612
+Elia Kaufmann,0.02040816326530612
+Philipp Foehn,0.02040816326530612
+Ren ´e Ran- ftl,0.02040816326530612
+Davide Scara- muzza,0.02040816326530612
+Andrew Y Ng,0.25
+Alina Kuznetsova,0.01
+Hassan Rom,0.01
+Jasper Ui- jlings,0.01
+Ivan Krasin,0.01
+Shahab Kamali,0.01
+Stefan Popov,0.01
+Matteo Malloci,0.01
+Kishore Papineni,0.0625
+Salim Roukos,0.0625
+Todd Ward,0.0625
+Wei-Jing Zhu,0.0625
+Donald Patterson,0.1111111111111111
+Anupam Guha,0.0625
+Cornelia Fermüller,0.0625
+Yian-nis Aloimonos,0.0625
+Yi Li,0.0625
+Cornelia Fermuller,0.0625
+Yiannis Aloi- monos,0.0625
+Eddy Ilg,0.027777777777777776
+Nikolaus Mayer,0.027777777777777776
+Tonmoy Saikia,0.027777777777777776
+Margret Keuper,0.027777777777777776
+Ryad Benosman,0.04
+Charles Clercq,0.04
+Xavier Lagorce,0.04
+Sio-Hoi Ieng,0.04
+Huaijin Chen,0.027777777777777776
+Orazio Gallo,0.027777777777777776
+Senyou Deng,0.027777777777777776
+Yanyang Yan,0.027777777777777776
+Tao Wang,0.027777777777777776
+Feng-long Song,0.027777777777777776
+Anargyros Chatzitofis,0.01
+Leonidas Saroglou,0.01
+Prodromos Boutis,0.01
+Petros Drakoulis,0.01
+Nikolaos Zioulis,0.01
+Shishir Subra-manyam,0.01
+Bart Kevelham,0.01
+Caecilia Charbonnier,0.01
+Pablo Ces-ar,0.01
+Dimitrios Zarpalas,0.01
+Changqian Yu,0.02040816326530612
+Bin Xiao,0.02040816326530612
+Changxin Gao,0.02040816326530612
+Lu Yuan,0.02040816326530612
+Nong Sang,0.02040816326530612
+Andreas Aristidou,0.0625
+Jessica K Hodgins,0.0625
+Ariel Shamir,0.0625
+Daniel Holden,1.0
+Rainer Kummerle,0.04
+Giorgio Grisetti,0.04
+Hauke Strasdat,0.04
+Kurt Konolige,0.04
+Wolfram Burgard,0.04
+Matthew D Hoffman,0.25
+Matthew J Johnson,0.25
+Abien Fred Agarap,1.0
+Alexander A Alemi,0.0625
+Joshua V Dillon,0.0625
+Sai Rajesh-war,0.02040816326530612
+Liang Liu,0.01
+Jiangning Zhang,0.01
+Ruifei He,0.01
+Yong Liu,0.01
+Yabiao Wang,0.01
+Ying Tai,0.01
+Donghao Luo,0.01
+Chengjie Wang,0.01
+Jilin Li,0.01
+Feiyue Huang,0.01
+Simon Meister,0.1111111111111111
+Junhwa Hur,0.1111111111111111
+Moritz Menze,0.25
+Hilde Kuehne,0.1111111111111111
+Ali Bilgin Arslan,0.1111111111111111
+Thomas Serre,0.1111111111111111
+Hyemin Ahn,0.25
+Dongheui Lee,0.25
+Alexandros I. Metsai,0.04
+Melanie Subbiah,0.001040582726326743
+Zhuang Liu,0.0625
+Laurens Van Der Maaten,0.0625
+Kil- ian Q Weinberger,0.0625
+Fereshte Khani,0.25
+Anh Mai Nguyen,0.1111111111111111
+Jason Yosinski,0.1111111111111111
+Jeff Clune,0.1111111111111111
+Tatsunori B. Hashimoto,0.0625
+Rulin Shao,0.04
+Zhouxing Shi,0.04
+Jinfeng Yi,0.04
+Pin-Yu Chen,0.04
+Cho-Jui Hsieh,0.04
+Cheng Zou,0.01
+Bohan Wang,0.01
+Yue Hu,0.01
+Qian Wu,0.01
+Yu Zhao,0.01
+Boxun Li,0.01
+Chenguang Zhang,0.01
+Yichen Wei,0.01
+John Duchi,0.1111111111111111
+Tatsunori Hashimoto,0.1111111111111111
+Hongseok Namkoong,0.1111111111111111
+Kaylee Burns,0.04
+Anna Rohrbach,0.04
+Angelina Wang,0.1111111111111111
+Arvind Narayanan,0.1111111111111111
+Dong-Jin Kim,0.04
+Jinsoo Choi,0.04
+Xiaoqian Wu,0.027777777777777776
+Lingwei Dang,0.04
+Yongwei Nie,0.04
+Guiqing Li,0.04
+Lijuan Liu,0.027777777777777776
+Youyi Zheng,0.027777777777777776
+Di Tang,0.027777777777777776
+Yi Yuan,0.027777777777777776
+Changjie Fan,0.027777777777777776
+Seungbae Bang,0.25
+Sung-Hee Lee,0.25
+Ilya Baran,0.25
+Jovan Popović,0.25
+Devin Guillory,0.04
+Sayna Ebrahimi,0.04
+Katherine Crowson,1.0
+Jia Deng 0001,0.027777777777777776
+Wei Dong 0003,0.027777777777777776
+Kai Li 0001,0.027777777777777776
+Jiapeng Zhu,0.0625
+Yujun Shen,0.0625
+Deli Zhao,0.0625
+Yaniv Taigman,0.1111111111111111
+Adam Polyak,0.1111111111111111
+Jun Sese,0.0625
+Takafumi Kanamori,0.0625
+Barbara Zitova,0.25
+Jan Flusser,0.25
+Peter W Battaglia,0.01
+Jessica B Hamrick,0.01
+Victor Bapst,0.01
+Alvaro Sanchez-Gonzalez,0.01
+Vinicius Zambaldi,0.01
+Mateusz Malinowski,0.01
+Andrea Tacchetti,0.01
+David Raposo,0.01
+Adam Santoro,0.01
+Ryan Faulkner,0.01
+Sai Rajeswar,0.02040816326530612
+Gerhard Neuhold,0.0625
+Tobias Ollmann,0.0625
+Samuel Rota Bulo,0.0625
+Peter Kontschieder,0.0625
+Maxwell Collins,0.015625
+Jon Shlens,0.015625
+Markus Enzweiner,0.012345679012345678
+Chuan Guo,0.0625
+Geoff Pleiss,0.0625
+Yu Sun,0.0625
+Steven Basart,0.005917159763313609
+Norman Mu,0.005917159763313609
+Saurav Kada-vath,0.005917159763313609
+Frank Wang,0.005917159763313609
+Evan Dorundo,0.005917159763313609
+Rahul Desai,0.005917159763313609
+Tyler Zhu,0.005917159763313609
+Samyak Parajuli,0.005917159763313609
+Mike Guo,0.005917159763313609
+Dawn Song,0.005917159763313609
+Jacob Steinhardt,0.005917159763313609
+Justin Gilmer,0.005917159763313609
+Ross Wightman,0.027777777777777776
+Balaji Lakshminarayanan,0.027777777777777776
+Anil S. Baslamisli,0.0625
+Yang Liu 0009,0.0625
+Sezer Karaoglu,0.0625
+Paul Henderson,0.25
+Qi Chen,0.0625
+Lin Sun,0.0625
+Ernest Cheung,0.0625
+Kaustav Kundu,0.027777777777777776
+Ziyu Zhang,0.027777777777777776
+St ´ephane d’Ascoli,0.027777777777777776
+Matthew Leavitt,0.027777777777777776
+Ari Morcos,0.027777777777777776
+Giulio Biroli,0.027777777777777776
+Levent Sagun,0.027777777777777776
+Brian B Avants,0.1111111111111111
+Nick Tustison,0.1111111111111111
+Gang Song,0.1111111111111111
+Nicholas J Tustison,0.0625
+Others,0.0625
+Mert R Sabuncu,0.04
+John Gut- tag,0.04
+Junyu Chen,0.04
+Yufan He,0.04
+Eric C Frey,0.04
+Ye Li,0.04
+Yong Du,0.04
+Michelle Guo,0.0625
+Alireza Fathi,0.0625
+Jiajun Wu,0.0625
+Frédéric Dufaux,0.0625
+Patrick Le Callet,0.0625
+Rafal Mantiuk,0.0625
+Marta Mrak,0.0625
+Antonio Foncubierta-Rodr ´ıguez,0.1111111111111111
+Alba Garc ´ıa Seco de Her- rera,0.1111111111111111
+Henning M ¨uller,0.1111111111111111
+Junhyun Lee,0.1111111111111111
+Inyeop Lee,0.1111111111111111
+Jaewoo Kang,0.1111111111111111
+David Ahmedt-Aristizabal,0.04
+Mohammad Ali Armin,0.04
+Simon Denman,0.04
+Clinton Fookes,0.04
+Lars Petersson,0.04
+Jaume Amores,1.0
+David Arthur,0.25
+Sergei Vassilvitskii,0.25
+Chaorui Deng,0.027777777777777776
+Qingyao Wu,0.027777777777777776
+Fuyuan Hu,0.027777777777777776
+Fan Lyu,0.027777777777777776
+Mingkui Tan,0.027777777777777776
+Dafni Antotsiou,0.1111111111111111
+Guillermo Garcia-Hernando,0.1111111111111111
+Tae- Kyun Kim,0.1111111111111111
+Cusuh Ham,0.0625
+Charles C. Kemp,0.0625
+Gul Varol,0.02040816326530612
+Igor Kale-vatykh,0.02040816326530612
+Chengcheng Tang,0.04
+Christopher D Twigg,0.04
+Charles C Kemp,0.04
+Sarath Chandar,0.0625
+Dong Huk Park,0.04
+Samaneh Azadi,0.04
+Xihui Liu,0.04
+Tingting Qiao,0.0625
+Jing Zhang,0.0625
+Duanqing Xu,0.0625
+Guojun Yin,0.027777777777777776
+Bin Liu,0.027777777777777776
+Nenghai Yu,0.027777777777777776
+Yasunobu Hitomi,0.04
+Mohit Gupta 0001,0.04
+Tomoo Mitsunaga,0.04
+Shree K. Nayar,0.04
+Edward H Adelson,0.25
+John YA Wang,0.25
+Jun Arai,0.0625
+Fumio Okano,0.0625
+Haruo Hoshino,0.0625
+Ichiro Yuyama,0.0625
+Shaoxiang Chen,0.25
+Yu-Gang Jiang,0.25
+Al exey Dosovitskiy,0.01
+Kensho Hara,0.1111111111111111
+Hirokatsu Kataoka,0.1111111111111111
+Yutaka Satoh,0.1111111111111111
+Nayyer Aafaq,0.04
+Syed Zulqarnain Gilani,0.04
+Junyoung Chung,0.0625
+KyungHyun Cho,0.0625
+Rohit Girdhar,0.04
+Jie Chang,0.0625
+Zhonghao Lan,0.0625
+Changmao Cheng,0.0625
+Min-Hung Chen,0.04
+Baopu Li,0.04
+Yingze Bao,0.04
+Ghassan AlRegib,0.04
+Aleksandr Kim,0.1111111111111111
+Laura Leal-Taix’e,0.1111111111111111
+Namhoon Lee,0.027777777777777776
+Wongun Choi,0.027777777777777776
+Paul Vernaza,0.027777777777777776
+Christopher B. Choy,0.027777777777777776
+Javad Amirian,0.1111111111111111
+Jean-Bernard Hayet,0.1111111111111111
+Julien Pettr 'e,0.1111111111111111
+Mehmet Ayg ¨un,0.02040816326530612
+Aljo ˇsa O ˇsep,0.02040816326530612
+Maxim Maxi- mov,0.02040816326530612
+Matthew Berger,0.015625
+Lee M Seversky,0.015625
+Pierre Alliez,0.015625
+Gael Guennebaud,0.015625
+Joshua A Levine,0.015625
+Andrei Sharf,0.015625
+Claudio T Silva,0.015625
+Fausto Bernardini,0.04
+Joshua Mittleman,0.04
+Holly Rushmeier,0.04
+Claudio Silva,0.04
+Gabriel Taubin,0.04
+Hedi Ben-younes,0.04
+Robert Geirhos,0.02040816326530612
+J ¨orn-Henrik Jacobsen,0.02040816326530612
+Claudio Michaelis,0.02040816326530612
+Wieland Brendel,0.02040816326530612
+Felix A Wichmann,0.02040816326530612
+Rabeeh Karimi Mahabadi,0.25
+James Henderson,0.25
+Xinting Hu,0.008264462809917356
+Chunyan Miao,0.008264462809917356
+Xian-Sheng Hua,0.008264462809917356
+Tianyu Hua,0.008264462809917356
+Wenxiao Wang,0.008264462809917356
+Zihui Xue,0.008264462809917356
+Sucheng Ren,0.008264462809917356
+Lei Huang,0.0625
+Dawei Yang,0.0625
+Bo Lang,0.0625
+Sylvestre-Alvise Rebuffi,0.0625
+Georg Sperl,0.0625
+Christoph H Lampert,0.0625
+Yujun Shi,0.0625
+Zhiwei Dong,0.027777777777777776
+Guoxuan Li,0.027777777777777776
+Pengju Ren,0.027777777777777776
+Deng-Ping Fan,0.015625
+Tao Zhou,0.015625
+Ge-Peng Ji,0.015625
+Yi Zhou,0.015625
+Geng Chen,0.015625
+Huazhu Fu,0.015625
+Jianbing Shen,0.015625
+Walid Al-Dhabyani,0.0625
+Mohammed Gomaa,0.0625
+Hussien Khaled,0.0625
+Laith Alzubaidi,0.02040816326530612
+Mohammed A Fadhel,0.02040816326530612
+Omran Al-Shamma,0.02040816326530612
+Jinglan Zhang,0.02040816326530612
+J Santamaría,0.02040816326530612
+Ye Duan,0.02040816326530612
+Sameer R Oleiwi,0.02040816326530612
+Diego Ardila,0.01
+Atilla P Kiraly,0.01
+Sujeeth Bharadwaj,0.01
+Bokyung Choi,0.01
+Joshua J Reicher,0.01
+Lily Peng,0.01
+Daniel Tse,0.01
+Mozziyar Etemadi,0.01
+Wenxing Ye,0.01
+Lyndon Chan,0.04
+Mahdi S Hosseini,0.04
+Corwyn Rowsell,0.04
+Kon-stantinos N Plataniotis,0.04
+Savvas Damaskinos,0.04
+Harrison Edwards,0.25
+Amos J. Storkey,0.25
+Khalid Abdul Jabbar,0.01
+Shan E Ahmed Raza,0.01
+Rachel Rosen-thal,0.01
+Mariam Jamal-Hanjani,0.01
+Selvaraju Veeriah,0.01
+Ayse Akarca,0.01
+Tom Lund,0.01
+David A Moore,0.01
+Roberto Salgado,0.01
+Maise Al Bakir,0.01
+Shahira Abousamra,0.01
+David Belinsky,0.01
+John Van Arnam,0.01
+Felicia Allard,0.01
+Eric Yee,0.01
+Rajarsi Gupta,0.01
+Tahsin Kurc,0.01
+Joel Saltz,0.01
+Chao Chen,0.01
+Ziga Avsec,0.01
+Vikram Agarwal,0.01
+Daniel Visentin,0.01
+Joseph R Ledsam,0.01
+Agnieszka Grabska-Barwinska,0.01
+Kyle R Taylor,0.01
+Yannis Assael,0.01
+John Jumper,0.01
+Pushmeet Kohli,0.01
+David R Kelley,0.01
+Yunsheng Bai,0.04
+Hao Ding,0.04
+Ken Gu,0.04
+Yizhou Sun,0.04
+Mina Bishay,0.1111111111111111
+Georgios Zoumpourlis,0.1111111111111111
+Kaidi Cao,0.04
+Jingwei Ji,0.04
+Zhangjie Cao,0.04
+Chien-Yi Chang,0.04
+Abien,0.1111111111111111
+Fred,0.1111111111111111
+Agarap,0.1111111111111111
+Axel Berg,0.1111111111111111
+Magnus Oskarsson,0.1111111111111111
+Mark O’Connor,0.1111111111111111
+Meng Cao,0.04
+Mike Zheng Shou,0.04
+Can Zhang,0.04
+Yuexian Zou,0.04
+Alexander Cui,0.04
+Ramin Mehran,0.1111111111111111
+Alexis Oyama,0.1111111111111111
+Tung Phan-Minh,0.04
+Elena Corina Grigore,0.04
+Freddy A Boulton,0.04
+Eric M Wolff,0.04
+EC Anyanwu,0.25
+I Kanu,0.25
+Even Bergseng,0.0625
+Hans Ole Ørka,0.0625
+Erik Næsset,0.0625
+Terje Gobakken,0.0625
+Lorien Nesbitt,0.04
+Michael J Meitner,0.04
+Cynthia Girling,0.04
+Stephen RJ Sheppard,0.04
+Yuhao Lu,0.04
+Ben G Weinstein,0.04
+Sergio Marconi,0.04
+Stephanie A Bohlman,0.04
+Alina Zare,0.04
+Ethan P White,0.04
+Qian-Yi Zhou,0.1111111111111111
+Jaesik Park,0.1111111111111111
+Dong Tian,0.04
+Hideaki Ochimizu,0.04
+Robert Cohen,0.04
+Anthony Vetro,0.04
+Damien Vincent,0.02040816326530612
+Nick Johnston,0.02040816326530612
+Sung Jin Hwang,0.02040816326530612
+David Minnen,0.02040816326530612
+Joel Shor,0.02040816326530612
+Michele Covell,0.02040816326530612
+Chenxi Tu,0.0625
+Eijiro Takeuchi,0.0625
+Chiyomi Miyajima,0.0625
+Kazuya Takeda,0.0625
+Aaron Van Oord,0.1111111111111111
+Nal Kalchbrenner,0.1111111111111111
+Muhammad Asim,0.1111111111111111
+Fahad Shamshad,0.1111111111111111
+Ali Ahmed,0.1111111111111111
+Mikołaj Bińkowski,0.0625
+Danica J Sutherland,0.0625
+Michael Arbel,0.0625
+Patrick Wieschollek,0.0625
+Michael Hirsch,0.0625
+Thomas Dietterich,0.25
+Tianwei Lin,0.1111111111111111
+Xu Zhao,0.1111111111111111
+Zheng Shou,0.1111111111111111
+Haisheng Su,0.04
+Chongjing Wang,0.04
+Xiaolong Liu,0.027777777777777776
+Qimeng Wang,0.027777777777777776
+Yao Hu,0.027777777777777776
+Xu Tang,0.027777777777777776
+Song Bai,0.027777777777777776
+Yueran Bai,0.027777777777777776
+Yingying Wang,0.027777777777777776
+Yunhai Tong,0.027777777777777776
+Qiyue Liu,0.027777777777777776
+Junhui Liu,0.027777777777777776
+Syl- v ain Gelly,0.006944444444444444
+Greg Shakhnarovich,0.1111111111111111
+Norimichi Ukita,0.1111111111111111
+Raymond A Yeh,0.04
+Yiming Liu,0.04
+Abhishek Das,0.015625
+Satwik Kottur,0.015625
+Khushi Gupta,0.015625
+Avi Singh,0.015625
+Deshraj Yadav,0.015625
+Jos ´e MF Moura,0.015625
+Dhruv Ba- tra,0.015625
+José M. F. Moura,0.04
+Shubham Agarwal,0.04
+Trung Bui,0.04
+Ioannis Konstas,0.04
+Verena Rieser,0.04
+J ¨urgen Schmidhuber,0.25
+Atsuhiro Kojima,0.1111111111111111
+Takeshi Tamura,0.1111111111111111
+Kunio Fukunaga,0.1111111111111111
+Wenjie Pei,0.027777777777777776
+Jiyuan Zhang,0.027777777777777776
+Xiangrong Wang,0.027777777777777776
+Lei Ke,0.027777777777777776
+Xi- aoyong Shen,0.027777777777777776
+Taeksoo Kim,0.04
+Moonsu Cha,0.04
+Hyunsoo Kim,0.04
+Hsin-Ying Lee,0.04
+Hung-Yu Tseng,0.04
+Maneesh Singh,0.04
+Basura Fernando,0.0625
+Simon Alexanderson,0.0625
+Gustav Henter,0.0625
+Taras Kucherenko,0.0625
+Jonas Beskow,0.0625
+Shicheng Chen,0.027777777777777776
+Yifeng Zheng,0.027777777777777776
+Chengrui Wu,0.027777777777777776
+Guorui Sheng,0.027777777777777776
+Pierre Roussel,0.027777777777777776
+Bruce Denby,0.027777777777777776
+Hyeongwoo Kim,0.02040816326530612
+Hans-Peter Zoll ¨ofer,0.02040816326530612
+Michael Seidel,0.02040816326530612
+Chris- tian Theobalt,0.02040816326530612
+Sumedha Kshirsagar,0.25
+Nadia Magnenat-Thalmann,0.25
+Jonathon Byrd,0.25
+Zachary Lipton,0.25
+Vincent S Chen,0.027777777777777776
+Paroma Varma,0.027777777777777776
+Christopher Re,0.027777777777777776
+Jieneng Chen,0.012345679012345678
+Yongyi Lu,0.012345679012345678
+Qihang Yu,0.012345679012345678
+Xiangde Luo,0.012345679012345678
+Le Lu,0.012345679012345678
+Yuyin Zhou,0.012345679012345678
+Hu Cao,0.02040816326530612
+Yueyue Wang,0.02040816326530612
+Joy Chen,0.02040816326530612
+Dongsheng Jiang,0.02040816326530612
+Manning Wang,0.02040816326530612
+B Landman,0.027777777777777776
+Z Xu,0.027777777777777776
+J Igelsias,0.027777777777777776
+M Styner,0.027777777777777776
+T Langerak,0.027777777777777776
+A Klein,0.027777777777777776
+Zhigang Dai,0.0625
+Yugeng Lin,0.0625
+Junying Chen,0.0625
+Sara Atito,0.1111111111111111
+Muhammad Awais,0.1111111111111111
+Josef Kittler,0.1111111111111111
+Piotr Dollar,0.0625
+Prianka Banik,0.1111111111111111
+Lin Li,0.1111111111111111
+Xishuang Dong,0.1111111111111111
+Charles Blundell,0.0625
+Julien Cornebise,0.0625
+Daan Wierstra,0.0625
+Fred L. Bookstein,1.0
+Steve Branson,0.0625
+Miguel Bautista Martin,0.027777777777777776
+Aditya Sankar,0.027777777777777776
+Josh Susskind,0.027777777777777776
+Qi Shan,0.027777777777777776
+Jingwei Huang 0001,0.012345679012345678
+Justus Thies,0.012345679012345678
+Abhijit Kundu,0.012345679012345678
+Chiyu Max Jiang,0.012345679012345678
+Ivan Neulander,0.0625
+James Philbin,0.0625
+Ting-Chun Wang,0.1111111111111111
+Ravi Ra-mamoorthi,0.1111111111111111
+Johannes Kopf,0.01
+Kevin Matzen,0.01
+Suhib Alsisan,0.01
+Ocean Quigley,0.01
+Francis Ge,0.01
+Yangming Chong,0.01
+Josh Patterson,0.01
+Shu Wu,0.01
+Matthew Yu,0.01
+Thilo Strauss,0.027777777777777776
+Richard New- combe,0.04
+Philip Blagoveschensky,0.25
+Anh Huy Phan,0.25
+Jen-Tzung Chien,0.25
+Yi-Ting Bao,0.25
+Miaomiao Cheng,0.1111111111111111
+Liping Jing,0.1111111111111111
+Michael Kwok-Po Ng,0.1111111111111111
+Chunhong Cao,0.027777777777777776
+Jie Yu,0.027777777777777776
+Chengyao Zhou,0.027777777777777776
+Kai Hu,0.027777777777777776
+Fen Xiao,0.027777777777777776
+Xieping Gao,0.027777777777777776
+Longteng Guo,0.027777777777777776
+Jiangwei Li,0.027777777777777776
+Wei Luo,0.027777777777777776
+James C Gee,0.1111111111111111
+Martin Reivich,0.1111111111111111
+Ruzena Bajcsy,0.1111111111111111
+Boah Kim,0.027777777777777776
+Dong Hwan Kim,0.027777777777777776
+Seong Ho Park,0.027777777777777776
+Jieun Kim,0.027777777777777776
+June-Goo Lee,0.027777777777777776
+Jong Chul Ye,0.027777777777777776
+Marc Modat,0.015625
+Gerard R Ridgway,0.015625
+Zeike A Taylor,0.015625
+Manja Lehmann,0.015625
+David J Hawkes,0.015625
+S ´ebastien Ourselin,0.015625
+Yulia Rubanova,0.0625
+Jesse Bettencourt,0.0625
+David Duvenaud,0.0625
+Asha Anoosheh,0.0625
+Junya Chen,0.005917159763313609
+Xuan Li,0.005917159763313609
+Qing Guo,0.005917159763313609
+Liqun Chen,0.005917159763313609
+Shuyang Gao,0.005917159763313609
+Tagyoung Chung,0.005917159763313609
+Belinda Zeng,0.005917159763313609
+Wen-lian Lu,0.005917159763313609
+Fan Li,0.005917159763313609
+Chenyang Tao,0.005917159763313609
+Yuhang He,0.027777777777777776
+Wentao Yu,0.027777777777777776
+Jie Han,0.027777777777777776
+Xing Wei,0.027777777777777776
+Xiaopeng Hong,0.027777777777777776
+Yihong Gong,0.027777777777777776
+Lingfeng Wang,0.04
+Gaofeng Meng,0.04
+Shiming Xiang,0.04
+Chunhong Pan,0.04
+Jianwei Yang,0.1111111111111111
+Christian F. Baumgartner,0.012345679012345678
+Kerem Can Tezcan,0.012345679012345678
+Krishna Chaitanya,0.012345679012345678
+Andreas M. Hötker,0.012345679012345678
+Urs J. Muehlematter,0.012345679012345678
+Khoschy Schawkat,0.012345679012345678
+Anton S. Becker,0.012345679012345678
+Olivio Donati,0.012345679012345678
+Ender Konukoglu,0.012345679012345678
+Xiaobin Chang,0.1111111111111111
+Timothy M Hospedales,0.1111111111111111
+Ran Tao,0.1111111111111111
+Yanlei Li,0.1111111111111111
+Jay Martin Tenenbaum,1.0
+Elias Mueggler,0.04
+Henri Rebecq,0.04
+Tobi Del-bruck,0.04
+Mukul V Shirvaikar,1.0
+Youngeun An,0.04
+Gwangwon Kang,0.04
+Il-Jung Kim,0.04
+Hyun-Sook Chung,0.04
+Jongan Park,0.04
+Faruk Ahmed,0.04
+Martín Arjovsky,0.04
+Rameen Abdal,0.0625
+Yipeng Qin,0.0625
+Yuval Alaluf,0.1111111111111111
+Jason Ku,0.04
+Melissa Moziﬁan,0.04
+Jungwook Lee,0.04
+Ali Harakeh,0.04
+Steven L Waslander,0.04
+Yimin Wei,0.04
+Tingting Xie,0.04
+Qiuhong Ke,0.04
+Yu- lan Guo,0.04
+Hualian Sheng,0.02040816326530612
+Sijia Cai,0.02040816326530612
+Jianqiang Huang,0.02040816326530612
+Min-Jian Zhao,0.02040816326530612
+Santosh K Divvala,0.04
+James H Hays,0.04
+Martial Hebert,0.04
+Bao,0.0625
+Zhongfei Zhang,0.0625
+Fang Wen,0.0625
+Kyungjune Baek,0.04
+Yunjey Choi,0.04
+Jaejun Yoo,0.04
+Hyunjung Shim,0.04
+Aymen Mir,0.1111111111111111
+Avneesh Sud,0.027777777777777776
+Ameesh Makadia,0.027777777777777776
+Yinbo Chen,0.1111111111111111
+Henry Zhou,0.0625
+Yong Cao,0.0625
+Wen C Tien,0.0625
+Petros Faloutsos,0.0625
+Frédéric Pighin,0.0625
+Antti Herva,0.04
+Chun-Fu Chen,0.1111111111111111
+Quanfu Fan,0.1111111111111111
+Rameswar Panda,0.1111111111111111
+Alireza Fallah,0.1111111111111111
+Aryan Mokhtari,0.1111111111111111
+Asuman Ozdaglar,0.1111111111111111
+Avishek Ghosh,0.0625
+Jichan Chung,0.0625
+Dong Yin,0.0625
+Kannan Ram-chandran,0.0625
+Bin Gu,0.04
+An Xu,0.04
+Zhouyuan Huo,0.04
+Cheng Deng,0.04
+Jiawei Zhang,0.02040816326530612
+Jinshan Pan,0.02040816326530612
+Tuan-Hung Vu,0.04
+Himalaya Jain,0.04
+Maxime Bucher,0.04
+Patrick P ´erez,0.04
+Nikita Araslanov,0.25
+Amanpreet Singh,0.0625
+Aviad Aberdam,0.015625
+Ron Litman,0.015625
+Shahar Tsiper,0.015625
+Oron Anschel,0.015625
+Ron Slossberg,0.015625
+Shai Mazor,0.015625
+R Manmatha,0.015625
+Dae Young Park,0.25
+Kwang Hee Lee,0.25
+Yingying Deng,0.027777777777777776
+Fan Tang,0.027777777777777776
+Weiming Dong,0.027777777777777776
+Wen Sun,0.027777777777777776
+Michael Elad,0.25
+Cristian Bucilu ˇa,0.1111111111111111
+Rich Caruana,0.1111111111111111
+Alexandru Niculescu-Mizil,0.1111111111111111
+Gorkem Algan,0.25
+Ilkay Ulusoy,0.25
+Dan Gutfreund,0.015625
+Josh Tenenbaum,0.015625
+Agrim Gupta,0.1111111111111111
+Yasuhide Mori Hironobu,0.1111111111111111
+Hironobu Takahashi,0.1111111111111111
+Ryuichi Oka,0.1111111111111111
+Xiujun Li,0.008264462809917356
+Xi Yin 0006,0.008264462809917356
+Chunyuan Li,0.008264462809917356
+Pengchuan Zhang,0.008264462809917356
+Xiaowei Hu 0006,0.008264462809917356
+Lei Zhang 0001,0.008264462809917356
+Houdong Hu,0.008264462809917356
+Li Dong 0004,0.008264462809917356
+Furu Wei,0.008264462809917356
+Yejin Choi 0001,0.008264462809917356
+Jianfeng Gao 0001,0.008264462809917356
+Mert Bulent Sariyildiz,0.1111111111111111
+Julien Perez,0.1111111111111111
+Diane Larlus,0.1111111111111111
+Alireza Zareian,0.0625
+Kevin Dela Rosa,0.0625
+Derek Hao Hu,0.0625
+Astuti Sharma,0.1111111111111111
+Tarun Kalluri,0.1111111111111111
+Chandraker Manmohan,0.1111111111111111
+Hui Tang,0.1111111111111111
+Eric Tzeng,0.0625
+Silvia Bucci,0.1111111111111111
+Mohammad Reza Loghmani,0.1111111111111111
+Tatiana Tom- masi,0.1111111111111111
+Lijia Ma,0.0625
+Mingsheng Long,0.0625
+Jianmin Wang,0.0625
+Antonio Alliegro,0.1111111111111111
+Davide Boscaini,0.1111111111111111
+Tatiana Tommasi,0.1111111111111111
+Ji Hou,0.0625
+Mansheng Chen,0.0625
+Ling Huang,0.0625
+Chang-Dong Wang,0.0625
+Dong Huang,0.0625
+Jia Cai,0.1111111111111111
+Wei Dan,0.1111111111111111
+Xiaowei Zhang,0.1111111111111111
+Yu-Ching Wang,0.0625
+Man-Hsin Kao,0.0625
+Yung- Yu Chuang,0.0625
+Xiao-Ping Zhang,0.04
+Antoni Buades,0.1111111111111111
+Bartomeu Coll,0.1111111111111111
+Jean-Michel Morel,0.1111111111111111
+Damon M. Chandler,0.25
+Sheila S. Hemami,0.25
+Oron Ashual,0.25
+Qingyang Tan,0.027777777777777776
+Yi-Hua Huang,0.027777777777777776
+Shi- hong Xia,0.027777777777777776
+OK-C Au,0.0625
+Chiew-Lan Tai,0.0625
+Ligang Liu,0.0625
+Hongbo Fu,0.0625
+Jonathan T Bar-ron,0.027777777777777776
+Xuyang Bai,0.027777777777777776
+Zixin Luo,0.027777777777777776
+Lei Zhou,0.027777777777777776
+Long Quan,0.027777777777777776
+Zak Murez,0.027777777777777776
+Tarrence van As,0.027777777777777776
+James Bartolozzi,0.027777777777777776
+Ayan Sinha,0.027777777777777776
+Andrew Rabinovich,0.027777777777777776
+M Bueno,0.0625
+J Martínez-Sánchez,0.0625
+H González-Jorge,0.0625
+H Lorenzo,0.0625
+Georgios Floros 0003,0.25
+Jingchun Cheng,0.0625
+Shengjin Wang,0.0625
+Ming-Hsuan Yang 0001,0.0625
+Mingyu Ding,0.027777777777777776
+Zhe Wang 0006,0.027777777777777776
+Zhiwu Lu 0001,0.027777777777777776
+Ping Luo 0002,0.027777777777777776
+David Nilsson,0.25
+Jia-Bin Huang 0001,0.027777777777777776
+Ersin Yumer,0.027777777777777776
+Raia Hadsell,0.0625
+Dushyant Rao,0.0625
+Andrei A Rusu,0.0625
+Razvan Pascanu,0.0625
+Punarjay Chakravarty,0.1111111111111111
+Gaurav Arora,0.1111111111111111
+Afshin Rahimi,0.1111111111111111
+Timothy Baldwin,0.1111111111111111
+Andrei Burov,0.1111111111111111
+Shuhei Tsuchida,0.0625
+Satoru Fukayama,0.0625
+Masahiro Hamasaki,0.0625
+Masataka Goto,0.0625
+Marcus Magnor,0.04
+Hangbo Bao,0.1111111111111111
+Li Dong,0.1111111111111111
+David Barber,0.25
+Felix Agakov,0.25
+Jiwoon Ahn,0.25
+Liyi Chen,0.04
+Weiwei Wu 0001,0.04
+Chenchen Fu,0.04
+Xiao Han,0.04
+Yuntao Zhang,0.04
+Zejian Yuan,0.027777777777777776
+Nanning Zheng,0.027777777777777776
+Peng-Tao Jiang,0.027777777777777776
+Qibin Hou,0.027777777777777776
+Yang Cao,0.027777777777777776
+Hong-Kai Xiong,0.027777777777777776
+Avery E Broderick,0.25
+Abraham Loeb,0.25
+Bradley Atcheson,0.02040816326530612
+Ivo Ihrke,0.02040816326530612
+Art Tevs,0.02040816326530612
+Katherine L. Bouman,0.02040816326530612
+Michael D. Johnson 0003,0.02040816326530612
+Andrew A. Chael,0.02040816326530612
+Freek Roelofs,0.02040816326530612
+Sheperd S. Doeleman,0.02040816326530612
+Daquan Zhou,0.1111111111111111
+Tae Hyun Kim,0.0625
+Jue Wang,0.04
+Prafull Sharma,0.02040816326530612
+Lukas Murmann,0.02040816326530612
+Adam B Yedidia,0.02040816326530612
+Gregory W Wornell,0.02040816326530612
+Fredo Durand,0.02040816326530612
+Yehao Li,0.0625
+Amit Adam,0.0625
+Ehud Rivlin,0.0625
+Ilan Shimshoni,0.0625
+Daviv Reinitz,0.0625
+Brenna D Argall,0.0625
+Sonia Chernova,0.0625
+Manuela Veloso,0.0625
+Brett Browning,0.0625
+Keenan Crane,0.1111111111111111
+Ulrich Pinkall,0.1111111111111111
+Peter Schröder,0.1111111111111111
+Tamal K. Dey,0.1111111111111111
+Anil N. Hirani,0.1111111111111111
+Bala Krishnamoorthy,0.1111111111111111
+Joan Alexis Glaunès,0.1111111111111111
+Alain Trouvé,0.1111111111111111
+Laurent Younes,0.1111111111111111
+Shichen Liu,0.0625
+Weikai Chen,0.0625
+Adobe,1.0
+Guillaume Alain,0.25
+David Bau,0.02040816326530612
+Audrey Cui,0.02040816326530612
+YeonHwan Park,0.02040816326530612
+Ali Jahanian,0.02040816326530612
+Aude Oliva,0.02040816326530612
+Edo Collins,0.0625
+Raja Bala,0.0625
+Bob Price,0.0625
+Sabine Susstrunk,0.0625
+TurtleBot,1.0
+Federico Landi,0.04
+Massim- iliano Corsini,0.04
+Juncheng Li,0.02040816326530612
+Xin Wang,0.02040816326530612
+Haizhou Shi,0.02040816326530612
+William Yang Wang,0.02040816326530612
+Nikhila Ravi,0.0625
+Deepak Pathak,0.0625
+Xu Cao,0.0625
+Weimin Wang,0.0625
+Katashi Nagao,0.0625
+Ryosuke Naka- mura,0.0625
+Homan Igehy,1.0
+Peihao Zhu,0.0625
+Peter Won-ka,0.0625
+Mengnan Du,0.0625
+Shiva Pentyala,0.0625
+Yuening Li,0.0625
+Xia Hu,0.0625
+David Guera,0.25
+Edward J. Delp,0.25
+Yuezun Li,0.1111111111111111
+Ming-Ching Chang,0.1111111111111111
+Siwei Lyu,0.1111111111111111
+Sasha Sax,0.0625
+Amir R. Zamir,0.0625
+Minghao Chen,0.1111111111111111
+Hongyang Xue,0.1111111111111111
+Deng Cai,0.1111111111111111
+Shoufa Chen,0.04
+Enze Xie,0.04
+Chongjian Ge,0.04
+Ding Liang,0.04
+Zhicong Huang,0.04
+Xuemei Hu,0.04
+Zhou Xue,0.04
+Weizhu Xu,0.04
+Tao Yue,0.04
+Jiaxin Chen,0.1111111111111111
+Shuo Zhang,0.1111111111111111
+Youfang Lin,0.1111111111111111
+Mantang Guo,0.0625
+Jing Jin,0.0625
+Hui Liu,0.0625
+Hui Hou,0.0625
+Kang Han,0.0625
+Wei Xiang,0.0625
+Eric Wang,0.0625
+Tao Huang,0.0625
+Yuxiang Zhou,0.027777777777777776
+Jinke Yu,0.027777777777777776
+Irene Kotsia,0.027777777777777776
+Shivangi Aneja,0.25
+Matthias Nieûner,0.25
+Micah K Johnson,0.0625
+Rui Liu,0.04
+Ching Lam Choi,0.04
+Hongsheng Li,0.04
+Sihong Chen,0.1111111111111111
+Kai Ma,0.1111111111111111
+Yefeng Zheng,0.1111111111111111
+Chi Nhan Duong,0.0625
+Khoa Luu,0.0625
+Kha Gia Quach,0.0625
+Nga Le,0.0625
+Yu Liu,0.1111111111111111
+Kaipeng Zhang,0.0625
+Zhanpeng Zhang,0.0625
+Adriana Romero,0.027777777777777776
+Antoine Chassang,0.027777777777777776
+Carlo Gatta,0.027777777777777776
+Yisroel Mirsky,0.25
+Wenke Lee,0.25
+Alexei A. Efros,0.0625
+Hadar Averbuch-Elor,0.0625
+Johannes Kopf 0001,0.0625
+Michael F. Cohen,0.0625
+Michael Bloesch,0.04
+Michael Burri,0.04
+Marco Hutter,0.04
+K Somani Arun,0.1111111111111111
+Steven D Blostein,0.1111111111111111
+Chun-Mei Feng 0001,0.02040816326530612
+Yang Bai,0.02040816326530612
+Tao Luo 0014,0.02040816326530612
+Zhen Li 0026,0.02040816326530612
+Salman H. Khan 0001,0.02040816326530612
+Rick Siow Mong Goh,0.02040816326530612
+Yong Liu 0026,0.02040816326530612
+Daniel Fried,0.01
+Volkan Cirik,0.01
+Jacob Andreas,0.01
+Taylor Berg- Kirkpatrick,0.01
+Dan Klein,0.01
+Shih-Han Chou,0.04
+Min Sun,0.04
+Dan Barnes,0.04
+Matthew Gadd,0.04
+Paul Murcutt,0.04
+Paul Newman,0.04
+Ingmar Posner,0.04
+Daniel Brodeski,0.1111111111111111
+Graham M Brooker,1.0
+CB Ahn,0.25
+ZH Cho,0.25
+Mehmet Akc ¸akaya,0.0625
+Steen Moeller,0.0625
+Sebastian Weing ¨artner,0.0625
+K ˆamil U ˘gurbil,0.0625
+Cagla D Bahadir,0.0625
+Alan Q Wang,0.0625
+Tim Bakker,0.1111111111111111
+Herke van Hoof,0.1111111111111111
+Tommaso Furlanello,0.04
+Laurent Itti,0.04
+Anima Anandkumar,0.04
+Mohit Gupta,0.0625
+Amit Agrawal,0.0625
+Srinivasa G Narasimhan,0.0625
+Kiriakos N Kutulakos,0.0625
+First Author,0.1111111111111111
+Second Author,0.1111111111111111
+Third Author,0.1111111111111111
+Ramesh Raskar,0.1111111111111111
+Kiriakos N Kutu- lakos,0.1111111111111111
+COMSOL AB,1.0
+Martin Alnæs,0.01
+Jan Blechta,0.01
+Johan Hake,0.01
+August Johansson,0.01
+Benjamin Kehlet,0.01
+Anders Logg,0.01
+Chris Richardson,0.01
+Johannes Ring,0.01
+Marie E Rognes,0.01
+Garth N Wells,0.01
+Sean Bell,0.0625
+Paul Upchurch,0.0625
+Kavita Bala,0.0625
+Kiran S. Bhat,0.027777777777777776
+Christopher D. Twigg,0.027777777777777776
+Jessica K. Hodgins,0.027777777777777776
+Pradeep K. Khosla,0.027777777777777776
+Zoran Popovic,0.027777777777777776
+AJ Piergiovanni,0.04
+Anelia Angelova,0.04
+Piyush Sharma,0.0625
+Nan Ding,0.0625
+Radu Soricut,0.0625
+Yun-Ta Tsai,0.25
+Brian L. Price,0.0625
+Scott Cohen,0.0625
+Kirill Demochkin,0.027777777777777776
+Eric R Chan,0.04
+Marco Monteiro,0.04
+Petr Kellnhofer,0.04
+Junyong Lee,0.04
+Hyeongseok Son,0.04
+Jaesung Rim,0.04
+Seungyong Lee,0.04
+Patrick Lichtsteiner,0.1111111111111111
+Christoph Posch,0.1111111111111111
+Peiqi Duan,0.027777777777777776
+Zihao Wang,0.027777777777777776
+Oliver Cossairt,0.027777777777777776
+Tiejun Huang,0.027777777777777776
+Aggelos Katsaggelos,0.027777777777777776
+Maciej Halber,0.027777777777777776
+Kyle Genova,0.027777777777777776
+Forrester Cole,0.027777777777777776
+Daniel Vlasic,0.027777777777777776
+Aaron Sarna,0.027777777777777776
+Chiyu Jiang,0.027777777777777776
+Jingwei Huang,0.027777777777777776
+Nevada Film Office,1.0
+Connelly Barnes,0.0625
+Adam Finkelstein,0.0625
+Dan B Goldman,0.0625
+Ya-Liang Chang,0.0625
+Zhe Yu Liu,0.0625
+Kuan-Ying Lee,0.0625
+Winston Hsu,0.0625
+Michael Armbrust,0.01
+Reynold S Xin,0.01
+Cheng Lian,0.01
+Yin Huai,0.01
+Davies Liu,0.01
+Joseph K Bradley,0.01
+Xiangrui Meng,0.01
+Tomer Kaf-tan,0.01
+Michael J Franklin,0.01
+Ali Ghodsi,0.01
+Philipp Moritz,0.01
+Robert Nishihara,0.01
+Stephanie Wang,0.01
+Alexey Tumanov,0.01
+Richard Liaw,0.01
+Eric Liang,0.01
+Melih Elibol,0.01
+William Paul,0.01
+Michael I Jordan,0.01
+Apache Spark Project,1.0
+Yujun Cai,0.01
+Lin Huang,0.01
+Yiwei Wang,0.01
+Tat-Jen Cham,0.01
+Junsong Yuan,0.01
+Jun Liu,0.01
+Yiheng Zhu,0.01
+Xiao-hui Shen,0.01
+Liang-Yan Gui,0.0625
+Yu-Xiong Wang,0.0625
+José MF Moura,0.0625
+Chen Li,0.0625
+Zhen Zhang,0.0625
+Wee Sun Lee,0.0625
+Gim Hee Lee,0.0625
+Haroon Idrees,0.02040816326530612
+Muhmmad Tayyab,0.02040816326530612
+Kishan Athrey,0.02040816326530612
+Dong Zhang,0.02040816326530612
+Somaya Al-Maadeed,0.02040816326530612
+Nasir Rajpoot,0.02040816326530612
+Iz Beltagy,0.1111111111111111
+Matthew E Peters,0.1111111111111111
+Arman Cohan,0.1111111111111111
+John Mather,0.1111111111111111
+Gerald J Agin,0.25
+Thomas O Binford,0.25
+Yatong An,0.1111111111111111
+Jae-Sang Hyun,0.1111111111111111
+Marco Bevilacqua,0.0625
+Aline Roumy,0.0625
+Christine Guillemot,0.0625
+Marie line Alberi Morel,0.0625
+Hongwei Yong,0.04
+Nora Castner,0.015625
+Thomas C Kuebler,0.015625
+Katharina Scheiter,0.015625
+Juliane Richter,0.015625
+Thèrese Eder,0.015625
+Fabian Hüttig,0.015625
+Constanze Keutel,0.015625
+Enkelejda Kasneci,0.015625
+Yunfei Liu,0.0625
+Ruicong Liu,0.0625
+Haofei Wang,0.0625
+Feng Lu,0.0625
+Rakshit Kothari,0.027777777777777776
+Shalini De Mello,0.027777777777777776
+Wonmin Byeon,0.027777777777777776
+Alex Fedorov,0.02040816326530612
+Samuel Lavoie-Marchildon,0.02040816326530612
+Karan Grewal,0.02040816326530612
+Phil Bachman,0.02040816326530612
+Adam Trischler,0.02040816326530612
+Shi-Jie Li,0.04
+Yazan AbuFarha,0.04
+Yun Liu,0.04
+Chen Wang,0.015625
+Roberto Mart ´ın-Mart ´ın,0.015625
+Jun Lv,0.015625
+Christopher Choy,0.1111111111111111
+Linpu Fang,0.04
+Xingyan Liu,0.04
+Li Liu,0.04
+Hang Xu,0.04
+Wenxiong Kang,0.04
+Yihui He,0.0625
+Rui Yan,0.0625
+Shoou-I Yu,0.0625
+Anil Armagan,0.01
+Seungryul Baek,0.01
+Shreyas Hampali,0.01
+Mahdi Rad,0.01
+Zhaohui Zhang,0.01
+Shipeng Xie,0.01
+MingXiu Chen,0.01
+Boshen Zhang,0.01
+Fu Xiong,0.01
+Liuhao Ge,0.02040816326530612
+Nadia Magnenat Thalmann,0.02040816326530612
+Guijin Wang,0.0625
+Hengkai Guo,0.0625
+Cairong Zhang,0.0625
+Yongcheng Jing,0.04
+Yiding Yang,0.04
+Xinchao Wang,0.04
+Mingli Song,0.04
+Hua Wang,0.027777777777777776
+Dewei Su,0.027777777777777776
+Chuangchuang Liu,0.027777777777777776
+Longcun Jin,0.027777777777777776
+Xian-fang Sun,0.027777777777777776
+Xinyi Peng,0.027777777777777776
+Yunxuan Wei,0.027777777777777776
+Yawei Li,0.027777777777777776
+Long- cun Jin,0.027777777777777776
+Hengjie Song,0.027777777777777776
+Jiezhang Cao,0.0625
+Kai Zhang,0.0625
+Olivier D Faugeras,0.25
+Sungjoon Choi,0.1111111111111111
+Jacob Krantz,0.04
+Erik Wijmans,0.04
+Arjun Majumdar,0.04
+Hans Moravec,1.0
+Peter Anderson 0001,0.008264462809917356
+Roozbeh Mottaghi,0.008264462809917356
+Marco Cannici,0.0625
+Marco Ciccone,0.0625
+Andrea Romanoni,0.0625
+Matteo Matteucci,0.0625
+Garrick Orchard,0.04
+Francesco Galluppi,0.04
+Bert Shi,0.04
+Ana I. Maqueda,0.04
+Antonio Loquercio,0.04
+Guillermo Gallego 0002,0.04
+Narciso García,0.04
+Davide Scaramuzza 0001,0.04
+Kyungseo Min,0.027777777777777776
+Gun-Hee Lee,0.027777777777777776
+Seong-Whan Lee,0.027777777777777776
+Matteo Fabbri,0.012345679012345678
+Guillem Bras ´o,0.012345679012345678
+Gianluca Maugeri,0.012345679012345678
+Orcun Cetintas,0.012345679012345678
+Riccardo Gasparini,0.012345679012345678
+Simone Calder-ara,0.012345679012345678
+Fabio Lanzi,0.027777777777777776
+Andrea Palazzi,0.027777777777777776
+Roberto Vezzani,0.027777777777777776
+Umar Iqbal 0001,0.02040816326530612
+Eldar Insafutdinov,0.02040816326530612
+Simao Herdade,0.0625
+Armin Kappeler,0.0625
+Koﬁ Boakye,0.0625
+Joao Soares,0.0625
+Diederik Kingma,0.25
+Ashish V aswani,0.015625
+IlliaPolosukhin,0.015625
+Angel X Chang,0.027777777777777776
+Jiageng Mao,0.1111111111111111
+Dan A Alcantara,0.02040816326530612
+Fatemeh Abbasinejad,0.02040816326530612
+Shub-habra Sengupta,0.02040816326530612
+Michael Mitzenmacher,0.02040816326530612
+John D Owens,0.02040816326530612
+Irwan Bello,1.0
+Dong-Wook Kim,0.1111111111111111
+Jae Ryun Chung,0.1111111111111111
+Seung-Won Jung,0.1111111111111111
+Stephen Lin 0001,0.1111111111111111
+Josue Anaya,0.25
+Adrian Barbu,0.25
+Harry G Barrow,0.0625
+Jay M Tenenbaum,0.0625
+Helen C Wolf,0.0625
+Marco Callieri,0.027777777777777776
+Matteo Dellepiane,0.027777777777777776
+Fabio Ganovelli,0.027777777777777776
+Guido Ranzuglia,0.027777777777777776
+Zhiming Cui,0.02040816326530612
+Changjian Li,0.02040816326530612
+Nenglun Chen,0.02040816326530612
+Guodong Wei,0.02040816326530612
+Runnan Chen,0.02040816326530612
+Yuanfeng Zhou,0.02040816326530612
+Eric Hayman,0.0625
+Jan-Olof Eklundh,0.0625
+Kristin J Dana,0.0625
+Bram Van Ginneken,0.0625
+Shree K Nayar,0.0625
+Jan J Koenderink,0.0625
+Zackory Erickson,0.04
+Eliot Xing,0.04
+Bharat Srirangam,0.04
+Paul Anandan,0.25
+Daniel Kondermann,0.01
+Rahul Nair,0.01
+Katrin Honauer,0.01
+Karsten Krispin,0.01
+Jonas Andrulis,0.01
+Alexander Brock,0.01
+Burkhard Gusse-feld,0.01
+Mohsen Rahimimoghaddam,0.01
+Sabine Hofmann,0.01
+Claus Brenner,0.01
+Prajit Ramachandran,0.027777777777777776
+Anselm Levskaya,0.027777777777777776
+Ishan Dave,0.0625
+Rohit Gupta,0.0625
+Mamshad Nayeem Rizve,0.0625
+Zhenyu Wu,0.04
+Haotao Wang,0.04
+Hailin Jin,0.04
+Zhangyang Wang,0.04
+Daniel J Butler,0.0625
+Justin Huang,0.0625
+Franziska Roesner,0.0625
+Maya Cakmak,0.0625
+Marco Buzzelli,0.1111111111111111
+Alessio Alb ´e,0.1111111111111111
+Gianluigi Ciocca,0.1111111111111111
+Xuefeng Chen,0.027777777777777776
+Yifan Chen,0.027777777777777776
+Junyu Han,0.027777777777777776
+Yanyun Chen,0.027777777777777776
+Chenggang Wang,0.027777777777777776
+Zechun Liu,0.027777777777777776
+Evangelos Alexiou,1.0
+Jia Ding,0.0625
+Aoxue Li,0.0625
+Zhiqiang Hu,0.0625
+Jiyang Guan,0.0625
+Zhuozhuo Tu,0.0625
+Ran He,0.0625
+Jianpeng Zhang,0.0625
+Yutong Xie,0.0625
+Yong Xia,0.0625
+Xiaomeng Li,0.027777777777777776
+Pheng-Ann Heng,0.027777777777777776
+Xuan-Bac Nguyen,0.04
+Duc Toan Bui,0.04
+Tien D Bui,0.04
+Jean Kossaifi,0.0625
+Maja Pantic,0.0625
+Jiyoung Lee,0.04
+Seungryong Kim,0.04
+Sunok Kim,0.04
+Jungin Park,0.04
+Kwanghoon Sohn,0.04
+Amanjot Kaur,0.0625
+Roland Goecke,0.0625
+Tom Gedeon,0.0625
+Shan Li,0.25
+Weihong Deng,0.25
+Will Kay,0.01
+Brian Zhang,0.01
+Fabio Viola,0.01
+Tim Green,0.01
+Trevor Back,0.01
+Yuanjun Xiong,0.0625
+Wei Xia,0.0625
+Joy Buolamwini,0.25
+Timnit Gebru,0.25
+Jeff Wu,0.015625
+Heewoo Jun,0.015625
+David Luan,0.015625
+Dhruv Ba-tra,0.04
+Bram Bakker,1.0
+Valts Blukis,0.0625
+Dipendra Misra,0.0625
+Ross A Knepper,0.0625
+Yoav Artzi,0.0625
+C ˘at˘alina Cangea,0.0625
+Eugene Belilovsky,0.0625
+Pietro Li `o,0.0625
+Vincent Cartillier,0.027777777777777776
+Zhile Ren,0.027777777777777776
+Neha Jain,0.027777777777777776
+Irfan Essa,0.027777777777777776
+Marc Stamminger,0.04
+Thibaut Weise,0.1111111111111111
+Mark Pauly,0.1111111111111111
+Zi-Hang Jiang,0.0625
+Qianyi Wu,0.0625
+Keyu Chen,0.0625
+Juyong Zhang,0.0625
+Timur Bagautdinov,0.04
+Chenglei Wu,0.04
+Xiangkai Lin,0.006944444444444444
+Yajing Chen,0.006944444444444444
+Haoxian Zhang,0.006944444444444444
+Sheng Wang,0.006944444444444444
+Xuefei Zhe,0.006944444444444444
+Di Kang,0.006944444444444444
+Haozhi Huang,0.006944444444444444
+Xinwei Jiang,0.006944444444444444
+Dong Yu,0.006944444444444444
+Kathleen M. Lewis,0.1111111111111111
+Srivatsan Varadharajan,0.1111111111111111
+Ira Kemelmacher-Shlizerman,0.1111111111111111
+Niloy Mitra,0.0625
+Ayush Saraf,0.0625
+Ioannis Giakoumis,0.1111111111111111
+Nikos Nikolaidis,0.1111111111111111
+Ioannis Pitas,0.1111111111111111
+Seong-Whan Kim,0.25
+Ki-Hong Ko,0.25
+Zhang Hongying,0.1111111111111111
+Wu Yadong,0.1111111111111111
+Kuang Zhonglin,0.1111111111111111
+Yao-Hung Hubert Tsai,0.04
+Paul Pu Liang,0.04
+Amir Zadeh,0.04
+Ouais Alsharif,0.1111111111111111
+Doina Precup,0.1111111111111111
+Alex Kurakin,0.02040816326530612
+Han Zhang,0.02040816326530612
+Aaron Hertzmann,0.0625
+Andrew Hou,0.027777777777777776
+Ze Zhang,0.027777777777777776
+Michel Sarkis,0.027777777777777776
+Ning Bi,0.027777777777777776
+Pierre-Yves Laffont,0.04
+Adrien Bousseau,0.04
+Bui Tuong Phong,1.0
+Artem Filatov,0.1111111111111111
+Andrey Rykov,0.1111111111111111
+Viacheslav Murashkin,0.1111111111111111
+Nemanja Djuric,0.015625
+Vladan Radosavljevic,0.015625
+Henggang Cui,0.015625
+Thi Nguyen,0.015625
+Fang-Chieh Chou,0.015625
+Tsung-Han Lin,0.015625
+Nitin Singh,0.015625
+Jeff Schneider,0.015625
+Dong Gong,0.02040816326530612
+Lingqiao Liu,0.02040816326530612
+Budhaditya Saha,0.02040816326530612
+Moussa Reda Mansour,0.02040816326530612
+Keval Doshi,0.25
+Yasin Yilmaz,0.25
+Chuanxing Geng,0.1111111111111111
+Sheng-jun Huang,0.1111111111111111
+Songcan Chen,0.1111111111111111
+Sangmin Lee,0.1111111111111111
+Hak Gu Kim,0.1111111111111111
+Yong Man Ro,0.1111111111111111
+Darren Cosker,0.1111111111111111
+Eva Krumhuber,0.1111111111111111
+Adrian Hilton,0.1111111111111111
+Hassen Drira,0.04
+Boulbaba Ben Amor,0.04
+Anuj Srivastava,0.04
+Mohamed Daoudi,0.04
+Rim Slama,0.04
+Baris Gecer,0.0625
+Peter Eastwood,0.1111111111111111
+Yigit Baran Can,0.04
+Alexander Liniger,0.04
+Ozan Unal,0.04
+Danda Paudel,0.04
+Tzu-Kuo Huang,0.015625
+Jeff Schnei- der,0.015625
+Wouter Van Gansbeke,0.04
+Noa Garnett,0.04
+Rafi Cohen,0.04
+Tomer Pe’er,0.04
+Roee Lahav,0.04
+Dan Levi,0.04
+Guillem Bras 'o,0.25
+Netalee Efrat,0.027777777777777776
+Max Bluvstein,0.027777777777777776
+Shaul Oron,0.027777777777777776
+Bat El Shlomo,0.027777777777777776
+Yujie Jin,0.0625
+Xiangxuan Ren,0.0625
+Fengxiang Chen,0.0625
+Weidong Zhang,0.0625
+Hala Abualsaud,0.027777777777777776
+Sean Liu,0.027777777777777776
+David Lu,0.027777777777777776
+Kenny Situ,0.027777777777777776
+Akshay Rangesh,0.027777777777777776
+Mohan M Trivedi,0.027777777777777776
+Luca Caltagirone,0.0625
+Mauro Bellone,0.0625
+Lennart Svensson,0.0625
+Mattias Wahde,0.0625
+Zhenpeng Chen,0.1111111111111111
+Qianfei Liu,0.1111111111111111
+Chenfan Lian,0.1111111111111111
+Yao Feng,0.04
+Fan Wu,0.04
+Xiaohu Shao,0.04
+Xi Zhou,0.04
+J ´erˆome Louradour,0.0625
+Ronan Collobert,0.0625
+Ja- son Weston,0.0625
+Zhiyi Cheng,0.1111111111111111
+Jongho Lee,0.015625
+Jenu Varghese Chacko,0.015625
+Bing Dai,0.015625
+Syed Azer Reza,0.015625
+Abdul Kader Sagar,0.015625
+Kevin W Eliceiri,0.015625
+Andreas Velten,0.015625
+Joseph R Bartels,0.04
+William L Whittaker,0.04
+Charles H Anderson,0.04
+James R Bergen,0.04
+Peter J Burt,0.04
+Joan M Ogden,0.04
+Yoann Altmann,0.027777777777777776
+Stephen McLaughlin,0.027777777777777776
+Miles J Padgett,0.027777777777777776
+Vivek K Goyal,0.027777777777777776
+Alfred O Hero,0.027777777777777776
+Daniele Facio,0.027777777777777776
+Haoran Duan,0.1111111111111111
+Shidong Wang,0.1111111111111111
+Yu Guan,0.1111111111111111
+Anran Zhang,0.02040816326530612
+Lei Yue,0.02040816326530612
+Jiayi Shen,0.02040816326530612
+Fan Zhu,0.02040816326530612
+Xianbin Cao,0.02040816326530612
+Ricardo Guerrero-Gómez-Olmedo,0.04
+Beatriz Torre-Jiménez,0.04
+Roberto López-Sastre,0.04
+Saturnino Maldonado-Bascón,0.04
+Daniel Onoro-Rubio,0.04
+Jingwen Chen,0.0625
+Jiawei Chen,0.0625
+William J Schroeder,1.0
+Kanchan Bahirat,0.0625
+Chengyuan Lai,0.0625
+Ryan P. McMahan,0.0625
+Balakrishnan Prabhakaran 0001,0.0625
+Alexander M Bronstein,0.1111111111111111
+Ron Kimmel,0.1111111111111111
+Keunhong Park,0.015625
+Utkarsh Sinha,0.015625
+Dan B. Goldman,0.015625
+Yudong Guo,0.027777777777777776
+Sen Liang,0.027777777777777776
+Yongjin Liu,0.027777777777777776
+Gordon Wet-zstein,0.1111111111111111
+Chunxiao Cao,0.04
+Zhong Ren,0.04
+Carl Schissler,0.04
+Damian T. Murphy,0.0625
+Antti Kelloniemi,0.0625
+Jack Mullen,0.0625
+Simon Shelley,0.0625
+Vassil Panayotov,0.0625
+Guoguo Chen,0.0625
+Daniel Povey,0.0625
+Sanjeev Khudanpur,0.0625
+Bernie Huang,0.02040816326530612
+Florian Metze,0.02040816326530612
+Joao Henriques,0.02040816326530612
+Ming Chen,0.04
+Zhewei Wei,0.04
+Zengfeng Huang,0.04
+Bolin Ding,0.04
+Yaliang Li,0.04
+Masahisa Adachi,1.0
+Lorenz C Blum,0.25
+Jean-Louis Reymond,0.25
+Shaked Brody,0.1111111111111111
+Uri Alon,0.1111111111111111
+Eran Yahav,0.1111111111111111
+Wenhui Lei,0.027777777777777776
+Wei Xu,0.027777777777777776
+Ran Gu,0.027777777777777776
+Hao Fu,0.027777777777777776
+Shaoting Zhang,0.027777777777777776
+Guotai Wang,0.027777777777777776
+Claudia Lindner,0.25
+Tim F Cootes,0.25
+Riddhish Bhalodia,0.1111111111111111
+Ross T Whitaker,0.1111111111111111
+Brandon Anderson,0.1111111111111111
+Truong-Son Hy,0.1111111111111111
+Risi Kondor,0.1111111111111111
+Guanbin Li,0.027777777777777776
+Ruijia Xu,0.027777777777777776
+Meng Wang,0.027777777777777776
+Bin Fan,0.1111111111111111
+Yuchao Dai,0.1111111111111111
+Mingyi He,0.1111111111111111
+Viktor Larsson,0.0625
+Cenek Albl,0.027777777777777776
+Zuzana Kukelova,0.027777777777777776
+Michal Polic,0.027777777777777776
+Tomas Pajdla,0.027777777777777776
+Ching-Hang Chen,0.25
+Lingxiao He,0.027777777777777776
+Xingyu Liao,0.027777777777777776
+Wu Liu,0.027777777777777776
+Xinchen Liu,0.027777777777777776
+Peng Cheng,0.027777777777777776
+Md. Altab Hossain,0.0625
+Junqiu Wang,0.0625
+Gunawan Ariyanto,0.25
+Mark S. Nixon,0.25
+Qingqiu Huang,0.1111111111111111
+Wentao Liu,0.1111111111111111
+Seon Joo Kim,0.0625
+Ognjen Arandjelovic,0.25
+Costantino Grana,0.1111111111111111
+Soham Ghosh,0.0625
+Anuva Agarwal,0.0625
+Alexan-der Hauptmann,0.0625
+Mayu Otani,0.0625
+Yuta Nakahima,0.0625
+Rahtu Esa,0.0625
+Heikkil ¨a Janne,0.0625
+Stephen Robertson,1.0
+Houwen Peng,0.0625
+William Peebles,0.02040816326530612
+Antreas Antoniou,0.1111111111111111
+Amos Storkey,0.1111111111111111
+Pierre Luc Carrier,0.01
+Ben Hamner,0.01
+Will Cukierski,0.01
+Yichuan Tang,0.01
+David Thaler,0.01
+Dong-Hyun Lee,0.01
+Linagzhe Y uan,0.02040816326530612
+Sercan Ömer Arik,0.04
+Jitong Chen,0.04
+Kainan Peng,0.04
+Wei Ping,0.04
+Sercan ¨O Arık,0.01
+Mike Chrzanowski,0.01
+Adam Coates,0.01
+Gregory Diamos,0.01
+Andrew Gibiansky,0.01
+Y ongguo Kang,0.01
+Xian Li,0.01
+JohnMiller,0.01
+Andrew Ng,0.01
+Jonathan Raiman,0.01
+Eric Battenberg,0.02040816326530612
+RJ Skerry-Ryan,0.02040816326530612
+Soroosh Mariooryad,0.02040816326530612
+Daisy Stanton,0.02040816326530612
+David Kao,0.02040816326530612
+Matt Shannon,0.02040816326530612
+Tom Bagby,0.02040816326530612
+Dailan He,0.02040816326530612
+Yusheng Zhao,0.02040816326530612
+Junyu Luo,0.02040816326530612
+Tianrui Hui,0.02040816326530612
+Shaofei Huang,0.02040816326530612
+Aixi Zhang,0.02040816326530612
+Zhenyu Chen,0.0625
+Ali Gholami,0.0625
+Drew A Hudson,0.25
+Christopher D Manning,0.25
+Vincent Michalski,0.027777777777777776
+Adam Atkin- son,0.027777777777777776
+´Akos K ´ad´ar,0.027777777777777776
+Akira Fukui,0.027777777777777776
+Daylen Yang,0.027777777777777776
+Zijian Dong,0.04
+Ot- mar Hilliges,0.04
+Miguel Angel Bautista,0.04
+Nitish Srivastava,0.04
+Joshua M Susskind,0.04
+Pablo Palafox,0.04
+Alja ˇz Bo ˇziˇc,0.04
+Yueyu Hu,0.0625
+Zhan Ma,0.0625
+Saurabh Puri,0.1111111111111111
+S ébastien Lasserre,0.1111111111111111
+Johannes Ball ´e,0.015625
+Philip A Chou,0.015625
+Johannes Ball 'e,0.1111111111111111
+Valero Laparra,0.1111111111111111
+V alero Laparra,0.1111111111111111
+Giovanni Signorello,0.01
+Sebastiano Battiato,0.01
+Francesco Ragusa,0.01
+R Leonardi,0.01
+Emanuele Ragusa,0.01
+Emanuele Scuderi,0.01
+Antonino Lopes,0.01
+Luciano Santo,0.01
+Stein,0.25
+McKenna,0.25
+Shangchen Han,0.00390625
+Beibei Liu,0.00390625
+Randi Cabezas,0.00390625
+Peizhao Zhang,0.00390625
+Jeff Petkau,0.00390625
+Tsz-Ho Yu,0.00390625
+Chun-Jung Tai,0.00390625
+Muzaffer Akbay,0.00390625
+Asaf Nitzan,0.00390625
+Gang Dong,0.00390625
+Yuting Ye,0.00390625
+Lingling Tao,0.00390625
+Chengde Wan,0.00390625
+Robert Wang,0.00390625
+Yizhak Ben-Shabat,0.02040816326530612
+Fatemeh Saleh,0.02040816326530612
+Dylan Campbell,0.02040816326530612
+Cristian Rodriguez-Opazo,0.02040816326530612
+Hongdong Li,0.02040816326530612
+Edsger W. Dijkstra,1.0
+Stefano Ermon,0.25
+Michael Janner,0.0625
+Justin Fu,0.0625
+Marvin Zhang,0.0625
+Lydia E. Kavraki,0.0625
+Petr Svestka,0.0625
+Jean-Claude Latombe,0.0625
+Mark H. Overmars,0.0625
+Andrew Y. Ng,0.25
+Stuart Russell 0001,0.25
+Incheol Kim,0.0625
+Diego Gutierrez,0.0625
+Min H Kim,0.0625
+Telmo Ad ˜ao,0.02040816326530612
+Jon ´aˇs Hru ˇska,0.02040816326530612
+Lu ´ıs P ´adua,0.02040816326530612
+Jos ´e Bessa,0.02040816326530612
+Emanuel Peres,0.02040816326530612
+Raul Morais,0.02040816326530612
+Joaquim Joao Sousa,0.02040816326530612
+V Backman,0.01
+Michael B Wallace,0.01
+LT Perelman,0.01
+JT Arendt,0.01
+R Gurjar,0.01
+MG M ¨uller,0.01
+Q Zhang,0.01
+G Zonios,0.01
+E Kline,0.01
+T McGilli- can,0.01
+Boaz Arad,0.25
+Ohad Ben-Shahar,0.25
+Dinesh Acharya 0001,0.0625
+Zhiwu Huang,0.0625
+Danda Pani Paudel,0.0625
+Cha Zhang,0.0625
+Cristian Canton-Ferrer,0.0625
+Matthew Johnson-Roberson,0.027777777777777776
+Charles Barto,0.027777777777777776
+Rounak Mehta,0.027777777777777776
+Sharath Nittur Sridhar,0.027777777777777776
+Karl Rosaen,0.027777777777777776
+Ram Vasudevan,0.027777777777777776
+Rockstar Games,1.0
+fabbrimatteo,1.0
+Tianlong Chen,0.02040816326530612
+Shuohang Wang,0.02040816326530612
+Jared Kaplan,0.01
+Tom B Brown,0.01
+Christoph Schuhmann,0.012345679012345678
+Richard Vencu,0.012345679012345678
+Romain Beaumont,0.012345679012345678
+Robert Kaczmarczyk,0.012345679012345678
+Clayton Mullis,0.012345679012345678
+Aarush Katta,0.012345679012345678
+Theo Coombes,0.012345679012345678
+Jenia Jitsev,0.012345679012345678
+Aran Komatsuzaki,0.012345679012345678
+Anton Bakhtin,0.04
+Laura Gustafson,0.04
+David Barrett,0.04
+Felix Hill,0.04
+Timothy Lillicrap,0.04
+Mikhail Moiseevich Bongard,1.0
+Zhan Wang,0.04
+Yugeng He,0.04
+Jiaxuan Wang,0.04
+Hamid R Sheikh,0.0625
+Guilin Liu,0.02040816326530612
+Andrew Tao,0.02040816326530612
+Bryan Catanzaro,0.02040816326530612
+Linjie Yang,0.012345679012345678
+Yuchen Fan,0.012345679012345678
+Jianchao Yang,0.012345679012345678
+Dingcheng Yue,0.012345679012345678
+Yuchen Liang,0.012345679012345678
+Brian Price,0.012345679012345678
+Thomas Huang,0.012345679012345678
+Jan Eric Lenssen,0.0625
+Hein- rich M ¨uller,0.0625
+Aditya Grover,0.25
+Kaveh Hassani,0.25
+Amir Hosein Khasahmadi,0.25
+Jiawen Chen 0001,0.027777777777777776
+Runfa Chen,0.04
+Wenbing Huang,0.04
+Binghui Huang,0.04
+Fuchun Sun,0.04
+Bin Fang,0.04
+Vishwanath A. Sindagi,0.1111111111111111
+Oncel Tuzel,0.1111111111111111
+Xinyu Huang,0.027777777777777776
+Xinjing Cheng,0.027777777777777776
+Dingfu Zhou,0.027777777777777776
+Qichuan Geng,0.027777777777777776
+Ruigang Yang,0.027777777777777776
+Minzhe Niu,0.01
+Chenhan Jiang,0.01
+Hanxue Liang,0.01
+Jingheng Chen,0.01
+Yamin Li,0.01
+Chaoqiang Ye,0.01
+Zhenguo Li,0.01
+Robert Krajewski,0.0625
+Julian Bock,0.0625
+Laurent Kloeker,0.0625
+Lutz Eckstein,0.0625
+Joshua Batson,0.25
+Loic Royer,0.25
+Ch Leinert,0.01
+S Bowyer,0.01
+LK Haikala,0.01
+MS Hanner,0.01
+MG Hauser,0.01
+A-Ch Levasseur-Regourd,0.01
+I Mann,0.01
+K Mattila,0.01
+WT Reach,0.01
+W Schlosser,0.01
+Haeyun Lee,0.0625
+Jucheol Won,0.0625
+Alexey Kurakin,0.1111111111111111
+Samy Bengio,0.1111111111111111
+Honggu Liu,0.015625
+Xiaodan Li,0.015625
+Wenbo Zhou,0.015625
+Weiming Zhang,0.015625
+Weize Quan,0.027777777777777776
+Ruisong Zhang,0.027777777777777776
+Yong Zhang,0.027777777777777776
+Dong-Ming Yan,0.027777777777777776
+Zekun Sun,0.04
+Yujie Han,0.04
+Zeyu Hua,0.04
+Na Ruan,0.04
+Weijia Jia,0.04
+Hu Xu,0.015625
+Gargi Ghosh,0.015625
+Po-yao Huang,0.015625
+Prahal Arora,0.015625
+Masoumeh Aminzadeh,0.015625
+Relja Arandjelovi ´c,0.25
+Mitko Veta,0.01
+Paul Johannes Van Diest,0.01
+Nico Karssemeijer,0.01
+Geert Litjens,0.01
+Jeroen AWM Van Der Laak,0.01
+Meyke Hermsen,0.01
+Quirine F Manson,0.01
+Maschenka Balkenhol,0.01
+Gabriele Campanella,0.01
+Matthew G Hanna,0.01
+Luke Geneslaw,0.01
+Allen Miraflor,0.01
+Vitor Werneck Krauss Silva,0.01
+Klaus J Busam,0.01
+Edi Brogi,0.01
+Victor E Reuter,0.01
+David S Klimstra,0.01
+Thomas J Fuchs,0.01
+Zenghai Chen,0.0625
+Zheru Chi,0.0625
+Hong Fu,0.0625
+Dagan Feng,0.0625
+Sebastian Goodman,0.0625
+Prannay Khosla,0.012345679012345678
+Piotr Teterwak,0.012345679012345678
+Aaron Maschinot,0.012345679012345678
+Wonjae Kim,0.1111111111111111
+Bokyung Son,0.1111111111111111
+Ildoo Kim,0.1111111111111111
+Peyman Bateni,0.04
+Raghav Goyal,0.04
+Vaden Masrani,0.04
+Frank Wood,0.04
+Ioannis Pa- tras,0.1111111111111111
+Nan Yang,0.012345679012345678
+Wenhui Wang,0.012345679012345678
+Ming Zhou,0.012345679012345678
+Hsiao-Wuen Hon,0.012345679012345678
+Marjan Ghazvinine-jad,0.015625
+Veselin Stoy-anov,0.015625
+Rizard Renanda Adhi Pramono,0.1111111111111111
+Yie Tarng Chen,0.1111111111111111
+Wen Hsien Fang,0.1111111111111111
+François Fleuret,0.04
+Manuel Fritsche,0.1111111111111111
+Zhuoran Shen,0.04
+Mingyuan Zhang,0.04
+Haiyu Zhao,0.04
+Stefanie Wuhrer,0.0625
+Allan Jep-son,0.0625
+Sven Dickinson,0.0625
+Yi-Hsin Chen,0.027777777777777776
+Wei-Yu Chen,0.027777777777777776
+Yu-Ting Chen,0.027777777777777776
+Bo-Cheng Tsai,0.027777777777777776
+Yu-Chiang Frank Wang,0.027777777777777776
+Andreea Bobu,0.0625
+Thalaiyasingam Ajanthan,0.02040816326530612
+Marc’Aurelio Ranzato,0.02040816326530612
+Bing Liu,0.25
+Mostafa De- hghani,0.006944444444444444
+Alexandre Sablayrolles,0.027777777777777776
+Herv é Jégou,0.027777777777777776
+Hervé Jégou,0.02040816326530612
+Pieter Noordhuis,0.012345679012345678
+Lukasz Wesolowski,0.012345679012345678
+Aapo Kyrola,0.012345679012345678
+Andrew Tulloch,0.012345679012345678
+Yangqing Jia,0.012345679012345678
+Richard S Zemel,0.25
+Ross B. Girshick,0.0625
+Peng Gao,0.015625
+Shijie Geng,0.015625
+Renrui Zhang,0.015625
+Teli Ma,0.015625
+Rongyao Fang,0.015625
+Dwarikanath Mahapatra,0.0625
+Bhavna Antony,0.0625
+Suman Sedai,0.0625
+Rahil Garnavi,0.0625
+Colin Studholme,0.0625
+Corina Drapaca,0.0625
+Bistra Iordanova,0.0625
+Valerie Cardenas,0.0625
+Yu Zhang,0.027777777777777776
+Peng Sun,0.027777777777777776
+Han Yan,0.027777777777777776
+Xiaolin Zhao,0.027777777777777776
+Wei Yu,0.04
+Pengwei Liang,0.04
+Chang Li,0.04
+Sergey Ioffe,0.25
+Gabriela Y Kimura,0.0625
+Diego R Lucio,0.0625
+Alceu S Britto Jr,0.0625
+David Menotti,0.0625
+David Yambay,0.01
+Benedict Becker,0.01
+Naman Kohli,0.01
+Daksha Ya-dav,0.01
+Adam Czajka,0.01
+Kevin W Bowyer,0.01
+Stephanie Schuckers,0.01
+Richa Singh,0.01
+Mayank Vatsa,0.01
+Afzel Noore,0.01
+Patrick J Flynn,0.25
+Cunjian Chen,0.25
+Arun Ross,0.25
+Liang Zhou,0.1111111111111111
+Fan Bao,0.027777777777777776
+Chongxuan Li,0.027777777777777776
+Hang Su,0.027777777777777776
+Jun Zhu,0.027777777777777776
+John O’Keefe,0.25
+John Dostrovsky,0.25

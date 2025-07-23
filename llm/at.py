@@ -98,17 +98,17 @@ def process_csv(csv_file, output_file):
         if df.shape[1] < 2:
             raise ValueError(f"The CSV file requires at least 2 columns")
         
-        index_col = df.columns[0]
-        ref_col = df.columns[1]
+        index_col = df.columns[1]
+        ref_col = df.columns[2]
     
         
     except Exception as e:
         print(f"Error when reading csv file: {str(e)}")
         try:
             df = pd.read_csv(csv_file, header=None)
-            df.columns = [f"col_{i}" for i in range(df.shape[1])]
-            index_col = "col_0"
-            ref_col = "col_1"
+            df.columns = [f"col_{i}" for i in range(df.shape[2])]
+            index_col = "col_1"
+            ref_col = "col_2"
         except Exception as e2:
             print(f"Also Faild: {str(e2)}")
             raise
@@ -175,8 +175,10 @@ def main():
     # for i in range(torch.cuda.device_count()):
     #     print(f"GPU {i}: {torch.cuda.get_device_name(i)}")
     
-    input_csv = "selected_references.csv"  
-    output_json = "extracted_references.json"
+    # input_csv = "selected_references.csv"  
+    # output_json = "extracted_references.json"
+    input_csv = "../References/ICCV2021_1013_re.csv"  
+    output_json = "../AT/ICCV2021_1013_re.json"
     
     process_csv(input_csv, output_json)
 
