@@ -74,6 +74,7 @@ build/
 *.json
 utils/data/
 get_paper/Publications
+node_modules/
 
 # ========================
 # Archives and Compressed Files
