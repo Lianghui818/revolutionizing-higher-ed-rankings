@@ -157,7 +157,7 @@ def interactive_conference_selection(file_info, saved_mappings):
         
         if filename in saved_mappings:
             saved_conf = saved_mappings[filename]
-            print(f"[{i}/{len(file_info)}] 📄 {filename}")
+            print(f"[{i}/{len(file_info)}] - {filename}")
             print(f"Previously saved: {saved_conf}")
             choice = input(f"    Use saved mapping? (y/n/new conference): ").strip().lower()
             if choice in ['y', 'yes', '']:
@@ -308,7 +308,6 @@ def process_single_file(csv_file, conference_name, author_univ_map):
 def update_university_rankings(faculty_df, temp_rankings=None):
     # update ranking
     
-    # 定义固定的列顺序（与原始格式完全一致）
     FIXED_COLUMNS = [
         'Index',
         'University', 
@@ -568,6 +567,6 @@ def single_file_mode(faculty_folder):
 
 if __name__ == "__main__":
     faculty_folder = Path("../faculty/Scoring")
-    output_file = Path("interactive_rankings.csv")
+    output_file = Path("3cv_f.csv")
     
     main_interactive_processor(faculty_folder, output_file)
