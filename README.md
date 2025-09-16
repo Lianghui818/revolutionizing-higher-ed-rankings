@@ -7,13 +7,9 @@
 - Jack Herbst: Frontend  
 - Andrew Ketola: Backend
 - Mainoah Muna: Backend  
-
-**Project Leader:** 
-- Dr. Fuxin Li: Associate Professor from Oregon State University
-
-**Project Partner** 
-- Dr. Yi Zhang: Professor from UCSC
 - Diji Yang: PhD student from UCSC
+- Dr. Yi Zhang: Professor from UCSC
+- Dr. Fuxin Li: Associate Professor from Oregon State University
 
 ---
 
