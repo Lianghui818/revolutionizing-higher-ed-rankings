@@ -110,7 +110,7 @@ def get_paper_title(pdf_path: str) -> str:
         return "Untitled"
 
 # Layout-aware reference extraction (Plan B
-def join_line(line_words, x_gap_tol=3.0):
+def join_line(line_words, x_gap_tol=1):
     line_words = sorted(line_words, key=lambda w: w["x0"])
     parts, prev_x1 = [], None
     for w in line_words:
@@ -123,20 +123,28 @@ def join_line(line_words, x_gap_tol=3.0):
 def lines_from_words(words, y_tol=3.2):
     if not words:
         return []
-    words = sorted(words, key=lambda w: (round(w["top"], 1), w["x0"]))
+
+    x_min = min(w["x0"] for w in words)
+    for w in words:
+        w["_norm_x0"] = w["x0"] - x_min
+
+    words = sorted(words, key=lambda w: (round(w["top"], 1), w["_norm_x0"]))
+
     lines, buf, cur_y = [], [], None
     for w in words:
         y = round(w["top"], 1)
         if cur_y is None or abs(y - cur_y) > y_tol:
             if buf:
-                x0_min = min(x["x0"] for x in buf)
-                lines.append({"x0": x0_min, "text": join_line(buf)})
+                x0_min = min(x["_norm_x0"] for x in buf)
+                avg_size = sum(x["size"] for x in buf) / len(buf)
+                lines.append({"x0": x0_min, "text": join_line(buf), "size": avg_size})
             buf, cur_y = [w], y
         else:
             buf.append(w)
     if buf:
-        x0_min = min(x["x0"] for x in buf)
-        lines.append({"x0": x0_min, "text": join_line(buf)})
+        x0_min = min(x["_norm_x0"] for x in buf)
+        avg_size = sum(x["size"] for x in buf) / len(buf)
+        lines.append({"x0": x0_min, "text": join_line(buf), "size": avg_size})
     return lines
 
 def percentile(values, q):
@@ -203,37 +211,36 @@ MULTI_ANCHOR_SPLIT = re.compile(
 def segment_lines_by_indent(lines):
     if not lines:
         return []
-    thr = infer_start_indent(lines)
     blocks, cur = [], []
-    prev_x0 = None
 
-    def is_new_start(ln_text, ln_x0, prev_x0):
-        ln_text = ln_text.strip()
-        if AUTHOR_YEAR.match(ln_text):
-            return True
-        left_jump = (prev_x0 is not None) and ((prev_x0 - ln_x0) > 2.5)
-        capital = bool(re.match(r"^[A-Z]", ln_text))
-        indent_ok = (thr is None) or (ln_x0 <= thr)
-        return left_jump and capital and indent_ok
+    def is_valid_ref(ref):
+      if ref.strip().startswith(("Figure:", "Table:")):
+          return False
+
+      first_words = re.match(r"^[A-ZÀ-ÖØ-Ý][\w.'-]*(?:\s+[A-ZÀ-ÖØ-Ý][\w.'-]*)+.*[,.]", ref.strip())
+      return bool(first_words)
+
+    x_start, x_indt = 0, 10 # magic numbers for now, will try to fix if I have time
 
     for ln in lines:
+        x0 = int(ln["x0"])
         txt = ln["text"].strip()
+        size = int(ln["size"])
         if not txt:
             continue
-        if not cur:
+        if size >= 11: # hit a heading
+            break
+        if x0 == x_start:
+            if cur:
+              blocks.append(" ".join(cur))
             cur = [txt]
-            prev_x0 = ln["x0"]
-            continue
-        if is_new_start(txt, ln["x0"], prev_x0):
-            blocks.append(" ".join(cur))
-            cur = [txt]
-        else:
+        elif (x0 <= int(1.2 * x_indt)) and (x0 >= int(0.8 * x_indt)):
             if cur[-1].endswith("-") and re.match(r"^[A-Za-z]", txt):
                 cur[-1] = cur[-1][:-1] + txt
             else:
                 cur.append(txt)
-        prev_x0 = ln["x0"]
-    if cur:
+
+    if len(cur) > 1:
         blocks.append(" ".join(cur))
 
     split_blocks = []
@@ -248,22 +255,10 @@ def segment_lines_by_indent(lines):
         else:
             split_blocks.append(b.strip(" ."))
 
-    merged = []
-    for s in split_blocks:
-        short = (len(s) < 60)
-        looks_like_ref = bool(re.search(
-            r"(Proceedings|Transactions|Journal|arXiv|Association for Computational Linguistics|ACL|EMNLP|NAACL|COLING|EACL|Findings|Workshop|pages?\s+\d|pp\.)",
-            s, re.I))
-        if short or not looks_like_ref:
-            if merged:
-                merged[-1] = (merged[-1] + " " + s).strip()
-            else:
-                merged.append(s)
-        else:
-            merged.append(s)
+    filtered_blocks = [r for r in split_blocks if is_valid_ref(r)]
 
     final, seen = [], set()
-    for r in merged:
+    for r in filtered_blocks:
         r = re.sub(r"(https?://doi\.org/\S+)(\s+\1)+", r"\1", r)
         r = re.sub(r"(doi:\s*\S+)(\s+\1)+", r"\1", r, flags=re.I)
         key = re.sub(r"\W+", "", r.lower())[:220]
@@ -273,39 +268,70 @@ def segment_lines_by_indent(lines):
         final.append(r)
     return final
 
+def add_words_to_body(col_words, body):
+    txt_parts = []
+    sorted_words = sorted(col_words, key=lambda w: (w["top"], w["x0"]))
+    text = " ".join(w["text"] for w in sorted_words)
+    txt_parts.append(text)
+    txt = " ".join(txt_parts)
+    txt = re.sub(r"(?im)^proceedings of the .*acl.*\n?", "", txt)
+    body.append(txt)
+    return body
+
 def extract_references_layout_and_main(pdf_path: str) -> Tuple[str, List[str]]:
-    main_parts, refs_all = [], []
+    main_parts, refs_all, refs_lines = [], [], []
     try:
         with pdfplumber.open(pdf_path) as pdf:
-            ref_page_idx, ref_heading_bottom = None, None
+            ref_page_idx, ref_heading_bottom, ref_right_column = None, None, None
             for i, page in enumerate(pdf.pages):
-                words = page.extract_words(x_tolerance=3, y_tolerance=3, use_text_flow=False)
-                heading = [w for w in words if re.fullmatch(r"[Rr][Ee][Ff][Ee][Rr][Ee][Nn][Cc][Ee][Ss]", w["text"])]
+                words = page.extract_words(x_tolerance=1, y_tolerance=1, use_text_flow=False, extra_attrs=["size"])
+                # doesnt work sometimes?
+                heading = [w for w in words if w["size"] > 11 and "reference" in w["text"].lower()]
                 if heading:
                     ref_page_idx = i
                     ref_heading_bottom = max(w["bottom"] for w in heading)
+                    mid_x = page.width / 2
+                    heading_x = sum(w["x0"] for w in heading) / len(heading)
+                    ref_right_column = heading_x > mid_x
                     break
+
             for i, page in enumerate(pdf.pages):
                 if ref_page_idx is None or i < ref_page_idx:
-                    txt = page.extract_text(x_tolerance=1.2, y_tolerance=1.2) or ""
-                    txt = re.sub(r"(?im)^proceedings of the .*acl.*\n?", "", txt)
-                    main_parts.append(txt)
+                    words = page.extract_words(x_tolerance=1, y_tolerance=1, use_text_flow=False, extra_attrs=["size"])
+                    cols = split_two_columns(words, page.width)
+                    for col_words in cols:
+                        main_parts = add_words_to_body(col_words, main_parts)
+
             if ref_page_idx is None:
                 return ("\n".join(main_parts), [])
             for i in range(ref_page_idx, len(pdf.pages)):
                 page = pdf.pages[i]
-                words = page.extract_words(x_tolerance=2, y_tolerance=2, use_text_flow=False, extra_attrs=["size"])
-                if i == ref_page_idx and ref_heading_bottom is not None:
-                    words = [w for w in words if w["top"] >= ref_heading_bottom + 1]
-                cutoff = page.height * 0.92
-                words = [w for w in words if w["top"] < cutoff]
-                if not words:
-                    continue
+                words = page.extract_words(x_tolerance=1, y_tolerance=1, use_text_flow=False, extra_attrs=["size"])
                 cols = split_two_columns(words, page.width)
-                for col_words in cols:
-                    lines = lines_from_words(col_words, y_tol=3.2)
-                    refs_col = segment_lines_by_indent(lines)
-                    refs_all.extend(refs_col)
+
+                if i == ref_page_idx and ref_heading_bottom is not None:
+                    left, right = cols
+                    ref_col, other_col = (right, left) if ref_right_column else (left, right)
+
+                    words_above_ref = [w for w in ref_col if w["top"] < ref_heading_bottom]
+                    words_below_ref = [w for w in ref_col if w["top"] >= ref_heading_bottom + 1]
+
+                    main_parts = add_words_to_body(words_above_ref, main_parts)
+                    refs_lines.extend(lines_from_words(words_below_ref))
+                    if not ref_right_column:
+                        refs_lines.extend(lines_from_words(other_col))
+                    else:
+                        main_parts = add_words_to_body(other_col, main_parts)
+
+                if i > ref_page_idx:
+                    for col_words in cols:
+                        cutoff = page.height * 0.92
+                        col_words = [w for w in col_words if w["top"] < cutoff]
+                        if not words:
+                            continue
+                        refs_lines.extend(lines_from_words(col_words))
+
+        refs_all = segment_lines_by_indent(refs_lines)
         if len(refs_all) > 80:
             tmp = [re.sub(r"\s{2,}", " ", r).strip() for r in refs_all]
             def has_year(s): return re.search(r"(19|20)\d{2}", s) is not None
@@ -353,13 +379,13 @@ def summarize_content(model, tokenizer, content: str, device="cuda", max_new_tok
     )
     messages = [{"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}]
-    
+
     input_ids = tokenizer.apply_chat_template(
-        messages, 
-        add_generation_prompt=True, 
+        messages,
+        add_generation_prompt=True,
         return_tensors="pt",
-        truncation=True, 
-        max_length=2048, 
+        truncation=True,
+        max_length=2048,
         padding=True
     ).to(device)
 
@@ -387,15 +413,15 @@ def select_and_rank_references(
     references: List[str],
     device="cuda"
 ) -> List[Tuple[int, str]]:
-    
+
     max_main_content_length = 2000
     if len(main_content) > max_main_content_length:
         main_content = summarize_content(model, tokenizer, main_content, device=device)
         print(f"Content is too long, using summarized main content:\n{main_content[:500]}...\n")
-    
+
     references_text = "\n".join([f"[{i+1}] {ref}" for i, ref in enumerate(references)])
     # print(references_text)
-    
+
     prompt = (
        "Select the 5 most important references from the References list below based on the paper content. "
         "Output ONLY the 5 reference numbers in this exact format:\n"
@@ -415,10 +441,10 @@ def select_and_rank_references(
         {"role": "user", "content": prompt}
     ]
     inputs = tokenizer.apply_chat_template(
-        messages, 
-        add_generation_prompt=True, 
+        messages,
+        add_generation_prompt=True,
         return_tensors="pt",
-        truncation=True, 
+        truncation=True,
         max_length=4096
     ).to(device)
 
@@ -437,7 +463,7 @@ def select_and_rank_references(
 
     response = tokenizer.decode(generated_tokens, skip_special_tokens=True).strip()
     print("LLM Response:", response)
-    
+
     selected_refs = []
     pattern = r'(\d+)\.\s*\[(\d+)\]'
     matches = re.findall(pattern, response)
@@ -536,7 +562,7 @@ def process_single_pdf(pdf_path: str, model, tokenizer, device="cuda", extractor
             else:
                 print(f"ERROR: Invalid index {index} for reference list of length {len(references)}")
                 return None
-            
+
         if len(verified_refs) != 5:
             print(f"Verification failed: expected 5 references, got {len(verified_refs)}")
             return None
@@ -573,7 +599,7 @@ def batch_process_acl_papers(downloads_path: str = "Downloads", references_path:
     if not os.path.exists(downloads_path):
         print(f"Downloads folder not found: {downloads_path}")
         return
-    
+
     acl_folders = find_acl_folders(downloads_path)
 
     if not acl_folders:
@@ -671,13 +697,13 @@ def main():
     parser.add_argument("--single_pdf", help="Process a single PDF file (for testing)")
     parser.add_argument("--extractor", choices=["layout", "text"], default="layout", help="Reference extractor: layout (pdfplumber) or text (fallback)")
     parser.add_argument("--debug", action="store_true", help="Debug folder structure without processing")
-    
+
     args = parser.parse_args()
     if args.single_pdf:
         if not os.path.exists(args.single_pdf):
             print(f"PDF file not found: {args.single_pdf}")
             return
-        
+
         print("Loading DeepSeek model...")
         tokenizer, model = load_model(device=args.device)
 
