@@ -19,7 +19,6 @@ const DISPLAY_LABELS = {
 };
 
 const EPS = 1e-9;
-const NORMALIZE = 'unit-variance';
 let fieldStats = {};
 
 async function loadCSV(filePath) {
@@ -73,6 +72,7 @@ function setupCountryFilter() {
     });
 }
 
+// only use mean to do normalization，no variance/std
 function computeFieldStats() {
     fieldStats = {};
     const cols = ACTIVE_FIELDS;
@@ -80,13 +80,13 @@ function computeFieldStats() {
         const vals = data.map(r => parseFloat(r[cat])).filter(v => !isNaN(v) && v > 0);
         const n = vals.length;
         const mean = n ? vals.reduce((a,b)=>a+b,0)/n : 0;
-        const varSample = n>1 ? vals.reduce((a,b)=>a+(b-mean)*(b-mean),0)/(n-1) : 0;
-        const std = Math.sqrt(varSample);
-        fieldStats[cat] = { mean, std };
+        fieldStats[cat] = { mean };
     });
 }
 
 function setupFieldFilter() {
+    const container = document.getElementById('fieldCheckboxContainer');
+    
     // Add event listeners to all field checkboxes
     container.addEventListener('change', (e) => {
         if (e.target && e.target.classList.contains('field-checkbox')) {
@@ -171,14 +171,16 @@ function getRawScore(univ, field) {
     return isNaN(s) ? 0 : s;
 }
 
+// use mean
 function getNormalizedScore(univ, field) {
     const s = getRawScore(univ, field);
     if (!(s > 0)) return 0;
-    const stats = fieldStats[field] || { std: 1 };
-    const std = stats.std > EPS ? stats.std : 1;
-    return s / std;
+    const stats = fieldStats[field] || { mean: 1 };
+    const mean = stats.mean > EPS ? stats.mean : 1;
+    return s / mean;
 }
 
+// normalization faculy score
 function getFacultyForUniversity(universityName, selectedCategories) {
     // Filter faculty data for this university and selected categories
     const filteredFaculty = facultyData.filter(faculty => {
@@ -188,36 +190,48 @@ function getFacultyForUniversity(universityName, selectedCategories) {
         return matchesUniversity && matchesCategory;
     });
 
-    // Group by faculty name and sum scores
+    // Group by faculty name and calculate normalized scores
     const facultyMap = new Map();
     
     filteredFaculty.forEach(faculty => {
         const name = faculty['Faculty Name'] || 'Unknown';
-        const score = parseFloat(faculty.Score) || 0;
+        const rawScore = parseFloat(faculty.Score) || 0;        //raw score here
         const category = faculty.Category || 'Unknown';
+        
+        // normalization
+        const stats = fieldStats[category] || { mean: 1 };
+        const mean = stats.mean > EPS ? stats.mean : 1;
+        const normalizedScore = rawScore / mean;
         
         if (!facultyMap.has(name)) {
             facultyMap.set(name, {
                 name: name,
                 categories: [],
-                totalScore: 0
+                totalScore: 0,
+                categoryScores: {} // every category score after normalized
             });
         }
         
         const facultyInfo = facultyMap.get(name);
-        facultyInfo.totalScore += score;
+        facultyInfo.totalScore += normalizedScore; // add normalized score
         if (!facultyInfo.categories.includes(category)) {
             facultyInfo.categories.push(category);
         }
+        
+        if (!facultyInfo.categoryScores[category]) {
+            facultyInfo.categoryScores[category] = 0;
+        }
+        facultyInfo.categoryScores[category] += normalizedScore;
     });
     
-    // Convert to array and sort by total score
+    // Convert to array and sort by total normalized score
     const mergedFaculty = Array.from(facultyMap.values())
         .sort((a, b) => b.totalScore - a.totalScore);
     
     return mergedFaculty;
 }
 
+// expand-icon clickable
 function toggleUniversityDropdown(universityName, rowElement) {
     const isExpanded = expandedRows.has(universityName);
     
@@ -233,103 +247,91 @@ function toggleUniversityDropdown(universityName, rowElement) {
             chartRow.remove();
         }
         expandedRows.delete(universityName);
-        rowElement.querySelector('.expand-icon').innerHTML = '▶';
+        const expandIcon = rowElement.querySelector('.expand-icon');
+        if (expandIcon) {
+            expandIcon.innerHTML = '▶';
+            expandIcon.classList.remove('expanded');
+        }
     } else {
         // Expand: Add the details row
         const selectedCategories = getSelectedCategories();
-        const facultyList = getFacultyForUniversity(universityName, selectedCategories);
+        const faculty = getFacultyForUniversity(universityName, selectedCategories);
+        
+        if (faculty.length === 0) {
+            return;
+        }
         
         const detailsRow = document.createElement('tr');
         detailsRow.classList.add('faculty-details-row');
         
-        let facultyHTML = '<td colspan="3"><div class="faculty-details">';
+        // show normaliz_score
+        let facultyHTML = '<td colspan="3"><div class="faculty-details"><table class="faculty-table">';
+        facultyHTML += '<thead><tr><th>Faculty Name</th><th>Fields</th><th>Normalized Score</th></tr></thead>';
+        facultyHTML += '<tbody>';
         
-        if (facultyList.length > 0) {
-            facultyHTML += '<table class="faculty-table">';
-            
-            // Adjust header based on number of selected categories
-            const fieldHeader = selectedCategories.length === 1 ? 'Field' : 'Fields';
-            facultyHTML += `<thead><tr><th>Faculty Name</th><th>${fieldHeader}</th><th>Total Contribution</th></tr></thead>`;
-            facultyHTML += '<tbody>';
-            
-            facultyList.forEach(faculty => {
-                const fieldsDisplay = faculty.categories.join(', ');
-                facultyHTML += `
-                    <tr>
-                        <td>${faculty.name}</td>
-                        <td>${fieldsDisplay}</td>
-                        <td>${faculty.totalScore.toFixed(4)}</td>
-                    </tr>
-                `;
-            });
-            
-            facultyHTML += '</tbody></table>';
-        } else {
-            facultyHTML += '<p>No faculty data available for the selected fields.</p>';
-        }
+        faculty.forEach(f => {
+            const categories = f.categories.join(', ');
+            facultyHTML += `
+                <tr>
+                    <td>${f.name}</td>
+                    <td>${categories}</td>
+                    <td>${f.totalScore.toFixed(2)}</td>
+                </tr>
+            `;
+        });
         
-        facultyHTML += '</div></td>';
+        facultyHTML += '</tbody></table></div></td>';
         detailsRow.innerHTML = facultyHTML;
         
-        rowElement.insertAdjacentElement('afterend', detailsRow);
+        // Insert after current row
+        rowElement.parentNode.insertBefore(detailsRow, rowElement.nextSibling);
         expandedRows.add(universityName);
-        rowElement.querySelector('.expand-icon').innerHTML = '▼';
+        const expandIcon = rowElement.querySelector('.expand-icon');
+        if (expandIcon) {
+            expandIcon.innerHTML = '▼';
+            expandIcon.classList.add('expanded');
+        }
     }
 }
 
 function displayRankings() {
     showLoadingSpinner();
     
-    // Simulate loading delay for better UX
     setTimeout(() => {
-        const calculatedScores = [];
-        const seenUniversities = new Set();
-
-        data.forEach(university => {
-            const selectedCats = getSelectedCategories();
-
-            let totalScore = 0;
-            if (selectedCats.length >= 2) {
-                // Normalized harmonic mean for multiple fields
-                let denom = 0, count = 0;
-                selectedCats.forEach(cat => {
-                    const x = getNormalizedScore(university.University, cat);
-                    if (x > 0) { 
-                        denom += 1 / (x + EPS); 
-                        count++;
-                    }
-                });
-                totalScore = count > 0 ? (count / denom) : 0;
-            } else if (selectedCats.length === 1) {
-                // Raw score for single field
-                totalScore = getRawScore(university.University, selectedCats[0]);
-            } else {
-                totalScore = 0;
-            }
-
-            // Apply region filtering
-            if (selectedRegion !== 'all' && university.Continent) {
-                const continentMatch = university.Continent.trim().toLowerCase() === selectedRegion.toLowerCase();
-                if (!continentMatch) return;
-            }
+        const selectedCats = getSelectedCategories();
+        
+        if (selectedCats.length === 0) {
+            const tableBody = document.getElementById('rankingTable').querySelector('tbody');
+            tableBody.innerHTML = '<tr><td colspan="3" style="text-align: center; padding: 2rem; color: var(--gray-500);">Please select at least one research field</td></tr>';
+            updateStats([]);
+            hideLoadingSpinner();
+            return;
+        }
+        
+        let filtered = data.filter(d => {
+            const continent = (d.Continent || '').trim();
+            const country = (d.Country || '').trim();
             
-            // Apply countries filtering
-            if (selectedCountry !== 'all') {
-                const country = (university.Country || '').trim();
-                if (!country || country !== selectedCountry) return;
-            }
-
-            if (!seenUniversities.has(university.University) && totalScore > 0) {
-                calculatedScores.push({
-                    University: university.University,
-                    Continent: university.Continent || 'Unknown',
-                    Score: totalScore
-                });
-                seenUniversities.add(university.University);
-            }
+            const regionMatch = selectedRegion === 'all' || continent === selectedRegion;
+            const countryMatch = selectedCountry === 'all' || country === selectedCountry;
+            
+            return regionMatch && countryMatch;
         });
-
-        calculatedScores.sort((a, b) => b.Score - a.Score);
+        
+        // use normaliz_score to compute
+        const calculatedScores = filtered.map(university => {
+            const score = selectedCats.reduce((sum, field) => {
+                return sum + getNormalizedScore(university.University, field);
+            }, 0);
+            
+            return {
+                University: university.University,
+                Continent: university.Continent,
+                Country: university.Country,
+                Score: score
+            };
+        }).filter(u => u.Score > 0)
+          .sort((a, b) => b.Score - a.Score);
 
         lastFiltered = calculatedScores;
         updateStats(calculatedScores);
@@ -354,8 +356,8 @@ function displayAllRankings(data) {
         const universityCell = `
             <td class="rank-col">${rank}</td>
             <td class="institution-col university-name-cell">
-                <span class="expand-icon">▶</span>
-                <span class="university-name" title="View details" onclick="toggleUniversityDropdown('${university.University.replace(/'/g, "\\'")}', this.closest('tr'))">${university.University}</span>
+                <span class="expand-icon" onclick="toggleUniversityDropdown('${university.University.replace(/'/g, "\\'")}', this.closest('tr'))" title="Expand/Collapse">▶</span>
+                <span class="university-name" onclick="toggleUniversityDropdown('${university.University.replace(/'/g, "\\'")}', this.closest('tr'))" title="View details">${university.University}</span>
                 <span class="flag-icon ${flagClass}"></span>
                 ${chartIcon}
             </td>
@@ -422,10 +424,10 @@ function getFlagClass(continent) {
 function getGlobalMaxScore(selectedCats) {
     let globalMax = 0;
     
-    // Find the maximum score across all universities for the selected categories
+    // Find the maximum normalized score across all universities for the selected categories
     data.forEach(university => {
         selectedCats.forEach(field => {
-            const score = getRawScore(university.University, field);
+            const score = getNormalizedScore(university.University, field);
             if (score > globalMax) {
                 globalMax = score;
             }
@@ -452,12 +454,6 @@ function getTopFields(universityName, chartData, globalMaxScore) {
 }
 
 function getFieldDisplayName(field) {
-    // const displayNames = {
-    //     'Machine Learning': 'Machine Learning',
-    //     'Computer Vision & Image Processing': 'Computer Vision',
-    //     'Natural Language Processing': 'Natural Language Processing'
-    // };
-    // return displayNames[field] || field;
     return DISPLAY_LABELS[field] || field;
 }
 
@@ -465,6 +461,7 @@ function generateChartIcon(universityName) {
     return `<i class="fas fa-chart-bar chart-icon" onclick="toggleChartStats('${universityName.replace(/'/g, "\\'")}', this.closest('tr'))" title="View field statistics"></i>`;
 }
 
+// show normalized score in chart
 function toggleChartStats(universityName, row) {
     // Check if chart is already expanded (look in next sibling row)
     const nextRow = row.nextElementSibling;
@@ -479,7 +476,7 @@ function toggleChartStats(universityName, row) {
     const selectedCats = getSelectedCategories();
     const chartData = selectedCats.map(field => ({
         field: field,
-        score: getRawScore(universityName, field)
+        score: getNormalizedScore(universityName, field)
     })).filter(item => item.score > 0);
     
     if (chartData.length === 0) return;
@@ -488,14 +485,14 @@ function toggleChartStats(universityName, row) {
     const chartRow = document.createElement('tr');
     chartRow.classList.add('chart-stats-row');
     
-    // Use global maximum score for consistent scaling
+    // Use global maximum normalized score for consistent scaling
     const globalMaxScore = getGlobalMaxScore(selectedCats);
     
     // Check for top performers
     const topFields = getTopFields(universityName, chartData, globalMaxScore);
     
     let chartHTML = '<td colspan="3"><div class="chart-stats-container">';
-    chartHTML += '<h4>Field Statistics</h4>';
+    chartHTML += '<h4>Field Statistics (Normalized)</h4>';
     
     // Add top performer notice if any
     if (topFields.length > 0) {
@@ -537,7 +534,7 @@ function exportData() {
     }
     
     const csvContent = [
-        ['Rank', 'University', 'Continent', 'Impact Score'],
+        ['Rank', 'University', 'Continent', 'Normalized Impact Score'],
         ...lastFiltered.map((uni, index) => [
             index + 1,
             uni.University,
