@@ -410,6 +410,7 @@ function getActiveFilterCount() {
 }
 
 function getFlagClass(country) {
+    const normalizedCountry = (country || '').toLowerCase().trim();
     const flagMap = {
         // NA
         'united states': 'flag-us',
@@ -481,7 +482,7 @@ function getFlagClass(country) {
         'south africa': 'flag-za',
         'egypt': 'flag-eg',
     };
-    return flagMap[country] || 'flag-default';
+    return flagMap[normalizedCountry] || 'flag-default';
 }
 
 function getGlobalMaxScore(selectedCats) {
