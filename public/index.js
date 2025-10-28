@@ -411,19 +411,75 @@ function getActiveFilterCount() {
 
 function getFlagClass(country) {
     const flagMap = {
-        'United States': 'flag-us',
-        'USA': 'flag-us',
-        'Canada': 'flag-ca',
+        // NA
+        'united states': 'flag-us',
+        'usa': 'flag-us',
+        'us': 'flag-us',
+        'united states of america': 'flag-us',
+        'canada': 'flag-ca',
+        'mexico': 'flag-mx',
         
-        'United Kingdom': 'flag-gb',
-        'UK': 'flag-gb',
-        'Germany': 'flag-de',
-        'France': 'flag-fr',
+        // EU
+        'united kingdom': 'flag-gb',
+        'uk': 'flag-gb',
+        'england': 'flag-gb',
+        'scotland': 'flag-gb',
+        'wales': 'flag-gb',
+        'germany': 'flag-de',
+        'france': 'flag-fr',
+        'switzerland': 'flag-ch',
+        'netherlands': 'flag-nl',
+        'sweden': 'flag-se',
+        'italy': 'flag-it',
+        'spain': 'flag-es',
+        'belgium': 'flag-be',
+        'denmark': 'flag-dk',
+        'finland': 'flag-fi',
+        'norway': 'flag-no',
+        'austria': 'flag-at',
+        'ireland': 'flag-ie',
+        'poland': 'flag-pl',
+        'portugal': 'flag-pt',
+        'greece': 'flag-gr',
+        'czech republic': 'flag-cz',
+        'czechia': 'flag-cz',
+        'russia': 'flag-ru',
+        'russian federation': 'flag-ru',
         
-        'China': 'flag-cn',
-        'Japan': 'flag-jp',
+        // Asain
+        'china': 'flag-cn',
+        "people's republic of china": 'flag-cn',
+        'prc': 'flag-cn',
+        'japan': 'flag-jp',
+        'south korea': 'flag-kr',
+        'korea': 'flag-kr',
+        'republic of korea': 'flag-kr',
+        'singapore': 'flag-sg',
+        'india': 'flag-in',
+        'israel': 'flag-il',
+        'hong kong': 'flag-hk',
+        'taiwan': 'flag-tw',
+        'saudi arabia': 'flag-sa',
+        'united arab emirates': 'flag-ae',
+        'uae': 'flag-ae',
+        'thailand': 'flag-th',
+        'malaysia': 'flag-my',
+        'vietnam': 'flag-vn',
+        'indonesia': 'flag-id',
         
-        'Australia': 'flag-au',
+        // Oceania
+        'australia': 'flag-au',
+        'new zealand': 'flag-nz',
+        
+        // SA
+        'brazil': 'flag-br',
+        'argentina': 'flag-ar',
+        'chile': 'flag-cl',
+        'colombia': 'flag-co',
+        
+        // Africa
+        'south africa': 'flag-za',
+        'egypt': 'flag-eg',
     };
     return flagMap[country] || 'flag-default';
 }
