@@ -18,6 +18,7 @@ Alla Sheffer,University of British Columbia,CVPR,Computer Vision & Image Process
 Amir R. Zamir,EPFL,CVPR,Computer Vision & Image Processing,0.3409090909090909,CVPR2022_621_fulln.csv,Yes
 Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,0.25,CVPR2022_621_fulln.csv,Yes
 Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,0.3428571428571428,CVPR2022_621_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,1.1,CVPR2022_621_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.0909090909090909,CVPR2022_621_fulln.csv,Yes
 Andrés Bruhn,University of Stuttgart,CVPR,Computer Vision & Image Processing,0.25,CVPR2022_621_fulln.csv,Yes
 Angel X. Chang,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.3678321678321679,CVPR2022_621_fulln.csv,Yes
@@ -428,6 +429,7 @@ Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.4,CVPR2023_622_fulln.csv,Yes
 Anders Søgaard,University of Copenhagen,CVPR,Computer Vision & Image Processing,0.5,CVPR2023_622_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.25,CVPR2023_622_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,4.666666666666668,CVPR2023_622_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2023_622_fulln.csv,Yes
 Andreas Zell,University of Tübingen,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2023_622_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.5,CVPR2023_622_fulln.csv,Yes
@@ -1676,6 +1678,7 @@ Ambuj Tewari,University of Michigan,CVPR,Computer Vision & Image Processing,0.33
 Amir R. Zamir,EPFL,CVPR,Computer Vision & Image Processing,0.3928571428571428,CVPR2021_621_fulln.csv,Yes
 Amit K. Roy-Chowdhury,Univ. of California - Riverside,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_621_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_621_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,2.3166666666666664,CVPR2021_621_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.25,CVPR2021_621_fulln.csv,Yes
 Andrés Bruhn,University of Stuttgart,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_621_fulln.csv,Yes
 Angel X. Chang,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.2777777777777778,CVPR2021_621_fulln.csv,Yes
@@ -3970,6 +3973,7 @@ Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,
 Anderson de Rezende Rocha,UNICAMP,CVPR,Computer Vision & Image Processing,0.2,CVPR2020_618_fulln.csv,Yes
 Andrea Cavallaro,Queen Mary University of London,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2020_618_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.125,CVPR2020_618_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,1.95,CVPR2020_618_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,0.6666666666666666,CVPR2020_618_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.3928571428571428,CVPR2020_618_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.45,CVPR2020_618_fulln.csv,Yes
@@ -5283,7 +5287,7 @@ Takeo Kanade,Carnegie Mellon University,ECCV,Computer Vision & Image Processing,
 Tamara Broderick,Massachusetts Institute of Technology,ECCV,Computer Vision & Image Processing,0.5,ECCV2022_fulln.csv,Yes
 Tao Xiang 0002,University of Surrey,ECCV,Computer Vision & Image Processing,0.0833333333333333,ECCV2022_fulln.csv,Yes
 Tatsunori Hashimoto,Stanford University,ECCV,Computer Vision & Image Processing,0.0909090909090909,ECCV2022_fulln.csv,Yes
-Taylor Berg-Kirkpatrick,Univ. of California - San Diego,ECCV,Computer Vision & Image Processing,43.41666666666667,ECCV2022_fulln.csv,Yes
+Taylor Berg-Kirkpatrick,Univ. of California - San Diego,ECCV,Computer Vision & Image Processing,3.41666666666667,ECCV2022_fulln.csv,Yes
 Teresa Bernarda Ludermir,UFPE,ECCV,Computer Vision & Image Processing,2.6666666666666665,ECCV2022_fulln.csv,Yes
 Terrance E. Boult,UCCS,ECCV,Computer Vision & Image Processing,0.5,ECCV2022_fulln.csv,Yes
 Thanh-Toan Do,Monash University,ECCV,Computer Vision & Image Processing,0.1666666666666666,ECCV2022_fulln.csv,Yes
@@ -5393,6 +5397,7 @@ Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.4,CVPR2021_624_fulln.csv,Yes
 Andre Wibisono,Yale University,CVPR,Computer Vision & Image Processing,0.45,CVPR2021_624_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.4761904761904761,CVPR2021_624_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,2.4,CVPR2021_624_fulln.csv,Yes
 Andreas Nürnberger,University of Magdeburg,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_624_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.125,CVPR2021_624_fulln.csv,Yes
 Andrew Owens,University of Michigan,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_624_fulln.csv,Yes
@@ -6012,6 +6017,7 @@ Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,
 Anand Subramoney,Royal Holloway University of London,CVPR,Computer Vision & Image Processing,0.1428571428571428,CVPR2022_622_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,1.2,CVPR2022_622_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.25,CVPR2022_622_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,3.2333333333333334,CVPR2022_622_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.25,CVPR2022_622_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.25,CVPR2022_622_fulln.csv,Yes
 Andrew Owens,University of Michigan,CVPR,Computer Vision & Image Processing,1.5,CVPR2022_622_fulln.csv,Yes
@@ -7365,6 +7371,7 @@ Anastasios Roussos,University of Exeter,ICCV,Computer Vision & Image Processing,
 Anders Bjorholm Dahl,DTU,ICCV,Computer Vision & Image Processing,1.2,ICCV2021_1012_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ICCV,Computer Vision & Image Processing,0.2916666666666666,ICCV2021_1012_fulln.csv,Yes
 Andreas Bulling,University of Stuttgart,ICCV,Computer Vision & Image Processing,0.9166666666666666,ICCV2021_1012_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,4.066666666666667,ICCV2021_1012_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,0.4,ICCV2021_1012_fulln.csv,Yes
 Andreas Lanitis,Cyprus University of Technology,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2021_1012_fulln.csv,Yes
 Andreas Lehrmann,THWS,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2021_1012_fulln.csv,Yes
@@ -9034,6 +9041,7 @@ Anand Subramoney,Royal Holloway University of London,ICCV,Computer Vision & Imag
 Anastasios Roussos,University of Exeter,ICCV,Computer Vision & Image Processing,0.2,ICCV2023_1005_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,ICCV,Computer Vision & Image Processing,0.6000000000000001,ICCV2023_1005_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ICCV,Computer Vision & Image Processing,0.7440476190476191,ICCV2023_1005_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,5.9,ICCV2023_1005_fulln.csv,Yes
 Andreas Uhl,University of Salzburg,ICCV,Computer Vision & Image Processing,0.25,ICCV2023_1005_fulln.csv,Yes
 Andrew Markham,University of Oxford,ICCV,Computer Vision & Image Processing,0.6000000000000001,ICCV2023_1005_fulln.csv,Yes
 Andrew Nealen,University of Southern California,ICCV,Computer Vision & Image Processing,0.25,ICCV2023_1005_fulln.csv,Yes
@@ -10445,6 +10453,7 @@ Amos J. Storkey,University of Edinburgh,NEURIPS,Machine Learning,0.6666666666666
 Anand Subramoney,Royal Holloway University of London,NEURIPS,Machine Learning,0.2,NeurIPS2023_fulln.csv,Yes
 Anders Søgaard,University of Copenhagen,NEURIPS,Machine Learning,0.3666666666666667,NeurIPS2023_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,NEURIPS,Machine Learning,0.4166666666666666,NeurIPS2023_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.7428571428571429,NeurIPS2023_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.3333333333333333,NeurIPS2023_fulln.csv,Yes
 Andrej Risteski,Carnegie Mellon University,NEURIPS,Machine Learning,0.2,NeurIPS2023_fulln.csv,Yes
 Andrew McCallum,University of Massachusetts Amherst,NEURIPS,Machine Learning,0.0454545454545454,NeurIPS2023_fulln.csv,Yes
@@ -11452,6 +11461,7 @@ Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.2,CVPR2020_61
 Anders Krogh,University of Copenhagen,CVPR,Computer Vision & Image Processing,0.5,CVPR2020_617_fulln.csv,Yes
 Anderson de Rezende Rocha,UNICAMP,CVPR,Computer Vision & Image Processing,0.2,CVPR2020_617_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.1916666666666666,CVPR2020_617_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,1.5833333333333333,CVPR2020_617_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2020_617_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.25,CVPR2020_617_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.2,CVPR2020_617_fulln.csv,Yes
@@ -12047,6 +12057,7 @@ Anand Bhattad,Johns Hopkins University,CVPR,Computer Vision & Image Processing,0
 Ananya Kumar,University of Wisconsin - Madison,CVPR,Computer Vision & Image Processing,0.7250000000000001,CVPR2024_621_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.6000000000000001,CVPR2024_621_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.4968253968253968,CVPR2024_621_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,6.186111111111112,CVPR2024_621_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,0.1428571428571428,CVPR2024_621_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2024_621_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.25,CVPR2024_621_fulln.csv,Yes
@@ -12953,6 +12964,7 @@ Anant Sahai,Univ. of California - Berkeley,CVPR,Computer Vision & Image Processi
 Ananya Kumar,University of Wisconsin - Madison,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2022_623_fulln.csv,Yes
 Anders Krogh,University of Copenhagen,CVPR,Computer Vision & Image Processing,0.5,CVPR2022_623_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.5095238095238095,CVPR2022_623_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,2.0,CVPR2022_623_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.6000000000000001,CVPR2022_623_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.3666666666666666,CVPR2022_623_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.325,CVPR2022_623_fulln.csv,Yes
@@ -13659,6 +13671,7 @@ Anastasios Roussos,University of Exeter,ICCV,Computer Vision & Image Processing,
 Anders Bjorholm Dahl,DTU,ICCV,Computer Vision & Image Processing,0.4,ICCV2023_1006_fulln.csv,Yes
 Andrea Soltoggio,Loughborough University,ICCV,Computer Vision & Image Processing,0.25,ICCV2023_1006_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ICCV,Computer Vision & Image Processing,0.95,ICCV2023_1006_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,3.692857142857144,ICCV2023_1006_fulln.csv,Yes
 Andreas Lehrmann,THWS,ICCV,Computer Vision & Image Processing,0.1666666666666666,ICCV2023_1006_fulln.csv,Yes
 Andreas Zell,University of Tübingen,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2023_1006_fulln.csv,Yes
 Andrew Markham,University of Oxford,ICCV,Computer Vision & Image Processing,0.8166666666666667,ICCV2023_1006_fulln.csv,Yes
@@ -14487,6 +14500,7 @@ Amit H. Bermano,Tel Aviv University,CVPR,Computer Vision & Image Processing,0.33
 Amit K. Roy-Chowdhury,Univ. of California - Riverside,CVPR,Computer Vision & Image Processing,0.45,CVPR2024_620_fulln.csv,Yes
 Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2024_620_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,1.1333333333333333,CVPR2024_620_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,8.225000000000001,CVPR2024_620_fulln.csv,Yes
 Andreas Zell,University of Tübingen,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2024_620_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.7526315789473683,CVPR2024_620_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.9166666666666666,CVPR2024_620_fulln.csv,Yes
@@ -15453,6 +15467,7 @@ Andrea Soltoggio,Loughborough University,NEURIPS,Machine Learning,0.333333333333
 Andrea Tagliasacchi,Simon Fraser University,NEURIPS,Machine Learning,0.8011904761904761,NeurIPS2022_fulln.csv,Yes
 Andreas Dengel 0001,TU Kaiserslautern,NEURIPS,Machine Learning,0.1666666666666666,NeurIPS2022_fulln.csv,Yes
 Andreas Dräger,University of Tübingen,NEURIPS,Machine Learning,0.1111111111111111,NeurIPS2022_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,3.4333333333333345,NeurIPS2022_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,2.283333333333333,NeurIPS2022_fulln.csv,Yes
 Andreas Krause 0001,ETH Zurich,NEURIPS,Machine Learning,0.9166666666666664,NeurIPS2022_fulln.csv,Yes
 Andreas Lanitis,Cyprus University of Technology,NEURIPS,Machine Learning,0.5,NeurIPS2022_fulln.csv,Yes
@@ -17733,6 +17748,7 @@ Ananya Kumar,University of Wisconsin - Madison,CVPR,Computer Vision & Image Proc
 Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,0.2,CVPR2023_621_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.2,CVPR2023_621_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.6,CVPR2023_621_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,5.666666666666667,CVPR2023_621_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2023_621_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.2,CVPR2023_621_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.5333333333333333,CVPR2023_621_fulln.csv,Yes
@@ -18670,6 +18686,7 @@ Anders Bjorholm Dahl,DTU,ICCV,Computer Vision & Image Processing,0.6000000000000
 Andrea Cavallaro,Queen Mary University of London,ICCV,Computer Vision & Image Processing,0.8333333333333333,ICCV2021_1013_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ICCV,Computer Vision & Image Processing,1.4345238095238095,ICCV2021_1013_fulln.csv,Yes
 Andreas Dengel 0001,TU Kaiserslautern,ICCV,Computer Vision & Image Processing,0.25,ICCV2021_1013_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,7.7595238095238095,ICCV2021_1013_fulln.csv,Yes
 Andreas Lanitis,Cyprus University of Technology,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2021_1013_fulln.csv,Yes
 Andreas Schilling 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2021_1013_fulln.csv,Yes
 Andrew Calway,University of Bristol,ICCV,Computer Vision & Image Processing,0.2,ICCV2021_1013_fulln.csv,Yes
@@ -19809,6 +19826,7 @@ Anand Bhattad,Johns Hopkins University,CVPR,Computer Vision & Image Processing,0
 Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_622_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_622_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2021_622_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,3.700000000000001,CVPR2021_622_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2021_622_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_622_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.4,CVPR2021_622_fulln.csv,Yes
@@ -20416,6 +20434,7 @@ Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,
 Anand Bhattad,Johns Hopkins University,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_623_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.4,CVPR2021_623_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.5773809523809523,CVPR2021_623_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,1.95,CVPR2021_623_fulln.csv,Yes
 Andreas Krause 0001,ETH Zurich,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2021_623_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2021_623_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.325,CVPR2021_623_fulln.csv,Yes
@@ -21112,6 +21131,7 @@ Andrea De Lucia,University of Salerno,NEURIPS,Machine Learning,0.2,NeurIPS2020_f
 Andrea Tagliasacchi,Simon Fraser University,NEURIPS,Machine Learning,0.2,NeurIPS2020_fulln.csv,Yes
 Andreas Bulling,University of Stuttgart,NEURIPS,Machine Learning,0.2,NeurIPS2020_fulln.csv,Yes
 Andreas Galanis,University of Oxford,NEURIPS,Machine Learning,0.3333333333333333,NeurIPS2020_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.7333333333333334,NeurIPS2020_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.4242424242424242,NeurIPS2020_fulln.csv,Yes
 Andreas Krause 0001,ETH Zurich,NEURIPS,Machine Learning,2.583333333333333,NeurIPS2020_fulln.csv,Yes
 Andreas Moshovos,University of Toronto,NEURIPS,Machine Learning,0.1666666666666666,NeurIPS2020_fulln.csv,Yes
@@ -22838,6 +22858,7 @@ Andre Wibisono,Yale University,NEURIPS,Machine Learning,1.3333333333333333,NeurI
 Andrea Lockerd Thomaz,Georgia Institute of Technology,NEURIPS,Machine Learning,0.3333333333333333,NeurIPS2021_fulln.csv,Yes
 Andrea Paudice,Aarhus University,NEURIPS,Machine Learning,0.1428571428571428,NeurIPS2021_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,NEURIPS,Machine Learning,0.3333333333333333,NeurIPS2021_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.8690476190476191,NeurIPS2021_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,NEURIPS,Machine Learning,0.5333333333333333,NeurIPS2021_fulln.csv,Yes
 Andreas Krause 0001,ETH Zurich,NEURIPS,Machine Learning,2.1666666666666665,NeurIPS2021_fulln.csv,Yes
 Andreas Lehrmann,THWS,NEURIPS,Machine Learning,0.2,NeurIPS2021_fulln.csv,Yes
@@ -24675,6 +24696,7 @@ Anand Bhattad,Johns Hopkins University,CVPR,Computer Vision & Image Processing,0
 Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,0.6000000000000001,CVPR2024_619_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.6000000000000001,CVPR2024_619_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,1.7646825396825396,CVPR2024_619_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,3.025,CVPR2024_619_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,CVPR,Computer Vision & Image Processing,0.25,CVPR2024_619_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,CVPR,Computer Vision & Image Processing,0.25,CVPR2024_619_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.125,CVPR2024_619_fulln.csv,Yes
@@ -25455,6 +25477,7 @@ Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.4,CVPR2023_620_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,1.227777777777778,CVPR2023_620_fulln.csv,Yes
 Andrea Thomaz,Georgia Institute of Technology,CVPR,Computer Vision & Image Processing,0.25,CVPR2023_620_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,5.475000000000001,CVPR2023_620_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2023_620_fulln.csv,Yes
 Andreas Zell,University of Tübingen,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2023_620_fulln.csv,Yes
 Andrej Risteski,Carnegie Mellon University,CVPR,Computer Vision & Image Processing,0.2,CVPR2023_620_fulln.csv,Yes
@@ -26321,6 +26344,7 @@ Anand Subramoney,Royal Holloway University of London,ICCV,Computer Vision & Imag
 Ananya Kumar,University of Wisconsin - Madison,ICCV,Computer Vision & Image Processing,0.1428571428571428,ICCV2023_1004_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,ICCV,Computer Vision & Image Processing,0.6000000000000001,ICCV2023_1004_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ICCV,Computer Vision & Image Processing,0.1111111111111111,ICCV2023_1004_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ICCV,Computer Vision & Image Processing,3.2333333333333334,ICCV2023_1004_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,ICCV,Computer Vision & Image Processing,0.2,ICCV2023_1004_fulln.csv,Yes
 Andrew Markham,University of Oxford,ICCV,Computer Vision & Image Processing,0.125,ICCV2023_1004_fulln.csv,Yes
 Andrew McCallum,University of Massachusetts Amherst,ICCV,Computer Vision & Image Processing,0.3333333333333333,ICCV2023_1004_fulln.csv,Yes
@@ -27765,6 +27789,7 @@ Alexei A. Efros,Univ. of California - Berkeley,CVPR,Computer Vision & Image Proc
 Amir Rahmati,Stony Brook University,CVPR,Computer Vision & Image Processing,0.125,CVPR2021_625_fulln.csv,Yes
 Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,0.5,CVPR2021_625_fulln.csv,Yes
 Anders Bjorholm Dahl,DTU,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_625_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,0.25,CVPR2021_625_fulln.csv,Yes
 Andrew Markham,University of Oxford,CVPR,Computer Vision & Image Processing,0.2,CVPR2021_625_fulln.csv,Yes
 Andrew McCallum,University of Massachusetts Amherst,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2021_625_fulln.csv,Yes
 Andrew Owens,University of Michigan,CVPR,Computer Vision & Image Processing,0.75,CVPR2021_625_fulln.csv,Yes
@@ -28062,6 +28087,7 @@ Amos J. Storkey,University of Edinburgh,CVPR,Computer Vision & Image Processing,
 Anand Mishra 0001,IIT Jodhpur,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2022_624_fulln.csv,Yes
 Anastasios Roussos,University of Exeter,CVPR,Computer Vision & Image Processing,0.2,CVPR2022_624_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,CVPR,Computer Vision & Image Processing,0.75,CVPR2022_624_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,3.5761904761904764,CVPR2022_624_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,CVPR,Computer Vision & Image Processing,0.2,CVPR2022_624_fulln.csv,Yes
 Andreas Lanitis,Cyprus University of Technology,CVPR,Computer Vision & Image Processing,0.3333333333333333,CVPR2022_624_fulln.csv,Yes
 Andreas Lehrmann,THWS,CVPR,Computer Vision & Image Processing,0.1666666666666666,CVPR2022_624_fulln.csv,Yes
@@ -28714,6 +28740,7 @@ Amit K. Roy-Chowdhury,Univ. of California - Riverside,ECCV,Computer Vision & Ima
 Anastasios Roussos,University of Exeter,ECCV,Computer Vision & Image Processing,0.4,ECCV2020_fulln.csv,Yes
 Andrea Tagliasacchi,Simon Fraser University,ECCV,Computer Vision & Image Processing,0.1428571428571428,ECCV2020_fulln.csv,Yes
 Andreas Dengel 0001,TU Kaiserslautern,ECCV,Computer Vision & Image Processing,0.3333333333333333,ECCV2020_fulln.csv,Yes
+Andreas Geiger 0001,University of Tübingen,ECCV,Computer Vision & Image Processing,0.3333333333333333,ECCV2020_fulln.csv,Yes
 Andreas Geiger 0001,University of Tübingen,ECCV,Computer Vision & Image Processing,0.4444444444444444,ECCV2020_fulln.csv,Yes
 Andrew Gordon Wilson,New York University,ECCV,Computer Vision & Image Processing,0.5,ECCV2020_fulln.csv,Yes
 Andrew J. Davison,Imperial College London,ECCV,Computer Vision & Image Processing,0.5909090909090909,ECCV2020_fulln.csv,Yes

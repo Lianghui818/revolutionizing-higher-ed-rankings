@@ -350,7 +350,7 @@ function displayAllRankings(data) {
         row.classList.add('university-row', 'fade-in');
         
         const rank = index + 1;
-        const flagClass = getFlagClass(university.Continent);
+        const flagClass = getFlagClass(university.Country);
         const chartIcon = generateChartIcon(university.University);
         
         const universityCell = `
@@ -409,16 +409,23 @@ function getActiveFilterCount() {
     return count;
 }
 
-function getFlagClass(continent) {
+function getFlagClass(country) {
     const flagMap = {
-        'North America': 'flag-us',
-        'Europe': 'flag-gb',
-        'Asia': 'flag-cn',
-        'Africa': 'flag-default',
-        'Australasia': 'flag-au',
-        'South America': 'flag-default'
+        'United States': 'flag-us',
+        'USA': 'flag-us',
+        'Canada': 'flag-ca',
+        
+        'United Kingdom': 'flag-gb',
+        'UK': 'flag-gb',
+        'Germany': 'flag-de',
+        'France': 'flag-fr',
+        
+        'China': 'flag-cn',
+        'Japan': 'flag-jp',
+        
+        'Australia': 'flag-au',
     };
-    return flagMap[continent] || 'flag-default';
+    return flagMap[country] || 'flag-default';
 }
 
 function getGlobalMaxScore(selectedCats) {
