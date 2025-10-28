@@ -4,85 +4,154 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 	<script src="index.js" charset="utf-8" defer></script>
-    <title>Your Website</title>
+    <title>AI Research Impact Rankings - UI Demo</title>
 </head>
 <body>
     <header class="main-header">
-        <h1>Research Impact Rankings</h1>
-        <!-- <h4><a href="https://github.com/Lianghui818/revolutionizing-higher-ed-rankings">GitHub Repository</a></h3> -->
-        <h4>Rankings are measured through impact that the school's publications have made to the field of computer science. Each impactful publication gets assigned one point. The one point gets divided and assigned to universities according to the authors affiliations.</h3>
+        <div class="header-content">
+            <div class="header-main">
+                <h1><i class="fas fa-chart-line"></i> AI Research Impact Rankings</h1>
+                <p class="header-subtitle">Metrics-based ranking of computer science institutions</p>
+            </div>
+            <div class="header-actions">
+                <a href="https://github.com/Lianghui818/revolutionizing-higher-ed-rankings" class="github-link" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+            </div>
+        </div>
+        <div class="header-description">
+            <p>Rankings are measured through the impact that each school's publications have made to the field of computer science. Each impactful publication gets assigned one point, divided among universities according to author affiliations.</p>
+        </div>
     </header>
-    <main >
-            <div class="content">
-                <div class="filter-container">
-                    <h3 class="align-left">
-                        ○ Filter by Area
-                    </h3>
-                    <select id="regionFilter" class="filter-select">
-                        <option value="all">All Regions</option>
-                        <option value="Africa">Africa</option>
-                        <option value="Asia">Asia</option>
-                        <option value="Australasia">Australasia</option>
-                        <option value="Europe">Europe</option>
-                        <option value="North America">North America</option>
-                        <option value="South America">South America</option>
-                    </select>
+    <main>
+        <div class="content">
+            <div class="filter-sidebar">
+                <div class="filter-section">
+                    <h3><i class="fas fa-globe"></i> Geographic Filters</h3>
+                    
+                    <div class="filter-group">
+                        <label for="regionFilter" class="filter-label">
+                            <i class="fas fa-map"></i> Region
+                        </label>
+                        <select id="regionFilter" class="filter-select">
+                            <option value="all">All Regions</option>
+                            <option value="Africa">Africa</option>
+                            <option value="Asia">Asia</option>
+                            <option value="Australasia">Australasia</option>
+                            <option value="Europe">Europe</option>
+                            <option value="North America">North America</option>
+                            <option value="South America">South America</option>
+                        </select>
+                    </div>
 
-                    <h3 class="align-left">
-                        ○ Filter by Country
-                    </h3>
-                    <select id="countryFilter" class="filter-select">
-                    <option value="all">All Countries</option>
-                    </select>
+                    <div class="filter-group">
+                        <label for="countryFilter" class="filter-label">
+                            <i class="fas fa-flag"></i> Country
+                        </label>
+                        <select id="countryFilter" class="filter-select">
+                            <option value="all">All Countries</option>
+                        </select>
+                    </div>
+                </div>
 
-                    <div class="divider"></div>
-
-                    <div class="field-container">
-                    <h3 class="align-left">
-                        ○ Filter by Field
-                    </h3>
-                    <font face="Arial" size="0.1">
-                        
-                        <div class="button-container">
-                            <button id="toggleAll" class="toggle-button" onclick="toggleAllCheckboxes()">Select All</button>
+                <div class="filter-section">
+                    <h3><i class="fas fa-microscope"></i> Research Fields</h3>
+                    
+                    <div class="filter-group">
+                        <div class="filter-header">
+                            <label class="filter-label">
+                                <i class="fas fa-list"></i> Fields
+                            </label>
+                            <button id="toggleAllFields" class="toggle-button-small" onclick="toggleAllFields()">
+                                All
+                            </button>
+                        </div>
+                        <div class="field-checkboxes" id="fieldCheckboxContainer">
+                            <!-- Checkboxes will be dynamically generated here -->
                         </div>
                     </div>
-                        <table id="filterTable">
-                            <thead>
-                                <!-- <tr>
-                                    <th style="text-align: center"> Filter by Field</th>
-                                    <th style="width:15%"> </th>
-                                </tr> -->
-                            </thead>
-                            <tbody>
-                            </tbody>
-                        </table>
-                    </font>
                 </div>
-                
-
-                <div class="table-container">
-                <table id="rankingTable">
-                    <thead>
-                        <tr>
-                            <th>Rank</th>
-                            <th>Institution</th>
-                            <th>Publication Score</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        
-                    </tbody>
-            </table>
-            <div class="pagination-container">
-                <button id="prevPage" onclick="prevPage()">Previous</button>
-                <span id="pageIndicator"></span>
-                <button id="nextPage" onclick="nextPage()">Next</button>
             </div>
-        </div>         
-</main>
 
+            <div class="results-container">
+                <div class="results-header">
+                    <div class="results-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-university"></i>
+                            <span id="totalUniversities">0</span>
+                            <label>Universities</label>
+                        </div>
+                        <div class="stat-item">
+                            <i class="fas fa-chart-line"></i>
+                            <span id="totalScore">0</span>
+                            <label>Total Impact Score</label>
+                        </div>
+                        <div class="stat-item">
+                            <i class="fas fa-filter"></i>
+                            <span id="activeFilters">0</span>
+                            <label>Active Filters</label>
+                        </div>
+                    </div>
+                    <div class="results-actions">
+                        <button class="export-btn" onclick="exportData()">
+                            Export CSV
+                        </button>
+                    </div>
+                </div>
+
+                <div class="table-wrapper">
+                    <div class="loading-spinner" id="loadingSpinner">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <span>Loading rankings...</span>
+                    </div>
+                    
+                    <table id="rankingTable" class="rankings-table">
+                        <thead>
+                            <tr>
+                                <th class="rank-col">Rank</th>
+                                <th class="institution-col">Institution</th>
+                                <th class="score-col">Impact Score</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rankings will be populated here -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="scroll-info">
+                    <span class="results-count">Showing <span id="totalCount">0</span> results</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <p>&copy; 2024 AI Research Impact Rankings. Built with ❤️ for academic transparency.</p>
+            <div class="footer-links">
+                <a href="https://github.com/Lianghui818/revolutionizing-higher-ed-rankings" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                <a href="#" onclick="showAbout()">
+                    <i class="fas fa-info-circle"></i> About
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- UI Improvement Demo Notice -->
+    <div class="demo-notice">
+        <div class="demo-content">
+            <i class="fas fa-palette"></i>
+            <span>UI/UX Demo - CSRankings Inspired Design</span>
+            <button onclick="toggleDemoNotice()" class="close-demo">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
 </body>
 </html>
-

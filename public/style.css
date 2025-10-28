@@ -569,119 +569,203 @@ body {
     gap: var(--spacing-2);
 }
 
+/* 修改5: 使expand-icon可点击并添加动画 */
 .expand-icon {
-    cursor: pointer;
-    color: var(--primary-color);
+    color: var(--gray-400);
+    transition: var(--transition-fast);
     font-size: var(--font-size-sm);
-    transition: transform var(--transition-fast);
-    display: inline-block;
     width: 16px;
     text-align: center;
-    user-select: none;
-}
-
-.expand-icon:hover {
-    color: var(--primary-dark);
+    cursor: pointer;  /* 新增：使其可点击 */
+    user-select: none;  /* 新增：防止文本选择 */
 }
 
 .expand-icon.expanded {
-    transform: rotate(90deg);
+    transform: rotate(90deg);  /* 新增：展开时旋转90度 */
+}
+
+.university-name-cell:hover .expand-icon {
+    color: var(--primary-color);
 }
 
 .university-name {
-    font-weight: 500;
     color: var(--gray-800);
-    cursor: pointer;
+    text-decoration: none;
+    font-weight: 500;
     transition: var(--transition-fast);
+    cursor: pointer;
 }
 
 .university-name:hover {
     color: var(--primary-color);
+    text-decoration: underline;
 }
 
 .flag-icon {
-    width: 20px;
-    height: 14px;
-    border-radius: 2px;
     display: inline-block;
+    width: 16px;
+    height: 12px;
+    border-radius: 2px;
     background-size: cover;
     background-position: center;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
 }
 
-.flag-us {
-    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAwIDM5MDAiPjxwYXRoIGZpbGw9IiNiMjIyMzQiIGQ9Ik0wIDBoNzUwMHYzOTAwSDB6Ii8+PHBhdGggZD0iTTAgMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgwem0wIDYwMGg3NTAwdjMwMEgweiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiMzYzNiNmUiIGQ9Ik0wIDBoMzAwMHYyMTAwSDB6Ii8+PC9zdmc+');
-}
-
-.flag-gb {
-    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBkPSJNMCAwdjMwaDYwVjB6Ii8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImIiPjxwYXRoIGQ9Ik0zMCAxNWgzMHYxNXpNMzAgMTVWMzB6TTMwIDE1SDB6TTMwIDE1VjB6Ii8+PC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYSkiPjxwYXRoIGQ9Ik0wIDBoNjB2MzBIMHoiIGZpbGw9IiMwMTIxNjkiLz48cGF0aCBkPSJNMCAwbDYwIDMwbTAgMEwwIDMwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNiIvPjxwYXRoIGQ9Ik0wIDBsNjAgMzBtMC0zMEwwIDMwIiBjbGlwLXBhdGg9InVybCgjYikiIHN0cm9rZT0iI0MxMDgxNSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBhdGggZD0iTTMwIDB2MzBNMCAxNWg2MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEwIi8+PHBhdGggZD0iTTMwIDB2MzBNMCAxNWg2MCIgc3Ryb2tlPSIjQzEwODE1IiBzdHJva2Utd2lkdGg9IjYiLz48L2c+PC9zdmc+');
-}
-
-.flag-cn {
-    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI+PHBhdGggZmlsbD0iI2RlMjkxMCIgZD0iTTAgMGgzMHYyMEgweiIvPjxwYXRoIGZpbGw9IiNmZmRlMDAiIGQ9Ik03LjUgM2wtLjU1IDEuNyAxLjQ1LTEuMDVoLTEuOGwxLjQ1IDEuMDV6bTMuMTUgMi41bC0uNTUgMS43IDEuNDUtMS4wNWgtMS44bDEuNDUgMS4wNXptMiAyLjU1bC0uNTUgMS43IDEuNDUtMS4wNWgtMS44bDEuNDUgMS4wNXptLTIgMi4wNWwtLjU1IDEuNyAxLjQ1LTEuMDVoLTEuOGwxLjQ1IDEuMDV6bS0zLjE1IDEuNWwtLjU1IDEuNyAxLjQ1LTEuMDVoLTEuOGwxLjQ1IDEuMDV6Ii8+PC9zdmc+');
-}
-
-.flag-au {
-    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgMjU2Ij48cGF0aCBmaWxsPSIjMDEyMTY5IiBkPSJNMCAwaDUxMnYyNTZIMHoiLz48L3N2Zz4=');
-}
-
-.flag-default {
-    background: var(--gray-300);
-    position: relative;
-}
-
-.flag-default::after {
-    content: '🏳️';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 10px;
-}
+.flag-us { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="%23B22234"/><rect width="16" height="1" fill="white"/><rect width="16" height="1" y="2" fill="white"/><rect width="16" height="1" y="4" fill="white"/><rect width="16" height="1" y="6" fill="white"/><rect width="16" height="1" y="8" fill="white"/><rect width="16" height="1" y="10" fill="white"/><rect width="6.4" height="7" fill="%230033A0"/></svg>'); }
+.flag-cn { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="%23DE2910"/><g fill="%23FFDE00"><path d="M2.4 2.4l.8.6-.3.9.8-.6.8.6-.3-.9.8-.6h-1l-.3-.9-.3.9z"/><path d="M4.8 1.2l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M6.4 2.4l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M7.2 4.8l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M6.4 7.2l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M4.8 8.8l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M3.2 7.2l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/><path d="M2.4 4.8l.4.3-.15.45.4-.3.4.3-.15-.45.4-.3h-.5l-.15-.45-.15.45z"/></g></svg>'); }
+.flag-gb { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="%23012169"/><path d="M0 0v12h16V0H0zm8 0v12M0 6h16" stroke="white" stroke-width="2"/><path d="M0 0v12h16V0H0zm8 0v12M0 6h16" stroke="%23C8102E" stroke-width="1"/><path d="M0 0l16 12M16 0L0 12" stroke="white" stroke-width="3"/><path d="M0 0l16 12M16 0L0 12" stroke="%23C8102E" stroke-width="1.5"/></svg>'); }
+.flag-de { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="4" fill="%23000000"/><rect width="16" height="4" y="4" fill="%23DD0000"/><rect width="16" height="4" y="8" fill="%23FFCE00"/></svg>'); }
+.flag-fr { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="5.33" height="12" fill="%2300257F"/><rect width="5.33" height="12" x="5.33" fill="white"/><rect width="5.33" height="12" x="10.67" fill="%23ED2939"/></svg>'); }
+.flag-jp { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="white"/><circle cx="8" cy="6" r="2.4" fill="%23BC002D"/></svg>'); }
+.flag-ca { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="%23FF0000"/><rect width="4" height="12" fill="white"/><rect width="2" height="12" x="7" fill="white"/><path d="M8 2l1 1-1 1-1-1zM8 6l1 1-1 1-1-1zM8 10l1 1-1 1-1-1z" fill="%23FF0000"/></svg>'); }
+.flag-au { background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12"><rect width="16" height="12" fill="%23000008"/><path d="M0 0l8 6L0 12V0z" fill="%2300008B"/><path d="M0 0l8 6L0 12V0z" fill="%23FF0000"/><path d="M0 0l8 6L0 12V0z" fill="white"/><circle cx="2" cy="2" r="1" fill="white"/><circle cx="2" cy="10" r="1" fill="white"/><circle cx="6" cy="6" r="1" fill="white"/></svg>'); }
+.flag-default { background: var(--gray-300); }
 
 .chart-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
     cursor: pointer;
-    color: var(--secondary-color);
+    color: var(--primary-color);
     transition: var(--transition-fast);
-    margin-left: auto;
+    flex-shrink: 0;
 }
 
 .chart-icon:hover {
-    color: var(--primary-color);
+    color: var(--primary-dark);
+    transform: scale(1.1);
 }
 
 .score-value {
-    font-size: var(--font-size-base);
-    color: var(--primary-color);
+    font-weight: 600;
+    color: var(--gray-800);
 }
 
 /* Chart Stats */
 .chart-stats-row {
     background: var(--gray-50);
+    border-top: 1px solid var(--gray-200);
 }
 
 .chart-stats-container {
-    padding: var(--spacing-4);
-    border: 1px solid var(--gray-200);
-    border-radius: var(--radius-sm);
+    padding: var(--spacing-2);
     background: white;
-    margin: var(--spacing-2);
+    border-radius: var(--radius-sm);
+    margin: var(--spacing-1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
 }
 
 .chart-stats-container h4 {
-    font-size: var(--font-size-sm);
-    color: var(--gray-700);
-    margin-bottom: var(--spacing-3);
+    margin: 0 0 var(--spacing-1) 0;
+    color: var(--gray-800);
+    font-size: var(--font-size-xs);
     font-weight: 600;
 }
 
+.top-performer-notice {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-1);
+    margin-bottom: var(--spacing-2);
+    padding: var(--spacing-1) var(--spacing-2);
+    background: linear-gradient(135deg, #fbbf24, #f59e0b);
+    color: white;
+    border-radius: var(--radius-xs);
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 1px 3px rgba(251, 191, 36, 0.3);
+}
+
+.top-performer-notice i {
+    font-size: 10px;
+}
+
+/* Chart Scale */
 .chart-scale {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin-bottom: var(--spacing-2);
+    padding: var(--spacing-1) var(--spacing-2);
+    background: var(--gray-50);
+    border-radius: var(--radius-xs);
+    border: 1px solid var(--gray-200);
 }
 
 .scale-label {
+    font-size: 9px;
+    color: var(--gray-600);
+    font-weight: 500;
+}
+
+.chart-bars {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+    min-width: 400px; /* Reduced minimum width */
+}
+
+.chart-bar-item {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-2);
+    margin-bottom: var(--spacing-1);
+}
+
+.chart-bar-label {
+    min-width: 120px;
+    max-width: 120px;
+    font-size: 10px;
+    color: var(--gray-700);
+    font-weight: 500;
+    text-align: right;
+    padding-right: var(--spacing-1);
+}
+
+.chart-bar-container {
+    flex: 1;
+    position: relative;
+    height: 18px;
+    background: var(--gray-100);
+    border-radius: var(--radius-sm);
+    overflow: visible;
+    margin-right: 60px; /* Reduced space for value */
+    border: 1px solid var(--gray-200);
+}
+
+.chart-bar-container::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+        linear-gradient(to right, var(--gray-300) 1px, transparent 1px),
+        linear-gradient(to bottom, var(--gray-300) 1px, transparent 1px);
+    background-size: 15px 18px;
+    opacity: 0.2;
+    pointer-events: none;
+}
+
+.chart-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #3b82f6, #60a5fa, #93c5fd);
+    border-radius: var(--radius-sm);
+    transition: width 0.5s ease;
+    position: relative;
+    min-width: 0; /* Ensure bars start from 0 */
+    box-shadow: 0 1px 3px rgba(59, 130, 246, 0.3);
+    border: 1px solid rgba(59, 130, 246, 0.2);
+}
+
+.chart-bar-value {
+    position: absolute;
+    right: -65px;
+    top: 50%;
+    transform: translateY(-50%);
     font-size: 9px;
     color: var(--gray-700);
     font-weight: 600;
@@ -696,70 +780,12 @@ body {
     z-index: 10;
 }
 
-.chart-bars {
-    display: flex;
-    flex-direction: column;
-    gap: var(--spacing-2);
-}
-
-.chart-bar-item {
-    display: flex;
-    flex-direction: column;
-    gap: var(--spacing-1);
-}
-
-.chart-bar-label {
-    font-size: var(--font-size-xs);
-    color: var(--gray-700);
-    font-weight: 500;
-}
-
-.chart-bar-container {
-    display: flex;
-    align-items: center;
-    gap: var(--spacing-2);
-    position: relative;
-}
-
-.chart-bar {
-    height: 24px;
-    background: linear-gradient(90deg, var(--primary-color) 0%, var(--primary-light) 100%);
-    border-radius: var(--radius-sm);
-    transition: width var(--transition-normal);
-    min-width: 2px;
-}
-
-.chart-bar-value {
-    font-size: var(--font-size-xs);
-    color: var(--gray-700);
-    font-weight: 600;
-    min-width: 40px;
-    text-align: right;
-}
-
-.top-performer-notice {
-    display: flex;
-    align-items: center;
-    gap: var(--spacing-2);
-    padding: var(--spacing-2) var(--spacing-3);
-    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-    border-left: 3px solid var(--warning-color);
-    border-radius: var(--radius-sm);
-    margin-bottom: var(--spacing-3);
-    font-size: var(--font-size-xs);
-    color: var(--gray-700);
-}
-
-.top-performer-notice i {
-    color: var(--warning-color);
-    font-size: var(--font-size-sm);
-}
-
 /* Faculty Details */
 .faculty-details-row {
     background: var(--gray-50);
 }
 
+/* 修改5: 增大faculty详情区域的高度 */
 .faculty-details {
     max-height: 400px;
     overflow-y: auto;
